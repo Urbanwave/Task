@@ -18,9 +18,9 @@ namespace Songs.Controllers
         {           
 
             return View(new MainPageModel(Context.Singers
-                .OrderBy(s => s.ViewsAmount)
+                .OrderByDescending(s => s.ViewsAmount)
                 .Skip((page - 1) * 30)
-                .Take(30).Distinct().ToList()));
+                .Take(30).ToList()));
         }
 
         public ActionResult About()
