@@ -5,17 +5,22 @@ using System.Web;
 using System.Web.Mvc;
 using Songs.Models.DBModels;
 using Songs.Services.ParsingService;
+using Songs.Models.ViewModels;
 
 namespace Songs.Controllers
 {
     public class HomeController : Controller
     {
-        public ActionResult Index()
-        {
 
-            ParseSingers parseSingers = new ParseSingers();
+        DBContext Context = new DBContext();
 
-            return View();
+        public ActionResult Index(int page = 1)
+        {           
+
+            return View(new MainPageModel(Context.Singers
+                .OrderBy(s => s.ViewsAmount)
+                .Skip((page - 1) * 30)
+                .Take(30).Distinct().ToList()));
         }
 
         public ActionResult About()
