@@ -11,13 +11,12 @@ namespace Songs.Services.ParsingService
 {
     public class ParseSingers
     {
-        public List<string> ParseSingersName(int pageamount)
+        public List<string> AllSingersNames = new List<string>();
+        public List<string> AllSingerSongsAmountAndViews = new List<string>();
+        public List<string> AllSingerDiscriptions = new List<string>();
+
+        public void ParseSingersName(int pageamount)
         {
-            DBContext context = new DBContext();
-
-            List<string> SingersNames = new List<string>();
-            List<string> SingersDiscription = new List<string>();
-
             HtmlWeb webDoc = new HtmlWeb();
             HtmlDocument doc = new HtmlDocument();
             HtmlDocument discriptiondoc = new HtmlDocument();
@@ -36,38 +35,29 @@ namespace Songs.Services.ParsingService
                     {
                         if (HN.Attributes["class"].Value != null)
                         {
+                            if (HN.Attributes["class"].Value == "number")
+                            {
+                                AllSingerSongsAmountAndViews.Add(HN.InnerText.Replace(",",""));
+                            }
+
                             if (HN.Attributes["class"].Value == "artist_name")
                             {
                                 foreach (var a in HN.ChildNodes)
                                 {
                                     if (a.Name == "a")
                                     {
-                                        discriptiondoc = webDoc.Load("http:" + a.Attributes["href"].Value);
-                                        div = discriptiondoc.DocumentNode.SelectNodes("//div[@class='artist-profile__bio']");
-                                       
-                                            foreach (HtmlNode disc in div)
-                                            {
-                                                SingersDiscription.Add(disc.InnerText);
-                                            }
-
-                                        SingersNames.Add(a.InnerText);
+                                        AllSingersNames.Add(a.InnerText);
                                     }
                                 }
                             }
                         }
                     }
                 }
-                Thread.Sleep(60000);
             }
-            return SingersNames;
         }
 
-        public List<string> ParseSingersBiography(int pageamount)
+        public void ParseSingersBiography(int pageamount)
         {
-            DBContext context = new DBContext();
-
-            List<string> SingersDiscription = new List<string>();
-
             HtmlWeb webDoc = new HtmlWeb();
             HtmlDocument doc = new HtmlDocument();
             HtmlDocument discriptiondoc = new HtmlDocument();
@@ -89,7 +79,7 @@ namespace Songs.Services.ParsingService
                             if (HN.Attributes["class"].Value == "artist_name")
                             {
                                 foreach (var a in HN.ChildNodes)
-                                {
+                                {                             
                                     if (a.Name == "a")
                                     {
                                         discriptiondoc = webDoc.Load("http:" + a.Attributes["href"].Value);
@@ -97,7 +87,7 @@ namespace Songs.Services.ParsingService
 
                                         foreach (HtmlNode disc in div)
                                         {
-                                            SingersDiscription.Add(disc.InnerText);
+                                            AllSingerDiscriptions.Add(disc.InnerText);
                                         }
                                     }
                                 }
@@ -107,49 +97,43 @@ namespace Songs.Services.ParsingService
                 }
                 Thread.Sleep(60000);
             }
-            return SingersDiscription;
         }
 
-        public List<string> ParseSingersViews(int pageamount)
+        //public List<string> ParseSingersViews(int pageamount)
+        //{
+        //    List<string> SingersSongsCountAndViews = new List<string>();
+        //    HtmlWeb webDoc = new HtmlWeb();
+        //    HtmlDocument doc = new HtmlDocument();
+
+        //    for (int i = 1; i <= pageamount; i++)
+        //    {
+        //        string id = i.ToString();
+        //        string url = "http://amdm.ru/chords/page" + id;
+        //        doc = webDoc.Load(url);
+        //        HtmlNodeCollection tr = doc.DocumentNode.SelectNodes("//table[@class='items']//tr//td");
+
+        //        if (tr != null)
+        //        {
+        //            foreach (HtmlNode HN in tr)
+        //            {
+        //                if (HN.Attributes["class"].Value != null)
+        //                {
+        //                    if (HN.Attributes["class"].Value == "number")
+        //                    {
+        //                        SingersSongsCountAndViews.Add(HN.InnerText);
+        //                    }
+        //                }
+        //            }
+        //        }
+        //        Thread.Sleep(60000);
+        //    }
+        //    return SingersSongsCountAndViews;
+        //}
+
+        public ParseSingers()
         {
-            List<string> SingersSongsCountAndViews = new List<string>();
-            HtmlWeb webDoc = new HtmlWeb();
-            HtmlDocument doc = new HtmlDocument();
-
-            for (int i = 1; i <= pageamount; i++)
-            {
-                string id = i.ToString();
-                string url = "http://amdm.ru/chords/page" + id;
-                doc = webDoc.Load(url);
-                HtmlNodeCollection tr = doc.DocumentNode.SelectNodes("//table[@class='items']//tr//td");
-
-                if (tr != null)
-                {
-                    foreach (HtmlNode HN in tr)
-                    {
-                        if (HN.Attributes["class"].Value != null)
-                        {
-                            if (HN.Attributes["class"].Value == "number")
-                            {
-                                SingersSongsCountAndViews.Add(HN.InnerText);
-                            }
-                        }
-                    }
-                }
-                Thread.Sleep(60000);
-            }
-            return SingersSongsCountAndViews;
-        }
-
-        public void ParseAllSingers()
-        {
-            List <string> AllSingersNames = new List<string>();
-            List <string> AllSingerSongsAmountAndViews = new List<string>();
-            List <string> AllSingerDiscriptions = new List<string>();
-
-            AllSingersNames = ParseSingersName(10);   
-            AllSingerSongsAmountAndViews = ParseSingersViews(10);
-            AllSingerDiscriptions = ParseSingersBiography(10);
+            ParseSingersName(10);   
+            ParseSingersBiography(10);
 
             using (DBContext context = new DBContext())
             {
@@ -171,9 +155,9 @@ namespace Songs.Services.ParsingService
                         Singer.ViewsAmount = Convert.ToInt32(AllSingerSongsAmountAndViews[i * 2 + 1]);
                     }
 
-                    context.Singers.Add(Singer);                                
+                    context.Singers.Add(Singer);
+                    context.SaveChanges();
                 }
-                context.SaveChanges();
             }
         }
     }

@@ -12,13 +12,8 @@ namespace Songs.Controllers
     {
         public ActionResult Index()
         {
-            DBContext context = new DBContext();
-            context.Singers.Add(new SingerModel());
-            context.SaveChanges();
 
-            //ParseSingers parseSingers = new ParseSingers();
-
-            //parseSingers.ParseAllSingers();
+            ParseSingers parseSingers = new ParseSingers();
 
             return View();
         }
