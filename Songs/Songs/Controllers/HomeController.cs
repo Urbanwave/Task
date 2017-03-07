@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Web;
 using System.Web.Mvc;
+using SongsLogicLayer.Services;
 
 namespace Songs.Controllers
 {
@@ -12,7 +13,7 @@ namespace Songs.Controllers
         public ActionResult Index(int page = 1)
         {
             ViewBag.Page = page;
-            return View(new Singer().SelectOnePage(page));
+            return View(new SingerService().SelectOnePage(page));
         }
 
         public ActionResult About()

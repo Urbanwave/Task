@@ -4,6 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using SongsLogicLayer.DTO;
+using SongsLogicLayer.Services;
 
 namespace Songs.Models
 {
@@ -13,7 +14,7 @@ namespace Songs.Models
 
         public SongPageModel(int SingerId)
         {
-            Song = SelectSingerSong(SingerId);
+            Song = new SongService().SelectSingerSong(SingerId);
         }
     }
 }

@@ -5,29 +5,35 @@ using System.Text;
 using System.Threading.Tasks;
 using SongsLogicLayer.DTO;
 using SongsDBLayer.EF;
+using SongsDBLayer.Entities;
+using SongsDBLayer.Repositories;
+using AutoMapper;
 
 namespace SongsLogicLayer.Services
 {
-    class SingerService
-    { 
-        public ICollection<SingerModelDTO> SelectOnePage(int pageNumber)
+    public class SingerService
+    {
+        DBContext context;
+        SingerRepository singerRep;
+
+        public SingerService()
         {
-            using (DBContext context = new DBContext())
-            {
-
-            }
-
-
-
-                return context.Singers
-                        .OrderByDescending(s => s.ViewsAmount)
-                        .Skip((pageNumber - 1) * 30)
-                        .Take(30).ToList();
+            context = new DBContext();
+            singerRep = new SingerRepository(context);
         }
 
-        public SingerModel SelectSingerPage(int SingerId)
+        public List<SingerModelDTO> SelectOnePage(int pageNumber)
+        {        
+            Mapper.Initialize(cfg => cfg.CreateMap<SingerModel, SingerModelDTO>());
+
+            return Mapper.Map<List<SingerModel>, List<SingerModelDTO>>(singerRep.SelectOnePage(pageNumber));
+        }
+
+        public SingerModelDTO SelectSingerPage(int SingerId)
         {
-            return context.Singers.Where(x => x.Id == SingerId).FirstOrDefault();
+            Mapper.Initialize(cfg => cfg.CreateMap<SingerModel, SingerModelDTO>());
+
+            return Mapper.Map<SingerModel, SingerModelDTO>(singerRep.SelectSingerPage(SingerId));
         }
     }
 }

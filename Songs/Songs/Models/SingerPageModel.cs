@@ -4,6 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using SongsLogicLayer.DTO;
+using SongsLogicLayer.Services;
 
 namespace Songs.Models
 {
@@ -17,7 +18,9 @@ namespace Songs.Models
         { 
             SingerModelDTO singer = new SingerModelDTO();
 
-            singer = SelectSingerPage(SingerId);
+            SingerService singerServ = new SingerService();
+
+            singer = singerServ.SelectSingerPage(SingerId);
 
             Name = singer.Name;
             Biography = singer.Biography;

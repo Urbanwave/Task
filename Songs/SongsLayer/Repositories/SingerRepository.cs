@@ -21,7 +21,7 @@ namespace SongsDBLayer.Repositories
 
         DBContext context = new DBContext();
 
-        public ICollection<SingerModel> SelectOnePage(int pageNumber)
+        public List<SingerModel> SelectOnePage(int pageNumber)
         {
             return context.Singers
                     .OrderByDescending(s => s.ViewsAmount)
