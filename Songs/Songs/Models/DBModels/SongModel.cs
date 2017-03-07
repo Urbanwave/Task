@@ -11,6 +11,7 @@ namespace Songs.Models.DBModels
         public string Name { get; set; }
         public string Text { get; set; }
         public string AccordsImages { get; set; }
+        public int ViewsAmount { get; set; }
 
         public SingerModel Singer { get; set; }
 

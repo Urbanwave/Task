@@ -19,6 +19,7 @@ namespace Songs.Controllers
         {
 
             //ParseSingers singers = new ParseSingers();
+            //singers.ParseSongs(1);
 
             ViewBag.Page = page;
 
@@ -40,11 +41,6 @@ namespace Songs.Controllers
             ViewBag.Message = "Your contact page.";
 
             return View();
-        }
-
-        public ActionResult SingerInfo(int SingerId)
-        {         
-            return View(new SingerPageModel(SingerId));
         }
     }
 }

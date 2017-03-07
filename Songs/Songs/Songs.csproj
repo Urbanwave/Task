@@ -161,6 +161,8 @@
     <Compile Include="App_Start\FilterConfig.cs" />
     <Compile Include="App_Start\RouteConfig.cs" />
     <Compile Include="Controllers\HomeController.cs" />
+    <Compile Include="Controllers\SingerController.cs" />
+    <Compile Include="Controllers\SongController.cs" />
     <Compile Include="Global.asax.cs">
       <DependentUpon>Global.asax</DependentUpon>
     </Compile>
@@ -176,10 +178,15 @@
     <Compile Include="Migrations\201703061935176_AddCount.Designer.cs">
       <DependentUpon>201703061935176_AddCount.cs</DependentUpon>
     </Compile>
+    <Compile Include="Migrations\201703070906578_Add Song%27s ViewAmount.cs" />
+    <Compile Include="Migrations\201703070906578_Add Song%27s ViewAmount.Designer.cs">
+      <DependentUpon>201703070906578_Add Song%27s ViewAmount.cs</DependentUpon>
+    </Compile>
     <Compile Include="Migrations\Configuration.cs" />
     <Compile Include="Models\DBModels\DBContext.cs" />
     <Compile Include="Models\DBModels\SingerModel.cs" />
     <Compile Include="Models\DBModels\SongModel.cs" />
+    <Compile Include="Models\ParsingModels\ParseSongsModel.cs" />
     <Compile Include="Models\ViewModels\MainPageModel.cs" />
     <Compile Include="Models\ViewModels\SingerPageModel.cs" />
     <Compile Include="Models\ViewModels\SongPageModel.cs" />
@@ -187,14 +194,21 @@
     <Compile Include="Services\ParsingServices\ParseSingers.cs" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="Content\bootstrap-tokenfield.css" />
+    <Content Include="Content\bootstrap-tokenfield.min.css" />
     <Content Include="Content\bootstrap.css" />
     <Content Include="Content\bootstrap.min.css" />
+    <Content Include="Content\jquery.tag-editor.css" />
+    <Content Include="Content\tokenfield-typeahead.css" />
+    <Content Include="Content\tokenfield-typeahead.min.css" />
     <Content Include="favicon.ico" />
     <Content Include="fonts\glyphicons-halflings-regular.svg" />
     <Content Include="Global.asax" />
     <Content Include="Content\Site.css" />
     <Content Include="Scripts\ai.0.22.9-build00167.js" />
     <Content Include="Scripts\ai.0.22.9-build00167.min.js" />
+    <Content Include="Scripts\bootstrap-tokenfield.js" />
+    <Content Include="Scripts\bootstrap-tokenfield.min.js" />
     <Content Include="Scripts\bootstrap.js" />
     <Content Include="Scripts\bootstrap.min.js" />
     <Content Include="ApplicationInsights.config">
@@ -204,6 +218,9 @@
     <Content Include="Scripts\jquery-1.10.2.js" />
     <Content Include="Scripts\jquery-1.10.2.min.js" />
     <None Include="Scripts\jquery.validate-vsdoc.js" />
+    <Content Include="Scripts\jquery.caret.min.js" />
+    <Content Include="Scripts\jquery.tag-editor.js" />
+    <Content Include="Scripts\jquery.tag-editor.min.js" />
     <Content Include="Scripts\jquery.validate.js" />
     <Content Include="Scripts\jquery.validate.min.js" />
     <Content Include="Scripts\jquery.validate.unobtrusive.js" />
@@ -212,7 +229,9 @@
     <Content Include="Scripts\respond.js" />
     <Content Include="Scripts\respond.min.js" />
     <Content Include="Scripts\_references.js" />
-    <Content Include="Web.config" />
+    <Content Include="Web.config">
+      <SubType>Designer</SubType>
+    </Content>
     <Content Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
     </Content>
@@ -226,13 +245,12 @@
     <Content Include="Views\Home\About.cshtml" />
     <Content Include="Views\Home\Contact.cshtml" />
     <Content Include="Views\Home\Index.cshtml" />
-    <Content Include="Views\Home\SingerInfo.cshtml" />
+    <Content Include="Views\Singer\SingerInfo.cshtml" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />
     <Folder Include="Services\DBServices\" />
-    <Folder Include="Views\Singers\" />
-    <Folder Include="Views\Songs\" />
+    <Folder Include="Views\Song\" />
   </ItemGroup>
   <ItemGroup>
     <Content Include="fonts\glyphicons-halflings-regular.woff" />
@@ -251,6 +269,9 @@
     </EmbeddedResource>
     <EmbeddedResource Include="Migrations\201703061935176_AddCount.resx">
       <DependentUpon>201703061935176_AddCount.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201703070906578_Add Song%27s ViewAmount.resx">
+      <DependentUpon>201703070906578_Add Song%27s ViewAmount.cs</DependentUpon>
     </EmbeddedResource>
   </ItemGroup>
   <PropertyGroup>
