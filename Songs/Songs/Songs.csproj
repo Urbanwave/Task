@@ -187,17 +187,10 @@
       <DependentUpon>201703071502068_Add Accords.cs</DependentUpon>
     </Compile>
     <Compile Include="Migrations\Configuration.cs" />
-    <Compile Include="Models\DBModels\AccordModel.cs" />
-    <Compile Include="Models\DBModels\DBContext.cs" />
-    <Compile Include="Models\DBModels\SingerModel.cs" />
-    <Compile Include="Models\DBModels\SongModel.cs" />
-    <Compile Include="Models\ParsingModels\ParseSongsModel.cs" />
-    <Compile Include="Models\ViewModels\MainPageModel.cs" />
-    <Compile Include="Models\ViewModels\SingerPageModel.cs" />
-    <Compile Include="Models\ViewModels\SongPageModel.cs" />
+    <Compile Include="Models\MainPageModel.cs" />
+    <Compile Include="Models\SingerPageModel.cs" />
+    <Compile Include="Models\SongPageModel.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="Services\DBServices\SingerService.cs" />
-    <Compile Include="Services\ParsingServices\ParseSingers.cs" />
   </ItemGroup>
   <ItemGroup>
     <Content Include="Content\bootstrap-tokenfield.css" />
@@ -281,6 +274,12 @@
     <EmbeddedResource Include="Migrations\201703071502068_Add Accords.resx">
       <DependentUpon>201703071502068_Add Accords.cs</DependentUpon>
     </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\SongsLogicLayer\SongsLogicLayer.csproj">
+      <Project>{494aa419-81c7-421f-9093-40527b0886ef}</Project>
+      <Name>SongsLogicLayer</Name>
+    </ProjectReference>
   </ItemGroup>
   <PropertyGroup>
     <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>

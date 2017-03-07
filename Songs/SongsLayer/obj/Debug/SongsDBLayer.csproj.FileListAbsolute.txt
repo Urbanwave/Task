@@ -1,0 +1,12 @@
+D:\Task\Task\Songs\SongsLayer\bin\Debug\SongsLayer.dll.config
+D:\Task\Task\Songs\SongsLayer\bin\Debug\SongsLayer.dll
+D:\Task\Task\Songs\SongsLayer\bin\Debug\SongsLayer.pdb
+D:\Task\Task\Songs\SongsLayer\bin\Debug\AutoMapper.dll
+D:\Task\Task\Songs\SongsLayer\bin\Debug\EntityFramework.dll
+D:\Task\Task\Songs\SongsLayer\bin\Debug\EntityFramework.SqlServer.dll
+D:\Task\Task\Songs\SongsLayer\bin\Debug\AutoMapper.xml
+D:\Task\Task\Songs\SongsLayer\bin\Debug\EntityFramework.xml
+D:\Task\Task\Songs\SongsLayer\bin\Debug\EntityFramework.SqlServer.xml
+D:\Task\Task\Songs\SongsLayer\obj\Debug\SongsDBLayer.csprojResolveAssemblyReference.cache
+D:\Task\Task\Songs\SongsLayer\obj\Debug\SongsLayer.dll
+D:\Task\Task\Songs\SongsLayer\obj\Debug\SongsLayer.pdb
