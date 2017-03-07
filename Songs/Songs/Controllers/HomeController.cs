@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Web;
 using System.Web.Mvc;
+using Songs.Models;
 using SongsLogicLayer.Services;
 
 namespace Songs.Controllers
@@ -12,8 +13,11 @@ namespace Songs.Controllers
 
         public ActionResult Index(int page = 1)
         {
+            ParseService parse = new ParseService();
+            parse.ParseSingers();
+
             ViewBag.Page = page;
-            return View(new SingerService().SelectOnePage(page));
+            return View(new MainPageModel(page));
         }
 
         public ActionResult About()

@@ -1,1 +1,15 @@
 D:\Task\Task\Songs\SongsLogicLayer\obj\Debug\SongsLogicLayer.csprojResolveAssemblyReference.cache
+C:\Учеба\itra\Task\Songs\SongsLogicLayer\bin\Debug\SongsLogicLayer.dll
+C:\Учеба\itra\Task\Songs\SongsLogicLayer\bin\Debug\SongsLogicLayer.pdb
+C:\Учеба\itra\Task\Songs\SongsLogicLayer\bin\Debug\AutoMapper.dll
+C:\Учеба\itra\Task\Songs\SongsLogicLayer\bin\Debug\HtmlAgilityPack.dll
+C:\Учеба\itra\Task\Songs\SongsLogicLayer\bin\Debug\SongsDBLayer.dll
+C:\Учеба\itra\Task\Songs\SongsLogicLayer\bin\Debug\EntityFramework.dll
+C:\Учеба\itra\Task\Songs\SongsLogicLayer\bin\Debug\SongsDBLayer.pdb
+C:\Учеба\itra\Task\Songs\SongsLogicLayer\bin\Debug\AutoMapper.xml
+C:\Учеба\itra\Task\Songs\SongsLogicLayer\bin\Debug\HtmlAgilityPack.pdb
+C:\Учеба\itra\Task\Songs\SongsLogicLayer\bin\Debug\HtmlAgilityPack.xml
+C:\Учеба\itra\Task\Songs\SongsLogicLayer\bin\Debug\EntityFramework.xml
+C:\Учеба\itra\Task\Songs\SongsLogicLayer\obj\Debug\SongsLogicLayer.csprojResolveAssemblyReference.cache
+C:\Учеба\itra\Task\Songs\SongsLogicLayer\obj\Debug\SongsLogicLayer.dll
+C:\Учеба\itra\Task\Songs\SongsLogicLayer\obj\Debug\SongsLogicLayer.pdb

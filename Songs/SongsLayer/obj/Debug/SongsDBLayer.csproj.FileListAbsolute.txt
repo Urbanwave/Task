@@ -10,3 +10,15 @@ D:\Task\Task\Songs\SongsLayer\bin\Debug\EntityFramework.SqlServer.xml
 D:\Task\Task\Songs\SongsLayer\obj\Debug\SongsDBLayer.csprojResolveAssemblyReference.cache
 D:\Task\Task\Songs\SongsLayer\obj\Debug\SongsLayer.dll
 D:\Task\Task\Songs\SongsLayer\obj\Debug\SongsLayer.pdb
+C:\Учеба\itra\Task\Songs\SongsLayer\bin\Debug\SongsDBLayer.dll.config
+C:\Учеба\itra\Task\Songs\SongsLayer\bin\Debug\SongsDBLayer.dll
+C:\Учеба\itra\Task\Songs\SongsLayer\bin\Debug\SongsDBLayer.pdb
+C:\Учеба\itra\Task\Songs\SongsLayer\bin\Debug\AutoMapper.dll
+C:\Учеба\itra\Task\Songs\SongsLayer\bin\Debug\EntityFramework.dll
+C:\Учеба\itra\Task\Songs\SongsLayer\bin\Debug\EntityFramework.SqlServer.dll
+C:\Учеба\itra\Task\Songs\SongsLayer\bin\Debug\AutoMapper.xml
+C:\Учеба\itra\Task\Songs\SongsLayer\bin\Debug\EntityFramework.xml
+C:\Учеба\itra\Task\Songs\SongsLayer\bin\Debug\EntityFramework.SqlServer.xml
+C:\Учеба\itra\Task\Songs\SongsLayer\obj\Debug\SongsDBLayer.csprojResolveAssemblyReference.cache
+C:\Учеба\itra\Task\Songs\SongsLayer\obj\Debug\SongsDBLayer.dll
+C:\Учеба\itra\Task\Songs\SongsLayer\obj\Debug\SongsDBLayer.pdb

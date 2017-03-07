@@ -11,5 +11,6 @@ namespace SongsDBLayer.Interfaces
     {
         List<SingerModel> SelectOnePage(int pageNumber);
         SingerModel SelectSingerPage(int SingerId);
+        void AddSinger(SingerModel Singer);
     }
 }

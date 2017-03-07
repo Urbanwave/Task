@@ -4,20 +4,21 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using SongsDBLayer.Entities;
-using SongsDBLayer.EF;
 using SongsLogicLayer.BusinessModels;
 using HtmlAgilityPack;
 using System.Threading;
+using SongsLogicLayer.Services;
+using SongsLogicLayer.DTO;
 
 namespace SongsLogicLayer.Services
 {
-    class ParseService
+    public class ParseService
     {
-        public class ParseSingers
-        {
+
             public List<string> AllSingersNames = new List<string>();
             public List<string> AllSingerSongsAmountAndViews = new List<string>();
             public List<string> AllSingerDiscriptions = new List<string>();
+            public List<string> AllSingerLinks = new List<string>();
 
             public List<ParseSongsModel> Songs = new List<ParseSongsModel>();
 
@@ -53,6 +54,7 @@ namespace SongsLogicLayer.Services
                                         if (a.Name == "a")
                                         {
                                             AllSingersNames.Add(a.InnerText);
+                                            AllSingerLinks.Add("http:" + a.Attributes["href"].Value);
                                         }
                                     }
                                 }
@@ -189,54 +191,57 @@ namespace SongsLogicLayer.Services
                 // Thread.Sleep(60000);
             }
 
-            //public ParseSingers()
+        public void ParseSingers()
+        {
+            //ParseSingersName(10);
+            //ParseSingersBiography(10);
+
+            SingerService singerService = new SingerService();
+                   
+            SingerModelDTO Singer = new SingerModelDTO();
+            Singer.Biography = "dsad";
+            Singer.Name = "lol";
+            Singer.SongsAmount = 2;
+
+            //for (int i = 0; i < 300; i++)
             //{
-            //    ParseSingersName(10);
-            //    ParseSingersBiography(10);
+            //    Singer.Name = AllSingersNames[i];
+            //    Singer.Biography = AllSingerDiscriptions[i];
+            //    Singer.SingerURL = AllSingerLinks[i];
 
-            //    using (DBContext context = new DBContext())
+            //    if (i == 0)
             //    {
-            //        SingerModel Singer = new SingerModel();
-            //        for (int i = 0; i < 300; i++)
-            //        {
-            //            Singer.Name = AllSingersNames[i];
-            //            Singer.Biography = AllSingerDiscriptions[i];
+            //        Singer.SongsAmount = Convert.ToInt32(AllSingerSongsAmountAndViews[0]);
+            //        Singer.ViewsAmount = Convert.ToInt32(AllSingerSongsAmountAndViews[1]);
 
-            //            if (i == 0)
-            //            {
-            //                Singer.SongsAmount = Convert.ToInt32(AllSingerSongsAmountAndViews[0]);
-            //                Singer.ViewsAmount = Convert.ToInt32(AllSingerSongsAmountAndViews[1]);
-
-            //            }
-            //            else
-            //            {
-            //                Singer.SongsAmount = Convert.ToInt32(AllSingerSongsAmountAndViews[i * 2]);
-            //                Singer.ViewsAmount = Convert.ToInt32(AllSingerSongsAmountAndViews[i * 2 + 1]);
-            //            }
-
-            //            context.Singers.Add(Singer);
-            //            context.SaveChanges();
-            //        }
             //    }
-            //}
-
-            public ParseSingers()
-            {
-                ParseSongs(10);
-
-                //using (DBContext context = new DBContext())
-                //{
-                //    SongModel Song = new SongModel();
-                //    foreach (var item in Songs)
-                //    {
-                //        Song.Name = item.SongName;
-                //        Song.Singer = context.Singers.Where(x => x.Name == item.SingerName).FirstOrDefault();
-                //        Song.Text = item.SongText;
-                //        context.Songs.Add(Song);
-                //        context.SaveChanges();
-                //    }
-                //}
+            //    else
+            //    {
+            //        Singer.SongsAmount = Convert.ToInt32(AllSingerSongsAmountAndViews[i * 2]);
+            //        Singer.ViewsAmount = Convert.ToInt32(AllSingerSongsAmountAndViews[i * 2 + 1]);
+            //    }
+                singerService.AddSinger(Singer);              
+            }    
             }
         }
-    }
-}
+
+        //public ParseSingers()
+        //{
+        //    ParseSongs(10);
+
+        //    using (DBContext context = new DBContext())
+        //    {
+        //        SongModel Song = new SongModel();
+        //        foreach (var item in Songs)
+        //        {
+        //            Song.Name = item.SongName;
+        //            Song.Singer = context.Singers.Where(x => x.Name == item.SingerName).FirstOrDefault();
+        //            Song.Text = item.SongText;
+        //            context.Songs.Add(Song);
+        //            context.SaveChanges();
+        //        }
+        //    }
+
+
+    
+

@@ -186,7 +186,6 @@
     <Compile Include="Migrations\201703071502068_Add Accords.Designer.cs">
       <DependentUpon>201703071502068_Add Accords.cs</DependentUpon>
     </Compile>
-    <Compile Include="Migrations\Configuration.cs" />
     <Compile Include="Models\MainPageModel.cs" />
     <Compile Include="Models\SingerPageModel.cs" />
     <Compile Include="Models\SongPageModel.cs" />

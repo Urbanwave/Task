@@ -33,5 +33,11 @@ namespace SongsDBLayer.Repositories
         {
             return context.Singers.Where(x => x.Id == SingerId).FirstOrDefault();
         }
+
+        public void AddSinger(SingerModel Singer)
+        {
+            context.Singers.Add(Singer);
+            context.SaveChanges();
+        }
     }
 }

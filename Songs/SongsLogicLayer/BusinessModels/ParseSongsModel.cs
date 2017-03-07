@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace SongsLogicLayer.BusinessModels
 {
-    class ParseSongsModel
+    public class ParseSongsModel
     {
         public string SingerName;
         public string SongName;

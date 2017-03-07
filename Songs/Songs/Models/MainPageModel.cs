@@ -4,6 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using SongsLogicLayer.DTO;
+using SongsLogicLayer.Services;
 
 namespace Songs.Models
 {
@@ -11,9 +12,9 @@ namespace Songs.Models
     {
         public ICollection<SingerModelDTO> Singers;
 
-        public MainPageModel(ICollection<SingerModelDTO> singers)
+        public MainPageModel(int pageId)
         {
-            Singers = singers;
+            Singers = new SingerService().SelectOnePage(pageId);
         }
     }
 }

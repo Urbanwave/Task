@@ -35,5 +35,13 @@ namespace SongsLogicLayer.Services
 
             return Mapper.Map<SingerModel, SingerModelDTO>(singerRep.SelectSingerPage(SingerId));
         }
+
+        public void AddSinger(SingerModelDTO Singer)
+        {
+            Mapper.Initialize(cfg => cfg.CreateMap<SingerModelDTO, SingerModel>());
+
+            SingerModel singer = Mapper.Map<SingerModelDTO, SingerModel>(Singer);
+            singerRep.AddSinger(singer);
+        }
     }
 }
