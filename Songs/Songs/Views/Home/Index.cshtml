@@ -18,7 +18,7 @@
             @foreach (var item in Model.Singers)
             {
                 <tr>
-                    <td><a href="/Home/SingerInfo?SingerId=@item.Id">@item.Name</a></td>
+                    <td><a href="/Singer/SingerInfo?SingerId=@item.Id">@item.Name</a></td>
                     <td>@item.SongsAmount</td>
                     <td>@item.ViewsAmount</td>
                 </tr>

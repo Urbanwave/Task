@@ -228,7 +228,6 @@ namespace Songs.Services.ParsingService
                 {
                     Song.Name = item.SongName;
                     Song.Singer = context.Singers.Where(x => x.Name == item.SingerName).FirstOrDefault();
-                    Song.AccordsImages = item.AccodrsImages;
                     Song.Text = item.SongText;
                     context.Songs.Add(Song);
                     context.SaveChanges();

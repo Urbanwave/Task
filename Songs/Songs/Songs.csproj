@@ -182,7 +182,12 @@
     <Compile Include="Migrations\201703070906578_Add Song%27s ViewAmount.Designer.cs">
       <DependentUpon>201703070906578_Add Song%27s ViewAmount.cs</DependentUpon>
     </Compile>
+    <Compile Include="Migrations\201703071502068_Add Accords.cs" />
+    <Compile Include="Migrations\201703071502068_Add Accords.Designer.cs">
+      <DependentUpon>201703071502068_Add Accords.cs</DependentUpon>
+    </Compile>
     <Compile Include="Migrations\Configuration.cs" />
+    <Compile Include="Models\DBModels\AccordModel.cs" />
     <Compile Include="Models\DBModels\DBContext.cs" />
     <Compile Include="Models\DBModels\SingerModel.cs" />
     <Compile Include="Models\DBModels\SongModel.cs" />
@@ -191,6 +196,7 @@
     <Compile Include="Models\ViewModels\SingerPageModel.cs" />
     <Compile Include="Models\ViewModels\SongPageModel.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Services\DBServices\SingerService.cs" />
     <Compile Include="Services\ParsingServices\ParseSingers.cs" />
   </ItemGroup>
   <ItemGroup>
@@ -249,7 +255,6 @@
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />
-    <Folder Include="Services\DBServices\" />
     <Folder Include="Views\Song\" />
   </ItemGroup>
   <ItemGroup>
@@ -272,6 +277,9 @@
     </EmbeddedResource>
     <EmbeddedResource Include="Migrations\201703070906578_Add Song%27s ViewAmount.resx">
       <DependentUpon>201703070906578_Add Song%27s ViewAmount.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201703071502068_Add Accords.resx">
+      <DependentUpon>201703071502068_Add Accords.cs</DependentUpon>
     </EmbeddedResource>
   </ItemGroup>
   <PropertyGroup>

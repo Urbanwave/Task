@@ -1,0 +1,43 @@
+﻿@model Songs.Models.ViewModels.SingerPageModel
+
+
+@{
+    ViewBag.Title = "SingerInfo";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+<body>
+
+    @*<script type="text/javascript" src="//code.jquery.com/jquery-1.9.1.js"></script>
+    <script type="text/javascript" src="//code.jquery.com/ui/1.10.3/jquery-ui.js"></script>
+    <link href="http://code.jquery.com/ui/1.11.1/themes/smoothness/jquery-ui.css" rel="stylesheet" type="text/css" />*@
+    <script src="http://code.jquery.com/jquery-2.1.1.js"></script>
+    <script src="http://code.jquery.com/ui/1.11.1/jquery-ui.js"></script>
+    <link href="../../Content/jquery.tag-editor.css" rel="stylesheet" />
+    <script src="../../Scripts/jquery.tag-editor.js"></script>
+    <script src="../../Scripts/jquery.tag-editor.min.js"></script>
+    <script src="../../Scripts/jquery.caret.min.js"></script>
+
+
+    <div class="container">
+        <h2>@Model.Name</h2>
+        <div>
+            @Model.Biography
+        </div>
+        <input type="text" class="form-control" id="demo2" value="" />
+    </div>
+
+
+    <script>
+        (function ($) {
+            $('#demo2').tagEditor({
+                autocomplete: {
+                    delay: 0,
+                    position: { collision: 'flip' },
+                    source: ['F#m', 'C#m', 'E', 'Bm7', 'Emaj7','C#','Dm','Gm','C','F','H7','A','Am','Hm','D','Db','F#','Ab','Bbm']
+                },
+                forceLowercase: false,
+                placeholder: 'Accords ...'
+            });
+        })(jQuery);
+    </script>
+</body>

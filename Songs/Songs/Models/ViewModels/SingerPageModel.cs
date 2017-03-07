@@ -14,6 +14,7 @@ namespace Songs.Models.ViewModels
 
         public SingerPageModel(int SingerId)
         {
+
             DBContext context = new DBContext();
 
             SingerModel singer = new SingerModel();

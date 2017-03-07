@@ -10,10 +10,10 @@ namespace Songs.Models.DBModels
         public int Id { get; set; }
         public string Name { get; set; }
         public string Text { get; set; }
-        public string AccordsImages { get; set; }
-        public int ViewsAmount { get; set; }
+        public int ViewsAmount { get; set; }   
 
         public SingerModel Singer { get; set; }
 
+        public ICollection<AccordModel> Accords { get; set; }
     }
 }

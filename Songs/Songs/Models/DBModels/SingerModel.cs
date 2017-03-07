@@ -12,6 +12,7 @@ namespace Songs.Models.DBModels
         public string Biography { get; set;  }
         public int SongsAmount { get; set; }
         public int ViewsAmount { get; set; }
+        public string SingerURL { get; set; }
 
         public ICollection<SongModel> Songs { get; set; }
 
