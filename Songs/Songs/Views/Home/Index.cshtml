@@ -18,7 +18,7 @@
             @foreach (var item in Model.Singers)
             {
                 <tr>
-                    <td><a href="/">@item.Name</a></td>
+                    <td><a href="/Home/SingerInfo?SingerId=@item.Id">@item.Name</a></td>
                     <td>@item.SongsAmount</td>
                     <td>@item.ViewsAmount</td>
                 </tr>
@@ -28,7 +28,14 @@
     <div>
         @for(int i = 1; i <= 10; i++)
         {
-            <a href="/Home/Index?page=@i">@i</a>
+            if (i == ViewBag.Page)
+            {
+                <a class="pagenumber" href="/Home/Index?page=@i">@i</a>
+            }
+            else
+            {
+                <a href="/Home/Index?page=@i">@i</a>
+            }
         }
     </div>
 </div>

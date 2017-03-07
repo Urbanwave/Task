@@ -6,6 +6,7 @@ using System.Web.Mvc;
 using Songs.Models.DBModels;
 using Songs.Services.ParsingService;
 using Songs.Models.ViewModels;
+using HtmlAgilityPack;
 
 namespace Songs.Controllers
 {
@@ -15,7 +16,11 @@ namespace Songs.Controllers
         DBContext Context = new DBContext();
 
         public ActionResult Index(int page = 1)
-        {           
+        {
+
+            //ParseSingers singers = new ParseSingers();
+
+            ViewBag.Page = page;
 
             return View(new MainPageModel(Context.Singers
                 .OrderByDescending(s => s.ViewsAmount)
@@ -35,6 +40,11 @@ namespace Songs.Controllers
             ViewBag.Message = "Your contact page.";
 
             return View();
+        }
+
+        public ActionResult SingerInfo(int SingerId)
+        {         
+            return View(new SingerPageModel(SingerId));
         }
     }
 }

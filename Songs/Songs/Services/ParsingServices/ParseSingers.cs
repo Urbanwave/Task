@@ -20,7 +20,7 @@ namespace Songs.Services.ParsingService
             HtmlWeb webDoc = new HtmlWeb();
             HtmlDocument doc = new HtmlDocument();
             HtmlDocument discriptiondoc = new HtmlDocument();
-            HtmlNodeCollection tr,div;
+            HtmlNodeCollection tr;
 
             for (int i = 1; i <= pageamount; i++)
             {
@@ -98,37 +98,6 @@ namespace Songs.Services.ParsingService
                 Thread.Sleep(60000);
             }
         }
-
-        //public List<string> ParseSingersViews(int pageamount)
-        //{
-        //    List<string> SingersSongsCountAndViews = new List<string>();
-        //    HtmlWeb webDoc = new HtmlWeb();
-        //    HtmlDocument doc = new HtmlDocument();
-
-        //    for (int i = 1; i <= pageamount; i++)
-        //    {
-        //        string id = i.ToString();
-        //        string url = "http://amdm.ru/chords/page" + id;
-        //        doc = webDoc.Load(url);
-        //        HtmlNodeCollection tr = doc.DocumentNode.SelectNodes("//table[@class='items']//tr//td");
-
-        //        if (tr != null)
-        //        {
-        //            foreach (HtmlNode HN in tr)
-        //            {
-        //                if (HN.Attributes["class"].Value != null)
-        //                {
-        //                    if (HN.Attributes["class"].Value == "number")
-        //                    {
-        //                        SingersSongsCountAndViews.Add(HN.InnerText);
-        //                    }
-        //                }
-        //            }
-        //        }
-        //        Thread.Sleep(60000);
-        //    }
-        //    return SingersSongsCountAndViews;
-        //}
 
         public ParseSingers()
         {

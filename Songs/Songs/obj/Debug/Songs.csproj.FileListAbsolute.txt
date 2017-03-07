@@ -125,3 +125,4 @@ C:\Учеба\itra\Songs\Task\Songs\Songs\obj\Debug\Songs.csproj.GenerateResourc
 C:\Учеба\itra\Songs\Task\Songs\Songs\obj\Debug\Songs.dll
 C:\Учеба\itra\Songs\Task\Songs\Songs\obj\Debug\Songs.pdb
 C:\Учеба\itra\Songs\Task\Songs\Songs\obj\Debug\Songs.Migrations.AddCount.resources
+D:\Task\Task\Songs\Songs\obj\Debug\Songs.Migrations.AddCount.resources

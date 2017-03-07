@@ -22,3 +22,8 @@ select,
 textarea {
     max-width: 280px;
 }
+
+.pagenumber {
+    color: grey;
+    font-size: 20px;
+}
