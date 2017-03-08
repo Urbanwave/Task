@@ -9,10 +9,11 @@ using SongsLogicLayer.DTO;
 using SongsDBLayer.Entities;
 using SongsDBLayer.Repositories;
 using AutoMapper;
+using SongsLogicLayer.Interfaces;
 
 namespace SongsLogicLayer.Services
 {
-    public class SongService
+    public class SongService : ISongService
     {
         DBContext context;
         SongRepository songRep;
@@ -30,20 +31,39 @@ namespace SongsLogicLayer.Services
             return Mapper.Map<SongModel, SongModelDTO>(songRep.SelectSingerSong(SingerId));
         }
 
+        public List<SongModel> GetAllSongs()
+        {
+            return songRep.GetAllSongs();
+        }
+
         public void AddSong(SongModelDTO Song)
         {
             SongModel song = new SongModel();
 
-            Mapper.Initialize(cfg => cfg.CreateMap<SingerModelDTO, SingerModel>());
-
             song.Name = Song.Name;
-            song.Singer = Mapper.Map<SingerModelDTO, SingerModel>(Song.Singer);
+            song.SingerId = Song.Singer.Id; 
             song.SongURL = Song.SongURL;
             song.ViewsAmount = Song.ViewsAmount;
 
             songRep.AddSong(song);
         }
 
-      
+        public List<string> GetSongsUrl()
+        {
+            return songRep.GetSongsUrl();
+        }
+
+        public void AddSongTextByURL(string text, string URL)
+        {
+            songRep.AddSongTextByURL(text, URL);
+        }
+
+        public void AddAccord(AccordModelDTO Accord, string URL)
+        {
+            Mapper.Initialize(cfg => cfg.CreateMap<AccordModelDTO, AccordModel>());
+
+            AccordModel accord = Mapper.Map<AccordModelDTO, AccordModel>(Accord);
+            songRep.AddAccord(accord, URL);
+        }
     }
 }

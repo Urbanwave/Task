@@ -13,7 +13,7 @@ namespace SongsDBLayer.Entities
         public string Text { get; set; }
         public int ViewsAmount { get; set; }
         public string SongURL { get; set; }
-
+        public int? SingerId { get; set; }
         public SingerModel Singer { get; set; }
 
         public ICollection<AccordModel> Accords { get; set; }

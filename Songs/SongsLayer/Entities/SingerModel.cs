@@ -21,6 +21,5 @@ namespace SongsDBLayer.Entities
         {
             Songs = new List<SongModel>();
         }
-
     }
 }

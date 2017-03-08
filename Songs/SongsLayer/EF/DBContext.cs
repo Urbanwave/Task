@@ -21,10 +21,10 @@ namespace SongsDBLayer.EF
 
         public class StoreDbInitializer : DropCreateDatabaseIfModelChanges<DBContext>
         {
-            //protected override void seed(DBContext db)
+            //protected override void Seed(DBContext db)
             //{
-            //    db.accords.add(new accordmodel { accordname = "nokia lumia 630", accordurl = "nokia" });
-            //    db.savechanges();
+            //    db.Accords.Add(new AccordModel { AccordName = "nokia lumia 630", AccordURL = "nokia" });
+            //    db.SaveChanges();
             //}
         }
 

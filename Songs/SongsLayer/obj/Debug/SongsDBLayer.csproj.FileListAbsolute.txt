@@ -28,3 +28,11 @@ D:\Task\Task\Songs\SongsLayer\obj\Debug\SongsDBLayer.Migrations.Test.resources
 D:\Task\Task\Songs\SongsLayer\obj\Debug\SongsDBLayer.Migrations.addsongurl.resources
 D:\Task\Task\Songs\SongsLayer\obj\Debug\SongsDBLayer.Migrations.addsong.resources
 D:\Task\Task\Songs\SongsLayer\obj\Debug\SongsDBLayer.Migrations.add.resources
+C:\Учеба\itra\Task\Songs\SongsLayer\obj\Debug\SongsDBLayer.Migrations.InitialCreate.resources
+C:\Учеба\itra\Task\Songs\SongsLayer\obj\Debug\SongsDBLayer.Migrations.Test.resources
+C:\Учеба\itra\Task\Songs\SongsLayer\obj\Debug\SongsDBLayer.Migrations.addsongurl.resources
+C:\Учеба\itra\Task\Songs\SongsLayer\obj\Debug\SongsDBLayer.Migrations.addsong.resources
+C:\Учеба\itra\Task\Songs\SongsLayer\obj\Debug\SongsDBLayer.Migrations.add.resources
+C:\Учеба\itra\Task\Songs\SongsLayer\obj\Debug\SongsDBLayer.csproj.GenerateResource.Cache
+C:\Учеба\itra\Task\Songs\SongsLayer\obj\Debug\SongsDBLayer.Migrations._123.resources
+C:\Учеба\itra\Task\Songs\SongsLayer\obj\Debug\SongsDBLayer.Migrations.redacraccords.resources

@@ -103,7 +103,7 @@ namespace SongsLogicLayer.Services
                         }
                     }
                 }
-               // Thread.Sleep(60000);
+            //    Thread.Sleep(60000);
             }
         }
 
@@ -118,7 +118,7 @@ namespace SongsLogicLayer.Services
 
             urls = new SingerService().GetSingersUrl();
 
-            for (int i = 0; i < 30; i++)
+            for (int i = 0; i < 3; i++)
             {
                 if (i > 0 && i % 50 == 0)
                 {
@@ -158,14 +158,9 @@ namespace SongsLogicLayer.Services
                                 }
                             }
                             if (song.Name != null)
-                            {
-                                //foreach (var item in singers)
-                                //{ 
-                                //    if(item.SingerURL == urls[i])
-                                //    {
-                                        song.Singer = new SingerService().GetSingersByUrl(urls[i]);
-                                //    }
-                                //}
+                            {            
+                                song.Singer = new SingerService().GetSingersByUrl(urls[i]);
+  
                                 new SongService().AddSong(song);
                             }
                         }
@@ -175,89 +170,46 @@ namespace SongsLogicLayer.Services
         }
 
 
-        //public void ParseSongs(int pageamount)
-        //{
-        //    HtmlWeb webDoc = new HtmlWeb();
-        //    HtmlDocument doc = new HtmlDocument();
-        //    HtmlDocument discriptiondoc = new HtmlDocument();
-        //    HtmlDocument songdiscriptiondoc = new HtmlDocument();
-        //    HtmlNodeCollection tr, div, pre, accords;
+        public void ParseSongsAccords()
+        {
+            HtmlWeb webDoc = new HtmlWeb();
+            HtmlDocument doc = new HtmlDocument();
+            HtmlNodeCollection pre, accords;
 
+            List<string> urls = new List<string>();
+            List<SongModel> songs = new SongService().GetAllSongs();
 
-        //    for (int i = 1; i <= pageamount; i++)
-        //    {
-        //        string[] view = new string[3];
-        //        string singerName;
-        //        string id = i.ToString();
-        //        string url = "http://amdm.ru/chords/page" + id;
-        //        doc = webDoc.Load(url);
-        //        tr = doc.DocumentNode.SelectNodes("//table[@class='items']//tr//td");
-        //        int j = 0;
+            urls = new SongService().GetSongsUrl();
 
-        //        if (tr != null)
-        //        {
-        //            foreach (HtmlNode HN in tr)
-        //            {
+            for (int i = 0; i < songs.Count(); i++)
+            {
+                doc = webDoc.Load(urls[i]);
+                pre = doc.DocumentNode.SelectNodes("//div[@class='b-podbor__text']//pre");
 
-        //                j++;
-        //                if (j == 15)
-        //                {
-        //                    Thread.Sleep(60000);
-        //                    j = 0;
-        //                }
-        //                if (HN.Attributes["class"].Value != null)
-        //                {
-        //                    if (HN.Attributes["class"].Value == "artist_name")
-        //                    {
+                if (pre != null)
+                {
+                    foreach (HtmlNode item in pre)
+                    {
+                        new SongService().AddSongTextByURL(item.InnerHtml, urls[i]);
+                    }
+                }
 
-        //                        foreach (var a in HN.ChildNodes)
-        //                        {
-        //                            if (a.Name == "a")
-        //                            {
-        //                                singerName = a.InnerText;
+                accords = doc.DocumentNode.SelectNodes("//div[@id='song_chords']//img");
 
-        //                                discriptiondoc = webDoc.Load("http:" + a.Attributes["href"].Value);
-        //                                div = discriptiondoc.DocumentNode.SelectNodes("//div[@class='artist-profile-song-list']//a");
+                if (accords != null)
+                {
+                    foreach (HtmlNode item in accords)
+                    {
+                        AccordModelDTO Accord = new AccordModelDTO();
+                        Accord.AccordURL = (("http:" + item.Attributes["src"].Value));
+                        Accord.AccordName = item.Attributes["alt"].Value;
+                        new SongService().AddAccord(Accord, urls[i]);
+                    }               
+                }
+            }
+        }
 
-        //                                foreach (HtmlNode disc in div.Cast<HtmlNode>().Take(3))
-        //                                {
-        //                                    ParseSongsModel Song = new ParseSongsModel();
-
-        //                                    Song.SongName = disc.InnerText;
-        //                                    Song.SingerName = singerName;
-        //                                    songdiscriptiondoc = webDoc.Load("http:" + disc.Attributes["href"].Value);
-        //                                    pre = songdiscriptiondoc.DocumentNode.SelectNodes("//div[@class='b-podbor__text']//pre");
-
-
-        //                                    if (pre != null)
-        //                                    {
-        //                                        foreach (HtmlNode item in pre)
-        //                                        {
-        //                                            Song.SongText = item.InnerHtml;
-        //                                        }
-        //                                    }
-        //                                    accords = songdiscriptiondoc.DocumentNode.SelectNodes("//div[@id='song_chords']//img");
-
-        //                                    if (accords != null)
-        //                                    {
-        //                                        foreach (HtmlNode item in accords)
-        //                                        {
-        //                                            Song.AccodrsImages += (("http:" + item.Attributes["src"].Value) + ";");
-        //                                        }
-        //                                        Songs.Add(Song);
-        //                                    }
-        //                                }
-        //                            }
-
-        //                        }
-
-        //                    }
-        //                }
-        //            }
-        //        }
-        //    }
-        //    // Thread.Sleep(60000);
-        //}
+               
 
         public void ParseSingers()
         {
@@ -268,7 +220,7 @@ namespace SongsLogicLayer.Services
 
             SingerModelDTO Singer = new SingerModelDTO();
 
-            for (int i = 0; i < 30; i++)
+            for (int i = 0; i < 3; i++)
             {
                 Singer.Name = AllSingersNames[i];
                 Singer.Biography = AllSingerDiscriptions[i];

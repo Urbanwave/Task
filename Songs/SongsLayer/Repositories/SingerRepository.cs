@@ -19,11 +19,9 @@ namespace SongsDBLayer.Repositories
             db = context;
         }
 
-        DBContext context = new DBContext();
-
         public List<SingerModel> SelectOnePage(int pageNumber)
         {
-            return context.Singers
+            return db.Singers
                     .OrderByDescending(s => s.ViewsAmount)
                     .Skip((pageNumber - 1) * 30)
                     .Take(30).ToList();
@@ -31,15 +29,15 @@ namespace SongsDBLayer.Repositories
 
         public SingerModel SelectSingerPage(int SingerId)
         {
-            return context.Singers.Where(x => x.Id == SingerId).FirstOrDefault();
+            return db.Singers.Where(x => x.Id == SingerId).FirstOrDefault();
         }
 
         public void AddSinger(SingerModel Singer)
         {
-            context.Singers.Add(Singer);
-            context.SaveChanges();
-            context.Entry(Singer).State = System.Data.Entity.EntityState.Unchanged;
-            context.SaveChanges();
+            db.Singers.Add(Singer);
+            db.SaveChanges();
+            db.Entry(Singer).State = System.Data.Entity.EntityState.Unchanged;
+            db.SaveChanges();
         }
 
 
@@ -47,7 +45,7 @@ namespace SongsDBLayer.Repositories
         {
             List<string> URLS = new List<string>();
 
-            foreach (var item in context.Singers.ToList())
+            foreach (var item in db.Singers.ToList())
             {
                 URLS.Add(item.SingerURL);
             }
@@ -56,12 +54,12 @@ namespace SongsDBLayer.Repositories
 
         public SingerModel GetSingersByUrl(string URL)
         {
-            return context.Singers.Where(x => x.SingerURL == URL).FirstOrDefault();
+            return db.Singers.Where(x => x.SingerURL == URL).FirstOrDefault();
         }
 
         public List<SingerModel> GettAllSingers()
         {
-            return context.Singers.ToList();
+            return db.Singers.ToList();
         }
     }
 }

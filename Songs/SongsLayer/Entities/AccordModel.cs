@@ -11,5 +11,8 @@ namespace SongsDBLayer.Entities
         public int Id { get; set; }
         public string AccordName { get; set; }
         public string AccordURL { get; set; }
+        public int? SongId { get; set; }
+        public SongModel Song { get; set; }
+
     }
 }

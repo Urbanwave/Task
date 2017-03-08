@@ -123,12 +123,6 @@ C:\Учеба\itra\Songs\Task\Songs\Songs\obj\Debug\Songs.dll
 C:\Учеба\itra\Songs\Task\Songs\Songs\obj\Debug\Songs.pdb
 C:\Учеба\itra\Songs\Task\Songs\Songs\obj\Debug\Songs.Migrations.AddCount.resources
 C:\Учеба\itra\Task\Songs\Songs\obj\Debug\Songs.csprojResolveAssemblyReference.cache
-C:\Учеба\itra\Task\Songs\Songs\obj\Debug\Songs.Migrations.AddViews.resources
-C:\Учеба\itra\Task\Songs\Songs\obj\Debug\Songs.Migrations.AddSongsCount.resources
-C:\Учеба\itra\Task\Songs\Songs\obj\Debug\Songs.Migrations.AddCount.resources
-C:\Учеба\itra\Task\Songs\Songs\obj\Debug\Songs.Migrations.AddSongsViewAmount.resources
-C:\Учеба\itra\Task\Songs\Songs\obj\Debug\Songs.Migrations.AddAccords.resources
-C:\Учеба\itra\Task\Songs\Songs\obj\Debug\Songs.csproj.GenerateResource.Cache
 C:\Учеба\itra\Task\Songs\Songs\bin\ApplicationInsights.config
 C:\Учеба\itra\Task\Songs\Songs\bin\roslyn\csc.exe
 C:\Учеба\itra\Task\Songs\Songs\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll

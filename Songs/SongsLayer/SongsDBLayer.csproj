@@ -79,6 +79,14 @@
     <Compile Include="Migrations\201703081541445_add.Designer.cs">
       <DependentUpon>201703081541445_add.cs</DependentUpon>
     </Compile>
+    <Compile Include="Migrations\201703081909300_123.cs" />
+    <Compile Include="Migrations\201703081909300_123.Designer.cs">
+      <DependentUpon>201703081909300_123.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\201703082142147_redacr accords.cs" />
+    <Compile Include="Migrations\201703082142147_redacr accords.Designer.cs">
+      <DependentUpon>201703082142147_redacr accords.cs</DependentUpon>
+    </Compile>
     <Compile Include="Migrations\Configuration.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Repositories\SingerRepository.cs" />
@@ -103,6 +111,12 @@
     </EmbeddedResource>
     <EmbeddedResource Include="Migrations\201703081541445_add.resx">
       <DependentUpon>201703081541445_add.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201703081909300_123.resx">
+      <DependentUpon>201703081909300_123.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201703082142147_redacr accords.resx">
+      <DependentUpon>201703082142147_redacr accords.cs</DependentUpon>
     </EmbeddedResource>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

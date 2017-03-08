@@ -24,11 +24,37 @@ namespace SongsDBLayer.Repositories
         }
 
         public void AddSong(SongModel Song)
-        {
-            //Song.Singer.Songs.Add(Song);
-            //db.Songs.Add(Song);
+        {     
+            db.Songs.Add(Song);
+            db.SaveChanges();         
+        }
 
-            db.Singers.Where(x => x.Id == Song.Singer.Id).FirstOrDefault().Songs.Add(Song);
+        public List<SongModel> GetAllSongs()
+        {
+            return db.Songs.ToList();
+        }
+
+        public List<string> GetSongsUrl()
+        {
+            List<string> URLS = new List<string>();
+
+            foreach (var item in db.Songs.ToList())
+            {
+                URLS.Add(item.SongURL);
+            }
+            return URLS;
+        }
+
+        public void AddSongTextByURL(string text, string URL)
+        {
+            db.Songs.Where(x => x.SongURL == URL).FirstOrDefault().Text = text;
+            db.SaveChanges();
+        }
+
+        public void AddAccord(AccordModel Accord, string URL)
+        {        
+            Accord.SongId = db.Songs.Where(x => x.SongURL == URL).FirstOrDefault().Id;
+            db.Accords.Add(Accord);
             db.SaveChanges();
         }
     }

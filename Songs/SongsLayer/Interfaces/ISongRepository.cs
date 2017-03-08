@@ -11,5 +11,9 @@ namespace SongsDBLayer.Interfaces
     {
         SongModel SelectSingerSong(int SingerId);
         void AddSong(SongModel Songs);
+        List<string> GetSongsUrl();
+        List<SongModel> GetAllSongs();
+        void AddAccord(AccordModel Accord, string URL);
+        void AddSongTextByURL(string text, string URL);
     }
 }
