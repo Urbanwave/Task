@@ -14,5 +14,6 @@ namespace SongsDBLayer.Interfaces
         void AddSinger(SingerModel Singer);
         List<string> GetSingersUrl();
         SingerModel GetSingersByUrl(string URL);
+        List<SingerModel> GettAllSingers();
     }
 }

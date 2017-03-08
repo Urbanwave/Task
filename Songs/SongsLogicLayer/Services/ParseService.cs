@@ -103,7 +103,7 @@ namespace SongsLogicLayer.Services
                         }
                     }
                 }
-                Thread.Sleep(60000);
+               // Thread.Sleep(60000);
             }
         }
 
@@ -114,18 +114,23 @@ namespace SongsLogicLayer.Services
             HtmlNodeCollection div;
 
             List<string> urls = new List<string>();
+            List<SingerModelDTO> singers = new SingerService().GettAllSingers(); 
 
             urls = new SingerService().GetSingersUrl();
 
-            for (int i = 0; i < 10; i++)
+            for (int i = 0; i < 30; i++)
             {
+                if (i > 0 && i % 50 == 0)
+                {
+                    Thread.Sleep(60000);
+                }
                 doc = webDoc.Load(urls[i]);
 
                 div = doc.DocumentNode.SelectNodes("//div[@class='artist-profile-song-list']//tr");
 
                 if (div != null)
                 {
-                    foreach (HtmlNode HN in div.Cast<HtmlNode>().Take(amount+1))
+                    foreach (HtmlNode HN in div.Cast<HtmlNode>().Take(amount + 1))
                     {
                         if (HN.Name == "tr")
                         {
@@ -154,17 +159,21 @@ namespace SongsLogicLayer.Services
                             }
                             if (song.Name != null)
                             {
-                                song.Singer = new SingerService().GetSingersByUrl(urls[i]);
+                                //foreach (var item in singers)
+                                //{ 
+                                //    if(item.SingerURL == urls[i])
+                                //    {
+                                        song.Singer = new SingerService().GetSingersByUrl(urls[i]);
+                                //    }
+                                //}
                                 new SongService().AddSong(song);
                             }
-                        }             
+                        }
                     }
                 }
             }
         }
-    }
-}
-           
+
 
         //public void ParseSongs(int pageamount)
         //{
@@ -250,35 +259,35 @@ namespace SongsLogicLayer.Services
         //    // Thread.Sleep(60000);
         //}
 
-//        public void ParseSingers()
-//        {
-//            ParseSingersName(10);
-//            ParseSingersBiography(10);
+        public void ParseSingers()
+        {
+            ParseSingersName(1);
+            ParseSingersBiography(1);
 
-//            SingerService singerService = new SingerService();
+            SingerService singerService = new SingerService();
 
-//            SingerModelDTO Singer = new SingerModelDTO();
+            SingerModelDTO Singer = new SingerModelDTO();
 
-//            for (int i = 0; i < 300; i++)
-//            {
-//                Singer.Name = AllSingersNames[i];
-//                Singer.Biography = AllSingerDiscriptions[i];
-//                Singer.SingerURL = AllSingerLinks[i];
+            for (int i = 0; i < 30; i++)
+            {
+                Singer.Name = AllSingersNames[i];
+                Singer.Biography = AllSingerDiscriptions[i];
+                Singer.SingerURL = AllSingerLinks[i];
 
-//                if (i == 0)
-//                {
-//                    Singer.SongsAmount = Convert.ToInt32(AllSingerSongsAmountAndViews[0]);
-//                    Singer.ViewsAmount = Convert.ToInt32(AllSingerSongsAmountAndViews[1]);
+                if (i == 0)
+                {
+                    Singer.SongsAmount = Convert.ToInt32(AllSingerSongsAmountAndViews[0]);
+                    Singer.ViewsAmount = Convert.ToInt32(AllSingerSongsAmountAndViews[1]);
 
-//                }
-//                else
-//                {
-//                    Singer.SongsAmount = Convert.ToInt32(AllSingerSongsAmountAndViews[i * 2]);
-//                    Singer.ViewsAmount = Convert.ToInt32(AllSingerSongsAmountAndViews[i * 2 + 1]);
-//                }
-//                singerService.AddSinger(Singer);
-//            }
-//        }
-//    }
-//}
+                }
+                else
+                {
+                    Singer.SongsAmount = Convert.ToInt32(AllSingerSongsAmountAndViews[i * 2]);
+                    Singer.ViewsAmount = Convert.ToInt32(AllSingerSongsAmountAndViews[i * 2 + 1]);
+                }
+                singerService.AddSinger(Singer);
+            }
+        }
+    }
+}
 

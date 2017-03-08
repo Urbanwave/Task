@@ -26,3 +26,5 @@ D:\Task\Task\Songs\SongsLayer\obj\Debug\SongsDBLayer.Migrations.InitialCreate.re
 D:\Task\Task\Songs\SongsLayer\obj\Debug\SongsDBLayer.csproj.GenerateResource.Cache
 D:\Task\Task\Songs\SongsLayer\obj\Debug\SongsDBLayer.Migrations.Test.resources
 D:\Task\Task\Songs\SongsLayer\obj\Debug\SongsDBLayer.Migrations.addsongurl.resources
+D:\Task\Task\Songs\SongsLayer\obj\Debug\SongsDBLayer.Migrations.addsong.resources
+D:\Task\Task\Songs\SongsLayer\obj\Debug\SongsDBLayer.Migrations.add.resources

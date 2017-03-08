@@ -57,5 +57,12 @@ namespace SongsLogicLayer.Services
 
             return Mapper.Map<SingerModel, SingerModelDTO>(singerRep.GetSingersByUrl(URL));
         }
+
+        public List<SingerModelDTO> GettAllSingers()
+        {
+            Mapper.Initialize(cfg => cfg.CreateMap<SingerModel, SingerModelDTO>());
+
+            return Mapper.Map<List<SingerModel>, List<SingerModelDTO>>(singerRep.GettAllSingers());
+        }
     }
 }

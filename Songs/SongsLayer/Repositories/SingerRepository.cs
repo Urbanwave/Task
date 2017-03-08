@@ -38,7 +38,10 @@ namespace SongsDBLayer.Repositories
         {
             context.Singers.Add(Singer);
             context.SaveChanges();
+            context.Entry(Singer).State = System.Data.Entity.EntityState.Unchanged;
+            context.SaveChanges();
         }
+
 
         public List<string> GetSingersUrl()
         {
@@ -54,6 +57,11 @@ namespace SongsDBLayer.Repositories
         public SingerModel GetSingersByUrl(string URL)
         {
             return context.Singers.Where(x => x.SingerURL == URL).FirstOrDefault();
+        }
+
+        public List<SingerModel> GettAllSingers()
+        {
+            return context.Singers.ToList();
         }
     }
 }

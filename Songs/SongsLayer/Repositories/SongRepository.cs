@@ -25,7 +25,10 @@ namespace SongsDBLayer.Repositories
 
         public void AddSong(SongModel Song)
         {
-            db.Songs.Add(Song);
+            //Song.Singer.Songs.Add(Song);
+            //db.Songs.Add(Song);
+
+            db.Singers.Where(x => x.Id == Song.Singer.Id).FirstOrDefault().Songs.Add(Song);
             db.SaveChanges();
         }
     }
