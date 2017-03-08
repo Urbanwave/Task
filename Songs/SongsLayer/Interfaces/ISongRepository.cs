@@ -10,5 +10,6 @@ namespace SongsDBLayer.Interfaces
     interface ISongRepository
     {
         SongModel SelectSingerSong(int SingerId);
+        void AddSong(SongModel Songs);
     }
 }

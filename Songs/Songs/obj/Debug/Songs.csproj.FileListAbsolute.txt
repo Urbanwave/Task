@@ -58,9 +58,6 @@ D:\Task\Task\Songs\Songs\bin\EntityFramework.SqlServer.xml
 D:\Task\Task\Songs\Songs\bin\HtmlAgilityPack.dll
 D:\Task\Task\Songs\Songs\bin\HtmlAgilityPack.pdb
 D:\Task\Task\Songs\Songs\bin\HtmlAgilityPack.xml
-D:\Task\Task\Songs\Songs\obj\Debug\Songs.Migrations.AddViews.resources
-D:\Task\Task\Songs\Songs\obj\Debug\Songs.csproj.GenerateResource.Cache
-D:\Task\Task\Songs\Songs\obj\Debug\Songs.Migrations.AddSongsCount.resources
 C:\Учеба\itra\Songs\Task\Songs\Songs\bin\ApplicationInsights.config
 C:\Учеба\itra\Songs\Task\Songs\Songs\bin\roslyn\csc.exe
 C:\Учеба\itra\Songs\Task\Songs\Songs\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
@@ -125,9 +122,6 @@ C:\Учеба\itra\Songs\Task\Songs\Songs\obj\Debug\Songs.csproj.GenerateResourc
 C:\Учеба\itra\Songs\Task\Songs\Songs\obj\Debug\Songs.dll
 C:\Учеба\itra\Songs\Task\Songs\Songs\obj\Debug\Songs.pdb
 C:\Учеба\itra\Songs\Task\Songs\Songs\obj\Debug\Songs.Migrations.AddCount.resources
-D:\Task\Task\Songs\Songs\obj\Debug\Songs.Migrations.AddCount.resources
-D:\Task\Task\Songs\Songs\obj\Debug\Songs.Migrations.AddSongsViewAmount.resources
-D:\Task\Task\Songs\Songs\obj\Debug\Songs.Migrations.AddAccords.resources
 C:\Учеба\itra\Task\Songs\Songs\obj\Debug\Songs.csprojResolveAssemblyReference.cache
 C:\Учеба\itra\Task\Songs\Songs\obj\Debug\Songs.Migrations.AddViews.resources
 C:\Учеба\itra\Task\Songs\Songs\obj\Debug\Songs.Migrations.AddSongsCount.resources
@@ -200,3 +194,9 @@ C:\Учеба\itra\Task\Songs\Songs\bin\SongsDBLayer.pdb
 C:\Учеба\itra\Task\Songs\Songs\bin\AutoMapper.xml
 C:\Учеба\itra\Task\Songs\Songs\obj\Debug\Songs.dll
 C:\Учеба\itra\Task\Songs\Songs\obj\Debug\Songs.pdb
+D:\Task\Task\Songs\Songs\bin\SongsLogicLayer.dll
+D:\Task\Task\Songs\Songs\bin\SongsDBLayer.dll
+D:\Task\Task\Songs\Songs\bin\AutoMapper.dll
+D:\Task\Task\Songs\Songs\bin\SongsLogicLayer.pdb
+D:\Task\Task\Songs\Songs\bin\SongsDBLayer.pdb
+D:\Task\Task\Songs\Songs\bin\AutoMapper.xml

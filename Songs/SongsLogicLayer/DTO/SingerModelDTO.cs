@@ -16,11 +16,11 @@ namespace SongsLogicLayer.DTO
         public int ViewsAmount { get; set; }
         public string SingerURL { get; set; }
 
-        public ICollection<SongModel> Songs { get; set; }
+        public ICollection<SongModelDTO> Songs { get; set; }
 
         public SingerModelDTO()
         {
-            Songs = new List<SongModel>();
+            Songs = new List<SongModelDTO>();
         }
     }
 }

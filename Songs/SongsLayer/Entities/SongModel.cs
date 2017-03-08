@@ -12,6 +12,7 @@ namespace SongsDBLayer.Entities
         public string Name { get; set; }
         public string Text { get; set; }
         public int ViewsAmount { get; set; }
+        public string SongURL { get; set; }
 
         public SingerModel Singer { get; set; }
 

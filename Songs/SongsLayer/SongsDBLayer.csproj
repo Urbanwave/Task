@@ -59,6 +59,19 @@
     <Compile Include="Entities\SongModel.cs" />
     <Compile Include="Interfaces\ISingerRepository.cs" />
     <Compile Include="Interfaces\ISongRepository.cs" />
+    <Compile Include="Migrations\201703080901002_InitialCreate.cs" />
+    <Compile Include="Migrations\201703080901002_InitialCreate.Designer.cs">
+      <DependentUpon>201703080901002_InitialCreate.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\201703081004543_Test.cs" />
+    <Compile Include="Migrations\201703081004543_Test.Designer.cs">
+      <DependentUpon>201703081004543_Test.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\201703081007258_add song url.cs" />
+    <Compile Include="Migrations\201703081007258_add song url.Designer.cs">
+      <DependentUpon>201703081007258_add song url.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\Configuration.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Repositories\SingerRepository.cs" />
     <Compile Include="Repositories\SongRepository.cs" />
@@ -67,7 +80,17 @@
     <None Include="App.config" />
     <None Include="packages.config" />
   </ItemGroup>
-  <ItemGroup />
+  <ItemGroup>
+    <EmbeddedResource Include="Migrations\201703080901002_InitialCreate.resx">
+      <DependentUpon>201703080901002_InitialCreate.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201703081004543_Test.resx">
+      <DependentUpon>201703081004543_Test.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201703081007258_add song url.resx">
+      <DependentUpon>201703081007258_add song url.cs</DependentUpon>
+    </EmbeddedResource>
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
        Other similar extension points exist, see Microsoft.Common.targets.

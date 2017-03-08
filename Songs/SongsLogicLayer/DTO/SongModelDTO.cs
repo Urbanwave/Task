@@ -13,14 +13,15 @@ namespace SongsLogicLayer.DTO
         public string Name { get; set; }
         public string Text { get; set; }
         public int ViewsAmount { get; set; }
-        public SingerModel Singer { get; set; }
+        public string SongURL { get; set; }
 
-        public ICollection<AccordModel> Accords { get; set; }
+        public SingerModelDTO Singer { get; set; }
 
+        public ICollection<AccordModelDTO> Accords { get; set; }
 
         public SongModelDTO()
         {
-            Accords = new List<AccordModel>();
+            Accords = new List<AccordModelDTO>();
         }
     }
 }

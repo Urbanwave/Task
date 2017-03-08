@@ -52,6 +52,7 @@
     <Compile Include="DTO\AccordModelDTO.cs" />
     <Compile Include="DTO\SingerModelDTO.cs" />
     <Compile Include="DTO\SongModelDTO.cs" />
+    <Compile Include="Interfaces\ISingerService.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Services\ParseService.cs" />
     <Compile Include="Services\SingerService.cs" />
@@ -66,9 +67,7 @@
       <Name>SongsDBLayer</Name>
     </ProjectReference>
   </ItemGroup>
-  <ItemGroup>
-    <Folder Include="Interfaces\" />
-  </ItemGroup>
+  <ItemGroup />
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
        Other similar extension points exist, see Microsoft.Common.targets.

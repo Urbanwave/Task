@@ -8,10 +8,11 @@ using SongsDBLayer.EF;
 using SongsDBLayer.Entities;
 using SongsDBLayer.Repositories;
 using AutoMapper;
+using SongsLogicLayer.Interfaces;
 
 namespace SongsLogicLayer.Services
 {
-    public class SingerService
+    public class SingerService : ISingerService
     {
         DBContext context;
         SingerRepository singerRep;
@@ -42,6 +43,19 @@ namespace SongsLogicLayer.Services
 
             SingerModel singer = Mapper.Map<SingerModelDTO, SingerModel>(Singer);
             singerRep.AddSinger(singer);
+        }
+
+
+        public List<string> GetSingersUrl()
+        {
+            return singerRep.GetSingersUrl();
+        }
+
+        public SingerModelDTO GetSingersByUrl(string URL)
+        {
+            Mapper.Initialize(cfg => cfg.CreateMap<SingerModel, SingerModelDTO>());
+
+            return Mapper.Map<SingerModel, SingerModelDTO>(singerRep.GetSingersByUrl(URL));
         }
     }
 }

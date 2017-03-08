@@ -166,26 +166,6 @@
     <Compile Include="Global.asax.cs">
       <DependentUpon>Global.asax</DependentUpon>
     </Compile>
-    <Compile Include="Migrations\201703061339432_AddViews.cs" />
-    <Compile Include="Migrations\201703061339432_AddViews.Designer.cs">
-      <DependentUpon>201703061339432_AddViews.cs</DependentUpon>
-    </Compile>
-    <Compile Include="Migrations\201703061708400_AddSongsCount.cs" />
-    <Compile Include="Migrations\201703061708400_AddSongsCount.Designer.cs">
-      <DependentUpon>201703061708400_AddSongsCount.cs</DependentUpon>
-    </Compile>
-    <Compile Include="Migrations\201703061935176_AddCount.cs" />
-    <Compile Include="Migrations\201703061935176_AddCount.Designer.cs">
-      <DependentUpon>201703061935176_AddCount.cs</DependentUpon>
-    </Compile>
-    <Compile Include="Migrations\201703070906578_Add Song%27s ViewAmount.cs" />
-    <Compile Include="Migrations\201703070906578_Add Song%27s ViewAmount.Designer.cs">
-      <DependentUpon>201703070906578_Add Song%27s ViewAmount.cs</DependentUpon>
-    </Compile>
-    <Compile Include="Migrations\201703071502068_Add Accords.cs" />
-    <Compile Include="Migrations\201703071502068_Add Accords.Designer.cs">
-      <DependentUpon>201703071502068_Add Accords.cs</DependentUpon>
-    </Compile>
     <Compile Include="Models\MainPageModel.cs" />
     <Compile Include="Models\SingerPageModel.cs" />
     <Compile Include="Models\SongPageModel.cs" />
@@ -256,23 +236,6 @@
     <Content Include="packages.config" />
     <None Include="Project_Readme.html" />
     <Content Include="Scripts\jquery-1.10.2.min.map" />
-  </ItemGroup>
-  <ItemGroup>
-    <EmbeddedResource Include="Migrations\201703061339432_AddViews.resx">
-      <DependentUpon>201703061339432_AddViews.cs</DependentUpon>
-    </EmbeddedResource>
-    <EmbeddedResource Include="Migrations\201703061708400_AddSongsCount.resx">
-      <DependentUpon>201703061708400_AddSongsCount.cs</DependentUpon>
-    </EmbeddedResource>
-    <EmbeddedResource Include="Migrations\201703061935176_AddCount.resx">
-      <DependentUpon>201703061935176_AddCount.cs</DependentUpon>
-    </EmbeddedResource>
-    <EmbeddedResource Include="Migrations\201703070906578_Add Song%27s ViewAmount.resx">
-      <DependentUpon>201703070906578_Add Song%27s ViewAmount.cs</DependentUpon>
-    </EmbeddedResource>
-    <EmbeddedResource Include="Migrations\201703071502068_Add Accords.resx">
-      <DependentUpon>201703071502068_Add Accords.cs</DependentUpon>
-    </EmbeddedResource>
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\SongsLogicLayer\SongsLogicLayer.csproj">

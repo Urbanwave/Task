@@ -39,5 +39,21 @@ namespace SongsDBLayer.Repositories
             context.Singers.Add(Singer);
             context.SaveChanges();
         }
+
+        public List<string> GetSingersUrl()
+        {
+            List<string> URLS = new List<string>();
+
+            foreach (var item in context.Singers.ToList())
+            {
+                URLS.Add(item.SingerURL);
+            }
+            return URLS;
+        }
+
+        public SingerModel GetSingersByUrl(string URL)
+        {
+            return context.Singers.Where(x => x.SingerURL == URL).FirstOrDefault();
+        }
     }
 }

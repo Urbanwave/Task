@@ -14,7 +14,11 @@ namespace Songs.Controllers
         public ActionResult Index(int page = 1)
         {
             ParseService parse = new ParseService();
-            parse.ParseSingers();
+            parse.ParseSongs(3);
+
+            List<string> urls = new List<string>();
+
+            urls = new SingerService().GetSingersUrl();
 
             ViewBag.Page = page;
             return View(new MainPageModel(page));

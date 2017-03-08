@@ -1,9 +1,9 @@
-namespace Songs.Migrations
+namespace SongsDBLayer.Migrations
 {
     using System;
     using System.Data.Entity.Migrations;
     
-    public partial class AddCount : DbMigration
+    public partial class Test : DbMigration
     {
         public override void Up()
         {
