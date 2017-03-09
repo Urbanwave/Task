@@ -15,7 +15,7 @@ namespace Songs.Models
         public string Tags;
         public string initialTags;
 
-        public SongPageModel(int SongId)
+        public SongPageModel(int SongId, string sort)
         {
             Song = new SongService().GetSongById(SongId);
             Accords = new SongService().GetAllAccords();

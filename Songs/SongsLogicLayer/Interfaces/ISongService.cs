@@ -16,7 +16,7 @@ namespace SongsLogicLayer.Interfaces
         void AddSongTextByURL(string text, string URL);
         void AddAccord(AccordModelDTO Accord, string URL);
         List<SongModel> GetAllSongs();
-        List<SongModelDTO> GetSongsByUserId(int SingerId);
+        List<SongModelDTO> GetSongsByUserId(int SingerId, string sort);
         SongModelDTO GetSongById(int SongId);
         List<AccordModelDTO> GetAccordsBySongId(int SongId);
         List<AccordModelDTO> GetAllAccords();

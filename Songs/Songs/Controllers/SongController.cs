@@ -9,9 +9,9 @@ namespace Songs.Controllers
 {
     public class SongController : Controller
     {
-        public ActionResult SongInfo(int SongId)
+        public ActionResult SongInfo(int SongId, string sort)
         {
-            return View(new SongPageModel(SongId));
+            return View(new SongPageModel(SongId, sort));
         }
     }
 }

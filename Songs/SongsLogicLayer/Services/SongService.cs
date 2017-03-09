@@ -66,9 +66,9 @@ namespace SongsLogicLayer.Services
             songRep.AddAccord(accord, URL);
         }
 
-        public List<SongModelDTO> GetSongsByUserId(int SingerId)
+        public List<SongModelDTO> GetSongsByUserId(int SingerId, string sort)
         {
-            List<SongModel> songs = songRep.GetSongsByUserId(SingerId);
+            List<SongModel> songs = songRep.GetSongsByUserId(SingerId, sort);
             List<SongModelDTO> songsDTO = new List<SongModelDTO>();
 
             foreach (var item in songs)

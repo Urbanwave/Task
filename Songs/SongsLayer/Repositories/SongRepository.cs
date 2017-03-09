@@ -58,9 +58,26 @@ namespace SongsDBLayer.Repositories
             db.SaveChanges();
         }
 
-        public List<SongModel> GetSongsByUserId(int SingerId)
+        public List<SongModel> GetSongsByUserId(int SingerId,string sort)
         {
-            return db.Songs.Where(x => x.SingerId == SingerId).ToList();
+            switch (sort)
+            {
+                case "SortDownByNames":
+                    return db.Songs.Where(x => x.SingerId == SingerId).OrderByDescending(x => x.Name).ToList();
+
+                case "SortUpByNames":
+                    return db.Songs.Where(x => x.SingerId == SingerId).OrderBy(x => x.Name).ToList();
+
+                case "SortDownByViewsAmount":
+                    return db.Songs.Where(x => x.SingerId == SingerId).OrderByDescending(x => x.ViewsAmount).ToList();
+
+                case "SortUpByViewsAmount":
+                    return db.Songs.Where(x => x.SingerId == SingerId).OrderBy(x => x.ViewsAmount).ToList(); 
+
+                default:
+                    return db.Songs.Where(x => x.SingerId == SingerId).ToList();
+            }
+
         }
 
         public SongModel GetSongById(int SongId)

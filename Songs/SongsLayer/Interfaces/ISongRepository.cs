@@ -15,7 +15,7 @@ namespace SongsDBLayer.Interfaces
         List<SongModel> GetAllSongs();
         void AddAccord(AccordModel Accord, string URL);
         void AddSongTextByURL(string text, string URL);
-        List<SongModel> GetSongsByUserId(int SingerId);
+        List<SongModel> GetSongsByUserId(int SingerId, string sort);
         SongModel GetSongById(int SongId);
         List<AccordModel> GetAccordsBySongId(int SongId);
         List<AccordModel> GetAllAccords();
