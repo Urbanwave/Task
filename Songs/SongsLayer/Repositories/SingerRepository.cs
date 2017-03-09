@@ -19,12 +19,53 @@ namespace SongsDBLayer.Repositories
             db = context;
         }
 
-        public List<SingerModel> SelectOnePage(int pageNumber)
+        public List<SingerModel> SelectOnePage(int pageNumber,string sort)
         {
-            return db.Singers
-                    .OrderByDescending(s => s.ViewsAmount)
-                    .Skip((pageNumber - 1) * 30)
-                    .Take(30).ToList();
+            switch (sort)
+            {
+                case "SortDownByNames":
+                    return db.Singers
+                        .OrderByDescending(s => s.Name)
+                        .Skip((pageNumber - 1) * 30)
+                        .Take(30).ToList();
+
+                case "SortUpByNames":
+                    return db.Singers
+                       .OrderBy(s => s.Name)
+                       .Skip((pageNumber - 1) * 30)
+                       .Take(30).ToList();
+
+                case "SortDownBySongsAmount":
+                    return db.Singers
+                       .OrderByDescending(s => s.SongsAmount)
+                       .Skip((pageNumber - 1) * 30)
+                       .Take(30).ToList();
+
+                case "SortUpBySongsAmount":
+                    return db.Singers
+                       .OrderBy(s => s.SongsAmount)
+                       .Skip((pageNumber - 1) * 30)
+                       .Take(30).ToList();
+
+                case "SortDownByViewsAmount":
+                    return db.Singers
+                       .OrderByDescending(s => s.ViewsAmount)
+                       .Skip((pageNumber - 1) * 30)
+                       .Take(30).ToList();
+
+                case "SortUpByViewsAmount":
+                    return db.Singers
+                       .OrderBy(s => s.ViewsAmount)
+                       .Skip((pageNumber - 1) * 30)
+                       .Take(30).ToList();
+
+                default:
+                    return db.Singers
+                        .OrderByDescending(s => s.ViewsAmount)
+                        .Skip((pageNumber - 1) * 30)
+                        .Take(30).ToList();
+            }
+
         }
 
         public SingerModel SelectSingerPage(int SingerId)

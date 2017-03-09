@@ -12,7 +12,6 @@ namespace SongsLogicLayer.Interfaces
         List<string> GetSingersUrl();
         void AddSinger(SingerModelDTO Singer);
         SingerModelDTO SelectSingerPage(int SingerId);
-        List<SingerModelDTO> SelectOnePage(int pageNumber);
-        SingerModelDTO GetSingersByUrl(string URL);
+        List<SingerModelDTO> SelectOnePage(int pageNumber, string sort);
     }
 }

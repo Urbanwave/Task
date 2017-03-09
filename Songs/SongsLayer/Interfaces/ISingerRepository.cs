@@ -9,7 +9,7 @@ namespace SongsDBLayer.Interfaces
 {
     interface ISingerRepository
     {
-        List<SingerModel> SelectOnePage(int pageNumber);
+        List<SingerModel> SelectOnePage(int pageNumber, string sort);
         SingerModel SelectSingerPage(int SingerId);
         void AddSinger(SingerModel Singer);
         List<string> GetSingersUrl();

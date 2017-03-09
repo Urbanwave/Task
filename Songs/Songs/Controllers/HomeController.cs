@@ -11,15 +11,15 @@ namespace Songs.Controllers
     public class HomeController : Controller
     {
 
-        public ActionResult Index(int page = 1)
+        public ActionResult Index(string sort, int page = 1)
         {
             //ParseService parse = new ParseService();
             //parse.ParseSingers();
             //parse.ParseSongs(10);
             //parse.ParseSongsAccords();
-
+            ViewBag.sort = sort;
             ViewBag.Page = page;
-            return View(new MainPageModel(page));
+            return View(new MainPageModel(page, sort));
         }
 
         public ActionResult About()

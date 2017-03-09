@@ -4,14 +4,25 @@
 
 @model Songs.Models.MainPageModel
 
+<link href="../../Content/font-awesome.css" rel="stylesheet" />
+
 <div class="container">
     <h2>Топ исполнителей</h2>
     <table class="table table-bordered">
         <thead>
             <tr>
-                <th>Исполнитель</th>
-                <th>Подборов</th>
-                <th>Просмотров</th>
+                <th>Исполнитель            
+                    <a href="/Home/Index?page=@Model.PageId&sort=@Model.SortDownByNames"><i class="fa fa-arrow-down" aria-hidden="true"></i></a>
+                    <a href="/Home/Index?page=@Model.PageId&sort=@Model.SortUpByNames"><i class="fa fa-arrow-up" aria-hidden="true"></i></a>
+                </th>
+                <th>Подборов
+                    <a href="/Home/Index?page=@Model.PageId&sort=@Model.SortDownBySongsAmount"><i class="fa fa-arrow-down" aria-hidden="true"></i></a>
+                    <a href="/Home/Index?page=@Model.PageId&sort=@Model.SortUpBySongsAmount"><i class="fa fa-arrow-up" aria-hidden="true"></i></a>
+                </th>
+                <th>Просмотров
+                    <a href="/Home/Index?page=@Model.PageId&sort=@Model.SortDownByViewsAmount"><i class="fa fa-arrow-down" aria-hidden="true"></i></a>
+                    <a href="/Home/Index?page=@Model.PageId&sort=@Model.SortUpByViewsAmount"><i class="fa fa-arrow-up" aria-hidden="true"></i></a>
+                </th>
             </tr>
         </thead>
         <tbody>
@@ -34,7 +45,7 @@
             }
             else
             {
-                <a href="/Home/Index?page=@i">@i</a>
+                <a href="/Home/Index?page=@i&sort=@ViewBag.sort">@i</a>
             }
         }
     </div>

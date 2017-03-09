@@ -23,11 +23,11 @@ namespace SongsLogicLayer.Services
             singerRep = new SingerRepository(context);
         }
 
-        public List<SingerModelDTO> SelectOnePage(int pageNumber)
+        public List<SingerModelDTO> SelectOnePage(int pageNumber, string sort)
         {        
             Mapper.Initialize(cfg => cfg.CreateMap<SingerModel, SingerModelDTO>());
 
-            return Mapper.Map<List<SingerModel>, List<SingerModelDTO>>(singerRep.SelectOnePage(pageNumber));
+            return Mapper.Map<List<SingerModel>, List<SingerModelDTO>>(singerRep.SelectOnePage(pageNumber, sort));
         }
 
         public SingerModelDTO SelectSingerPage(int SingerId)
