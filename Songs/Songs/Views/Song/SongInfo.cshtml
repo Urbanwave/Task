@@ -10,10 +10,14 @@
     <script src="http://code.jquery.com/jquery-2.1.1.js"></script>
     <script src="http://code.jquery.com/ui/1.11.1/jquery-ui.js"></script>
     <link href="../../Content/jquery.tag-editor.css" rel="stylesheet" />
-    <script src="../../Scripts/jquery.tag-editor.js"></script>
+    @*<script src="../../Scripts/jquery.tag-editor.js"></script>*@
     <script src="../../Scripts/jquery.tag-editor.min.js"></script>
-    <script src="../../Scripts/jquery.caret.min.js"></script>
+    <link href="../../Content/font-awesome.css" rel="stylesheet" />
+    @*<script src="../../Scripts/jquery.caret.min.js"></script>*@
 
+    <link href="../../Content/bootstrap-tokenfield.css" rel="stylesheet" />
+    <script src="../../Scripts/bootstrap-tokenfield.js"></script>
+    <script src="../../Scripts/bootstrap-tokenfield.min.js"></script>
 
     <div class="container">
         <h2>@Model.Song.Name</h2>
@@ -39,26 +43,72 @@
                 }
             </tbody>
         </table>
-        <input type="button" class="btn btn-default" value="Сохранить" />
+        @using (Html.BeginForm("SaveTags", "Song", FormMethod.Post, new { id = "form" }))
+        {
+            @Html.AntiForgeryToken()
+            <input type="hidden" id="inputData" name="inputData" />
+        }
+        <input id="save" type="button" class="btn btn-default" value="Сохранить" />
         <input type="text" class="form-control" id="demo2" value="" />
+
+        <div align="center">
+            @if (Model.previousSongId != 0)
+            {
+                <a href="/Song/SongInfo?SongId=@Model.previousSongId"><i class="fa fa-arrow-left fa-3x" aria-hidden="true"></i></a>
+            }
+
+            @if (Model.nextSongId != 0)
+            {
+                <a href="/Song/SongInfo?SongId=@Model.nextSongId"><i class="fa fa-arrow-right fa-3x" aria-hidden="true"></i></a>
+            }
+        </div>
+       @*<input type="text" class="form-control" id="tokenfield" value="" />*@
     </div>
 
-    <script>
+    <script>      
+        jQuery(function ($) {
 
-        var tags = '@Model.Tags';
-        tags = tags.split(';');
+            var tags = '@Model.Tags';
+            tags = tags.split(';');
 
-        var initialtags = '@Model.initialTags';
-        initialtags = initialtags.split(';');
+            var initialtags = '@Model.initialTags';
+            initialtags = initialtags.split(';');
 
-        $('#demo2').tagEditor({
-            initialTags: initialtags,
-            autocomplete: {
-                delay: 0,
-                source: tags
-            },
-            forceLowercase: false,
-            placeholder: 'Accords ...'
+            //$('#tokenfield').val(initialtags);
+
+            $('#demo2').tagEditor({
+                initialTags: initialtags,
+                autocomplete: {
+                    delay: 0,
+                    source: tags
+                },
+                forceLowercase: false,
+                placeholder: 'Accords ...'
+            });
+
+
+            $('#save').click(function () {
+                document.getElementById('inputData').value += $('#tagsarea').tagEditor('getTags')[0].tags + ";";
+                $('#form').submit();
+            });
+
+        //    $('#tokenfield').tokenfield({
+        //        autocomplete: {
+        //            source: tags,
+        //            delay: 100
+        //        },
+        //        showAutocompleteOnFocus: true
+        //    });
+
+        //    $('#save').click(function () {
+        //        var tokens = [];
+        //        tokens = $('#tokenfield').tokenfield('getTokens');
+        //        for (var i = 0; i < tokens.length; i++)
+        //        {
+        //            document.getElementById('inputData').value += tokens.value;
+        //        }
+        //        $('#form').submit();
+        //    });
         });
     </script>
 </body>

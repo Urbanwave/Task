@@ -12,6 +12,7 @@
     <script src="../../Scripts/jquery.tag-editor.js"></script>
     <script src="../../Scripts/jquery.tag-editor.min.js"></script>
     <script src="../../Scripts/jquery.caret.min.js"></script>
+    <link href="../../Content/font-awesome.css" rel="stylesheet" />
 
 
     <div class="container">
@@ -24,8 +25,14 @@
         <table class="table">
             <thead>
                 <tr>
-                    <th>Название песни</th>
-                    <th>Количество посмотров</th>
+                    <th>Название песни
+                        <a href="/Singer/SingerInfo?SingerId=@Model.singerId&sort=@Model.SortDownByNames"><i class="fa fa-arrow-down" aria-hidden="true"></i></a>
+                        <a href="/Singer/SingerInfo?SingerId=@Model.singerId&sort=@Model.SortUpByNames"><i class="fa fa-arrow-up" aria-hidden="true"></i></a>
+                    </th>
+                    <th>Количество посмотров
+                        <a href="/Singer/SingerInfo?SingerId=@Model.singerId&sort=@Model.SortDownByViewsAmount"><i class="fa fa-arrow-down" aria-hidden="true"></i></a>
+                        <a href="/Singer/SingerInfo?SingerId=@Model.singerId&sort=@Model.SortUpByViewsAmount"><i class="fa fa-arrow-up" aria-hidden="true"></i></a>
+                    </th>
                 </tr>
             </thead>
             <tbody>

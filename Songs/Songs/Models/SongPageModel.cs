@@ -14,9 +14,18 @@ namespace Songs.Models
         public List<AccordModelDTO> Accords;
         public string Tags;
         public string initialTags;
+        public int songId;
+        public int nextSongId;
+        public int previousSongId;
 
         public SongPageModel(int SongId, string sort)
         {
+            songId = SongId;
+
+            nextSongId = new SongService().GetNextSongId(songId);
+
+            previousSongId = new SongService().GetPreviousSongId(songId);
+
             Song = new SongService().GetSongById(SongId);
             Accords = new SongService().GetAllAccords();
 

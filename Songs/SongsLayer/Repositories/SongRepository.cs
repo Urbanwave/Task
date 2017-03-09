@@ -94,5 +94,21 @@ namespace SongsDBLayer.Repositories
         {
             return db.Accords.GroupBy(x => x.AccordName).Select(x => x.FirstOrDefault()).ToList();
         }
+
+        public int[] GetSongsId(int songId)
+        {
+            SongModel song = db.Songs.Where(x => x.Id == songId).FirstOrDefault();
+    
+            List<SongModel> Songs = db.Songs.Where(x => x.SingerId == song.SingerId).ToList();
+
+            int[] item = new int[Songs.Count()];
+
+            for (int i = 0; i < Songs.Count(); i++)
+            {
+                item[i] = Songs[i].Id;
+            }
+
+            return item;
+        }
     }
 }

@@ -130,5 +130,38 @@ namespace SongsLogicLayer.Services
             }
             return accodrsDTO;
         }
+
+        public int GetNextSongId(int songId)
+        {
+            int[] songsId = songRep.GetSongsId(songId);
+
+            int songPosition = Array.IndexOf(songsId, songId) + 1;
+
+            if (songPosition == (songsId.Count() - 1))
+            {
+                return 0;
+            } else
+            {
+                return songsId[songPosition + 1];
+            }
+        }
+
+
+        public int GetPreviousSongId(int songId)
+        {
+            int[] songsId = songRep.GetSongsId(songId);
+
+            int songPosition = Array.IndexOf(songsId, songId) + 1;
+
+            if (songPosition == 0)
+            {
+                return 0;
+            }
+            else
+            {
+                return songsId[songPosition - 1];
+            }
+        }
+
     }
 }

@@ -13,5 +13,11 @@ namespace Songs.Controllers
         {
             return View(new SongPageModel(SongId, sort));
         }
+
+        [HttpPost]
+        public void SaveTags(string inputData)
+        {
+            //return View(new SongPageModel(SongId, sort));
+        }
     }
 }

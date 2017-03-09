@@ -19,5 +19,6 @@ namespace SongsDBLayer.Interfaces
         SongModel GetSongById(int SongId);
         List<AccordModel> GetAccordsBySongId(int SongId);
         List<AccordModel> GetAllAccords();
+        int[] GetSongsId(int songId);
     }
 }
