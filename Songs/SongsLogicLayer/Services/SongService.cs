@@ -153,6 +153,11 @@ namespace SongsLogicLayer.Services
 
             int songPosition = Array.IndexOf(songsId, songId) + 1;
 
+            if (songPosition == 10)
+            {
+                return songsId[songPosition - 2];
+            }
+            else
             if (songPosition == 1)
             {
                 return 0;

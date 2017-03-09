@@ -92,6 +92,7 @@
     <Reference Include="System" />
     <Reference Include="System.Data" />
     <Reference Include="System.Drawing" />
+    <Reference Include="System.Runtime.Caching" />
     <Reference Include="System.Web.DynamicData" />
     <Reference Include="System.Web.Entity" />
     <Reference Include="System.Web.ApplicationServices" />
@@ -170,6 +171,7 @@
     <Compile Include="Models\SingerPageModel.cs" />
     <Compile Include="Models\SongPageModel.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Services\CacheService.cs" />
   </ItemGroup>
   <ItemGroup>
     <Content Include="Content\bootstrap-tokenfield.css" />
@@ -236,6 +238,7 @@
     <Content Include="Views\Singer\SingerInfo.cshtml" />
     <Content Include="Views\Song\SongInfo.cshtml" />
     <Content Include="Views\Song\_AjaxSongPage.cshtml" />
+    <Content Include="Web.sitemap" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />

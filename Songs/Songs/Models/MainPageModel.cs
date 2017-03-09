@@ -5,6 +5,7 @@ using System.Text;
 using System.Threading.Tasks;
 using SongsLogicLayer.DTO;
 using SongsLogicLayer.Services;
+using Songs.Services;
 
 namespace Songs.Models
 {
@@ -18,6 +19,8 @@ namespace Songs.Models
         public string SortUpBySongsAmount = "SortUpBySongsAmount";
         public string SortDownByViewsAmount = "SortDownByViewsAmount";
         public string SortUpByViewsAmount = "SortUpByViewsAmount";
+
+
 
         public MainPageModel(int pageId, string sort)
         {

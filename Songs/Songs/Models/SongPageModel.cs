@@ -5,6 +5,7 @@ using System.Text;
 using System.Threading.Tasks;
 using SongsLogicLayer.DTO;
 using SongsLogicLayer.Services;
+using Songs.Services;
 
 namespace Songs.Models
 {
@@ -27,7 +28,7 @@ namespace Songs.Models
             previousSongId = new SongService().GetPreviousSongId(songId);
 
             Song = new SongService().GetSongById(SongId);
-            Accords = new SongService().GetAllAccords();
+            Accords = new CacheService().GetAccords();
 
             foreach (var item in Song.Accords)
             {

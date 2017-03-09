@@ -13,10 +13,6 @@ namespace Songs.Controllers
 
         public ActionResult Index(string sort, int page = 1)
         {
-            //ParseService parse = new ParseService();
-            //parse.ParseSingers();
-            //parse.ParseSongs(10);
-            //parse.ParseSongsAccords();
             ViewBag.sort = sort;
             ViewBag.Page = page;
             return View(new MainPageModel(page, sort));
