@@ -57,5 +57,25 @@ namespace SongsDBLayer.Repositories
             db.Accords.Add(Accord);
             db.SaveChanges();
         }
+
+        public List<SongModel> GetSongsByUserId(int SingerId)
+        {
+            return db.Songs.Where(x => x.SingerId == SingerId).ToList();
+        }
+
+        public SongModel GetSongById(int SongId)
+        {
+            return db.Songs.Where(x => x.Id == SongId).FirstOrDefault();
+        }
+
+        public List<AccordModel> GetAccordsBySongId(int SongId)
+        {
+            return db.Accords.Where(x => x.SongId == SongId).ToList();
+        }
+
+        public List<AccordModel> GetAllAccords()
+        {
+            return db.Accords.GroupBy(x => x.AccordName).Select(x => x.FirstOrDefault()).ToList();
+        }
     }
 }

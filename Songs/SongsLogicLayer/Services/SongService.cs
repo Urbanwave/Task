@@ -41,7 +41,7 @@ namespace SongsLogicLayer.Services
             SongModel song = new SongModel();
 
             song.Name = Song.Name;
-            song.SingerId = Song.Singer.Id; 
+            song.SingerId = Song.Singer.Id;
             song.SongURL = Song.SongURL;
             song.ViewsAmount = Song.ViewsAmount;
 
@@ -64,6 +64,71 @@ namespace SongsLogicLayer.Services
 
             AccordModel accord = Mapper.Map<AccordModelDTO, AccordModel>(Accord);
             songRep.AddAccord(accord, URL);
+        }
+
+        public List<SongModelDTO> GetSongsByUserId(int SingerId)
+        {
+            List<SongModel> songs = songRep.GetSongsByUserId(SingerId);
+            List<SongModelDTO> songsDTO = new List<SongModelDTO>();
+
+            foreach (var item in songs)
+            {
+                SongModelDTO songDTO = new SongModelDTO();
+
+                songDTO.Id = item.Id;
+                songDTO.Name = item.Name;
+                songDTO.ViewsAmount = item.ViewsAmount;
+                songsDTO.Add(songDTO);
+            }
+            return songsDTO;
+        }
+
+        public SongModelDTO GetSongById(int SongId)
+        {
+            SongModelDTO songDTO = new SongModelDTO();
+            SongModel song = songRep.GetSongById(SongId);
+
+            songDTO.Id = song.Id;
+            songDTO.Name = song.Name;
+            songDTO.Text = song.Text;
+            songDTO.Accords = GetAccordsBySongId(song.Id);
+            songDTO.SongURL = song.SongURL;
+
+            return songDTO;
+        }
+
+        public List<AccordModelDTO> GetAccordsBySongId(int SongId)
+        {
+            List<AccordModel> accords = songRep.GetAccordsBySongId(SongId);
+            List<AccordModelDTO> accodrsDTO = new List<AccordModelDTO>();
+
+            foreach (var item in accords)
+            {
+                AccordModelDTO accordDTO = new AccordModelDTO();
+
+                accordDTO.Id = item.Id;
+                accordDTO.AccordName = item.AccordName;
+                accordDTO.AccordURL = item.AccordURL;
+                accodrsDTO.Add(accordDTO);
+            }
+            return accodrsDTO;
+        }
+
+        public List<AccordModelDTO> GetAllAccords()
+        {
+            List<AccordModel> accords = songRep.GetAllAccords();
+            List<AccordModelDTO> accodrsDTO = new List<AccordModelDTO>();
+
+            foreach (var item in accords)
+            {
+                AccordModelDTO accordDTO = new AccordModelDTO();
+
+                accordDTO.Id = item.Id;
+                accordDTO.AccordName = item.AccordName;
+                accordDTO.AccordURL = item.AccordURL;
+                accodrsDTO.Add(accordDTO);
+            }
+            return accodrsDTO;
         }
     }
 }

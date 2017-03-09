@@ -11,10 +11,24 @@ namespace Songs.Models
     public class SongPageModel
     {
         public SongModelDTO Song;
+        public List<AccordModelDTO> Accords;
+        public string Tags;
+        public string initialTags;
 
-        public SongPageModel(int SingerId)
+        public SongPageModel(int SongId)
         {
-            Song = new SongService().SelectSingerSong(SingerId);
+            Song = new SongService().GetSongById(SongId);
+            Accords = new SongService().GetAllAccords();
+
+            foreach (var item in Song.Accords)
+            {
+                initialTags += item.AccordName + ";";
+            }
+
+            for (int i = 0; i < Accords.Count(); i++)
+            {
+                Tags += Accords[i].AccordName + ";";
+            }  
         }
     }
 }

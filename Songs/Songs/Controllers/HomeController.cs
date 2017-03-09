@@ -13,7 +13,7 @@ namespace Songs.Controllers
 
         public ActionResult Index(int page = 1)
         {
-            ParseService parse = new ParseService();
+            //ParseService parse = new ParseService();
             //parse.ParseSingers();
             //parse.ParseSongs(10);
             //parse.ParseSongsAccords();

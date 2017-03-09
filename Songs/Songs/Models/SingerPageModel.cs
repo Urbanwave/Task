@@ -24,6 +24,7 @@ namespace Songs.Models
 
             Name = singer.Name;
             Biography = singer.Biography;
+            Songs = new SongService().GetSongsByUserId(SingerId);
         }
     }
 }

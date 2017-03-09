@@ -1,0 +1,63 @@
+﻿
+@{
+    ViewBag.Title = "SongInfo";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+@model Songs.Models.SongPageModel
+
+<body>
+    <script src="http://code.jquery.com/jquery-2.1.1.js"></script>
+    <script src="http://code.jquery.com/ui/1.11.1/jquery-ui.js"></script>
+    <link href="../../Content/jquery.tag-editor.css" rel="stylesheet" />
+    <script src="../../Scripts/jquery.tag-editor.js"></script>
+    <script src="../../Scripts/jquery.tag-editor.min.js"></script>
+    <script src="../../Scripts/jquery.caret.min.js"></script>
+
+
+    <div class="container">
+        <h2>@Model.Song.Name</h2>
+        <div>
+            @Html.Raw(Model.Song.Text);
+        </div>
+        <hr />
+        <h2>Список аккордов</h2>
+        <table class="table">
+            <thead>
+                <tr>
+                    <th>Аккорд</th>
+                    <th>Картинка</th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var item in Model.Song.Accords)
+                {
+                    <tr>
+                        <td>@item.AccordName</td>
+                        <td><img src="@item.AccordURL" /></td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+        <input type="text" class="form-control" id="demo2" value="" />
+    </div>
+
+    <script>
+
+        var tags = '@Model.Tags';
+        tags = tags.split(';');
+
+        var initialtags = '@Model.initialTags';
+        initialtags = initialtags.split(';');
+
+        $('#demo2').tagEditor({
+            initialTags: initialtags,
+            autocomplete: {
+                delay: 0,
+                source: tags
+            },
+            forceLowercase: false,
+            placeholder: 'Accords ...'
+        });
+    </script>
+</body>

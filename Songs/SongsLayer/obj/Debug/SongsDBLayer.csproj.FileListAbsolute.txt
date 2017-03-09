@@ -36,3 +36,5 @@ C:\Учеба\itra\Task\Songs\SongsLayer\obj\Debug\SongsDBLayer.Migrations.add.r
 C:\Учеба\itra\Task\Songs\SongsLayer\obj\Debug\SongsDBLayer.csproj.GenerateResource.Cache
 C:\Учеба\itra\Task\Songs\SongsLayer\obj\Debug\SongsDBLayer.Migrations._123.resources
 C:\Учеба\itra\Task\Songs\SongsLayer\obj\Debug\SongsDBLayer.Migrations.redacraccords.resources
+D:\Task\Task\Songs\SongsLayer\obj\Debug\SongsDBLayer.Migrations._123.resources
+D:\Task\Task\Songs\SongsLayer\obj\Debug\SongsDBLayer.Migrations.redacraccords.resources
