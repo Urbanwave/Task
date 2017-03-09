@@ -18,7 +18,7 @@ namespace Songs.Models
         public int nextSongId;
         public int previousSongId;
 
-        public SongPageModel(int SongId, string sort)
+        public SongPageModel(int SongId)
         {
             songId = SongId;
 

@@ -1,0 +1,123 @@
+﻿
+@{
+    ViewBag.Title = "AjaxSongPage";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<script src="http://code.jquery.com/jquery-2.1.1.js"></script>
+<script src="http://code.jquery.com/ui/1.11.1/jquery-ui.js"></script>
+<link href="../../Content/jquery.tag-editor.css" rel="stylesheet" />
+<script src="../../Scripts/jquery.tag-editor.min.js"></script>
+<link href="../../Content/font-awesome.css" rel="stylesheet" />
+<link href="../../Content/Site.css" rel="stylesheet" />
+
+@model Songs.Models.SongPageModel
+
+<div class="container" id="songContainer">
+    <h2>@Model.Song.Name</h2>
+    <div>
+        @Html.Raw(Model.Song.Text);
+    </div>
+    <hr />
+    <h2>Список аккордов</h2>
+    <table class="table">
+        <thead>
+            <tr>
+                <th>Аккорд</th>
+                <th>Картинка</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var item in Model.Song.Accords)
+            {
+                <tr>
+                    <td>@item.AccordName</td>
+                    <td><img src="@item.AccordURL" /></td>
+                </tr>
+            }
+        </tbody>
+    </table>
+    @using (Html.BeginForm("SaveTags", "Song", FormMethod.Post, new { id = "form" }))
+    {
+        @Html.AntiForgeryToken()
+        <input type="hidden" id="inputData" name="inputData" />
+    }
+    <input id="save" type="button" class="btn btn-default" value="Сохранить" />
+    <input type="text" class="form-control" id="demo2" value="" />
+
+    <div align="center" id="arrows">
+        @if (Model.previousSongId != 0)
+                {
+                    using (Ajax.BeginForm("AjaxSongPage", "Song", new { SongId = Model.previousSongId }, new AjaxOptions { UpdateTargetId = "results" }))
+                    {
+                <button class="btn" type="submit">
+                    <i class="fa fa-arrow-left fa-3x" aria-hidden="true"></i>
+                </button>
+            }
+        }
+
+
+        @if (Model.nextSongId != 0)
+                {
+                    using (Ajax.BeginForm("AjaxSongPage", "Song", new { SongId = Model.nextSongId }, new AjaxOptions { UpdateTargetId = "results" }))
+                    {
+                <button class="btn" type="submit">
+                    <i class="fa fa-arrow-right fa-3x" aria-hidden="true"></i>
+                </button>
+            }
+        }
+    </div>
+
+    @*<input type="text" class="form-control" id="tokenfield" value="" />*@
+</div>
+
+<script>
+
+        jQuery(function ($) {
+
+            var tags = '@Model.Tags';
+            tags = tags.split(';');
+
+            var initialtags = '@Model.initialTags';
+            initialtags = initialtags.split(';');
+
+            //$('#tokenfield').val(initialtags);
+
+            $('#demo2').tagEditor({
+                initialTags: initialtags,
+                autocomplete: {
+                    delay: 0,
+                    source: tags
+                },
+                forceLowercase: false,
+                placeholder: 'Accords ...'
+            });
+
+
+            $('#save').click(function () {
+                document.getElementById('inputData').value += $('#tagsarea').tagEditor('getTags')[0].tags + ";";
+                $('#form').submit();
+            });
+
+        //    $('#tokenfield').tokenfield({
+        //        autocomplete: {
+        //            source: tags,
+        //            delay: 100
+        //        },
+        //        showAutocompleteOnFocus: true
+        //    });
+
+        //    $('#save').click(function () {
+        //        var tokens = [];
+        //        tokens = $('#tokenfield').tokenfield('getTokens');
+        //        for (var i = 0; i < tokens.length; i++)
+        //        {
+        //            document.getElementById('inputData').value += tokens.value;
+        //        }
+        //        $('#form').submit();
+        //    });
+        });
+</script>
+
+
+

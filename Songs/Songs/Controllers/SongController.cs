@@ -9,15 +9,20 @@ namespace Songs.Controllers
 {
     public class SongController : Controller
     {
-        public ActionResult SongInfo(int SongId, string sort)
+        public ActionResult SongInfo(int SongId)
         {
-            return View(new SongPageModel(SongId, sort));
+            return View(new SongPageModel(SongId));
         }
 
         [HttpPost]
         public void SaveTags(string inputData)
         {
             //return View(new SongPageModel(SongId, sort));
+        }
+
+        public ActionResult AjaxSongPage(int SongId)
+        {
+            return View(new SongPageModel(SongId));
         }
     }
 }

@@ -19,7 +19,7 @@
     <script src="../../Scripts/bootstrap-tokenfield.js"></script>
     <script src="../../Scripts/bootstrap-tokenfield.min.js"></script>
 
-    <div class="container">
+    <div class="container" id="songContainer">
         <h2>@Model.Song.Name</h2>
         <div>
             @Html.Raw(Model.Song.Text);
@@ -51,17 +51,29 @@
         <input id="save" type="button" class="btn btn-default" value="Сохранить" />
         <input type="text" class="form-control" id="demo2" value="" />
 
-        <div align="center">
+        <div align="center">        
             @if (Model.previousSongId != 0)
             {
-                <a href="/Song/SongInfo?SongId=@Model.previousSongId"><i class="fa fa-arrow-left fa-3x" aria-hidden="true"></i></a>
+                using (Ajax.BeginForm("AjaxSongPage", "Song", new { SongId = Model.previousSongId }, new AjaxOptions { UpdateTargetId = "results" }))
+                {
+                    <button class="btn" type="submit">
+                        <i class="fa fa-arrow-left fa-3x" aria-hidden="true"></i>
+                    </button>
+                }
             }
+
 
             @if (Model.nextSongId != 0)
             {
-                <a href="/Song/SongInfo?SongId=@Model.nextSongId"><i class="fa fa-arrow-right fa-3x" aria-hidden="true"></i></a>
+                using (Ajax.BeginForm("AjaxSongPage", "Song", new { SongId = Model.nextSongId }, new AjaxOptions { UpdateTargetId = "results" }))
+                {
+                    <button class="btn" type="submit">
+                        <i class="fa fa-arrow-right fa-3x" aria-hidden="true"></i>
+                    </button>
+                }
             }
-        </div>
+         </div>
+
        @*<input type="text" class="form-control" id="tokenfield" value="" />*@
     </div>
 

@@ -137,12 +137,12 @@ namespace SongsLogicLayer.Services
 
             int songPosition = Array.IndexOf(songsId, songId) + 1;
 
-            if (songPosition == (songsId.Count() - 1))
+            if (songPosition == (songsId.Count()))
             {
                 return 0;
             } else
             {
-                return songsId[songPosition + 1];
+                return songsId[songPosition];
             }
         }
 
@@ -153,7 +153,7 @@ namespace SongsLogicLayer.Services
 
             int songPosition = Array.IndexOf(songsId, songId) + 1;
 
-            if (songPosition == 0)
+            if (songPosition == 1)
             {
                 return 0;
             }

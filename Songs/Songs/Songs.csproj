@@ -233,6 +233,7 @@
     <Content Include="Views\Home\Index.cshtml" />
     <Content Include="Views\Singer\SingerInfo.cshtml" />
     <Content Include="Views\Song\SongInfo.cshtml" />
+    <Content Include="Views\Song\AjaxSongPage.cshtml" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />
