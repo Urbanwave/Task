@@ -5,7 +5,7 @@ using System.Web;
 using System.Web.Mvc;
 using System.Web.Optimization;
 using System.Web.Routing;
-using Songs.Services;
+using SongsLogicLayer.Services;
 
 namespace Songs
 {
@@ -13,7 +13,7 @@ namespace Songs
     {
         protected void Application_Start()
         {
-            new CacheService().AddAccodrs();
+            new SongService().AddAccodrs();
             AreaRegistration.RegisterAllAreas();
             FilterConfig.RegisterGlobalFilters(GlobalFilters.Filters);
             RouteConfig.RegisterRoutes(RouteTable.Routes);

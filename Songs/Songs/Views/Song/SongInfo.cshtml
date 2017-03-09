@@ -6,7 +6,6 @@
 
 @model Songs.Models.SongPageModel
 
-<body>
     <script src="http://code.jquery.com/jquery-2.1.1.js"></script>
     <script src="http://code.jquery.com/ui/1.11.1/jquery-ui.js"></script>
     <link href="../../Content/jquery.tag-editor.css" rel="stylesheet" />
@@ -20,7 +19,7 @@
     <script src="../../Scripts/bootstrap-tokenfield.js"></script>
     <script src="../../Scripts/bootstrap-tokenfield.min.js"></script>
 
-    <div  id="songContainer">
+    <div id="songContainer">
         <div class="container">
             <h2>@Model.Song.Name</h2>
             <div>
@@ -50,12 +49,11 @@
                 @Html.AntiForgeryToken()
                 <input type="hidden" id="inputData" name="inputData" />
             }
-            <input id="save" type="button" class="btn btn-default" value="Сохранить" />
             <input type="text" class="form-control" id="demo2" value="" />
-            @*<input type="text" class="form-control" id="tokenfield" value="" />*@
+            <input id="save" type="button" class="btn btn-default" value="Сохранить" />
         </div>
 
-        <div align="center"id="arrows">
+        <div align="center" id="arrows">
             @if (Model.previousSongId != 0)
             {
                 using (Ajax.BeginForm("AjaxSongPage", "Song", new { SongId = Model.previousSongId }, new AjaxOptions { UpdateTargetId = "songContainer" }))
@@ -65,8 +63,6 @@
                     </button>
                 }
             }
-
-
             @if (Model.nextSongId != 0)
             {
                 using (Ajax.BeginForm("AjaxSongPage", "Song", new { SongId = Model.nextSongId }, new AjaxOptions { UpdateTargetId = "songContainer" }))
@@ -79,6 +75,7 @@
         </div>
     </div>
 
+
     <script>
         jQuery(function ($) {
             var tags = '@Model.Tags';
@@ -86,8 +83,6 @@
 
             var initialtags = '@Model.initialTags';
             initialtags = initialtags.split(';');
-
-            //$('#tokenfield').val(initialtags);
 
             $('#demo2').tagEditor({
                 initialTags: initialtags,
@@ -108,27 +103,8 @@
             });
 
             $('#save').click(function () {
-                document.getElementById('inputData').value += $('#tagsarea').tagEditor('getTags')[0].tags + ";";
+                document.getElementById('inputData').value += @Model.songId + "," + $('#demo2').tagEditor('getTags')[0].tags;
                 $('#form').submit();
             });
-
-        //    $('#tokenfield').tokenfield({
-        //        autocomplete: {
-        //            source: tags,
-        //            delay: 100
-        //        },
-        //        showAutocompleteOnFocus: true
-        //    });
-
-        //    $('#save').click(function () {
-        //        var tokens = [];
-        //        tokens = $('#tokenfield').tokenfield('getTokens');
-        //        for (var i = 0; i < tokens.length; i++)
-        //        {
-        //            document.getElementById('inputData').value += tokens.value;
-        //        }
-        //        $('#form').submit();
-        //    });
         });
     </script>
-</body>

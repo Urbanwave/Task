@@ -22,5 +22,6 @@ namespace SongsLogicLayer.Interfaces
         List<AccordModelDTO> GetAllAccords();
         int GetNextSongId(int songId);
         int GetPreviousSongId(int songId);
+        int UpdateSongAccords(string inputData);
     }
 }

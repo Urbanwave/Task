@@ -1,4 +1,6 @@
-﻿<!DOCTYPE html>
+﻿@using MvcSiteMapProvider.Web.Html
+
+<!DOCTYPE html>
 <html>
 <head>
     <meta charset="utf-8" />
@@ -28,6 +30,8 @@
         </div>
     </div>
     <div class="container body-content">
+
+        @Html.MvcSiteMap().SiteMapPath()
         @RenderBody()
         <hr />
         <footer>

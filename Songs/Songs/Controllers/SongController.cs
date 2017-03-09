@@ -4,6 +4,7 @@ using System.Linq;
 using System.Web;
 using System.Web.Mvc;
 using Songs.Models;
+using SongsLogicLayer.Services;
 
 namespace Songs.Controllers
 {
@@ -15,9 +16,9 @@ namespace Songs.Controllers
         }
 
         [HttpPost]
-        public void SaveTags(string inputData)
+        public ActionResult SaveTags(string inputData)
         {
-            //return View(new SongPageModel(SongId, sort));
+            return View("SongInfo", new SongPageModel(new SongService().UpdateSongAccords(inputData)));
         }
 
         public ActionResult AjaxSongPage(int SongId)

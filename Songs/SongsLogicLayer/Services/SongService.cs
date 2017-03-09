@@ -10,6 +10,7 @@ using SongsDBLayer.Entities;
 using SongsDBLayer.Repositories;
 using AutoMapper;
 using SongsLogicLayer.Interfaces;
+using System.Runtime.Caching;
 
 namespace SongsLogicLayer.Services
 {
@@ -17,9 +18,11 @@ namespace SongsLogicLayer.Services
     {
         DBContext context;
         SongRepository songRep;
+        public MemoryCache memorycache;
 
         public SongService()
         {
+            memorycache = MemoryCache.Default;
             context = new DBContext();
             songRep = new SongRepository(context);
         }
@@ -165,6 +168,49 @@ namespace SongsLogicLayer.Services
             {
                 return songsId[songPosition - 1];
             }
+        }
+
+        public int UpdateSongAccords(string inputData)
+        {
+            string[] parametrs = inputData.Split(',');
+
+            int SongId = Convert.ToInt32(parametrs[0]);
+
+            List<AccordModelDTO> Accords = GetAccords();
+
+            songRep.DeleteAccordsBySongId(SongId);
+
+            for (int i = 1; i < parametrs.Count(); i++)
+            {
+                if (Accords.Where(x => x.AccordName == parametrs[i]) != null)
+                {
+                    AccordModelDTO Accord = Accords.Where(x => x.AccordName == parametrs[i]).FirstOrDefault();
+
+                    if (Accord != null)
+                    {
+                        AccordModel NewAccord = new AccordModel
+                        {
+                            AccordName = Accord.AccordName,
+                            AccordURL = Accord.AccordURL,
+                            SongId = SongId
+                        };
+
+                        songRep.AddNewAccord(NewAccord);
+                    }
+                }
+            }
+            return SongId;
+        }
+
+        public void AddAccodrs()
+        {
+            List<AccordModelDTO> Accords = new SongService().GetAllAccords();
+            memorycache.Add("Аккорды", Accords, DateTimeOffset.MaxValue);
+        }
+
+        public List<AccordModelDTO> GetAccords()
+        {
+            return memorycache.Get("Аккорды") as List<AccordModelDTO>;
         }
 
     }

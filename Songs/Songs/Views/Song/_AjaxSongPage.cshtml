@@ -40,8 +40,9 @@
         @Html.AntiForgeryToken()
         <input type="hidden" id="inputData" name="inputData" />
     }
-    <input id="save" type="button" class="btn btn-default" value="Сохранить" />
+
     <input type="text" class="form-control" id="demo2" value="" />
+    <input id="save" type="button" class="btn btn-default" value="Сохранить" />
 
     <div align="center" id="arrows">
         @if (Model.previousSongId != 0)
@@ -53,8 +54,6 @@
                 </button>
             }
         }
-
-
         @if (Model.nextSongId != 0)
         {
             using (Ajax.BeginForm("AjaxSongPage", "Song", new { SongId = Model.nextSongId }, new AjaxOptions { UpdateTargetId = "songContainer" }))
@@ -65,8 +64,6 @@
             }
         }
     </div>
-
-    @*<input type="text" class="form-control" id="tokenfield" value="" />*@
 </div>
 
 <script>
@@ -87,8 +84,6 @@
             var initialtags = '@Model.initialTags';
             initialtags = initialtags.split(';');
 
-            //$('#tokenfield').val(initialtags);
-
             $('#demo2').tagEditor({
                 initialTags: initialtags,
                 autocomplete: {
@@ -101,27 +96,11 @@
 
 
             $('#save').click(function () {
-                document.getElementById('inputData').value += $('#tagsarea').tagEditor('getTags')[0].tags + ";";
+                document.getElementById('inputData').value += @Model.songId + "," + $('#demo2').tagEditor('getTags')[0].tags;
                 $('#form').submit();
             });
 
-        //    $('#tokenfield').tokenfield({
-        //        autocomplete: {
-        //            source: tags,
-        //            delay: 100
-        //        },
-        //        showAutocompleteOnFocus: true
-        //    });
 
-        //    $('#save').click(function () {
-        //        var tokens = [];
-        //        tokens = $('#tokenfield').tokenfield('getTokens');
-        //        for (var i = 0; i < tokens.length; i++)
-        //        {
-        //            document.getElementById('inputData').value += tokens.value;
-        //        }
-        //        $('#form').submit();
-        //    });
         });
 </script>
 

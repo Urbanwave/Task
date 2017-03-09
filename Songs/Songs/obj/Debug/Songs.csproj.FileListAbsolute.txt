@@ -122,7 +122,12 @@ C:\Учеба\itra\Songs\Task\Songs\Songs\obj\Debug\Songs.csproj.GenerateResourc
 C:\Учеба\itra\Songs\Task\Songs\Songs\obj\Debug\Songs.dll
 C:\Учеба\itra\Songs\Task\Songs\Songs\obj\Debug\Songs.pdb
 C:\Учеба\itra\Songs\Task\Songs\Songs\obj\Debug\Songs.Migrations.AddCount.resources
-C:\Учеба\itra\Task\Songs\Songs\obj\Debug\Songs.csprojResolveAssemblyReference.cache
+D:\Task\Task\Songs\Songs\bin\SongsLogicLayer.dll
+D:\Task\Task\Songs\Songs\bin\SongsDBLayer.dll
+D:\Task\Task\Songs\Songs\bin\AutoMapper.dll
+D:\Task\Task\Songs\Songs\bin\SongsLogicLayer.pdb
+D:\Task\Task\Songs\Songs\bin\SongsDBLayer.pdb
+D:\Task\Task\Songs\Songs\bin\AutoMapper.xml
 C:\Учеба\itra\Task\Songs\Songs\bin\ApplicationInsights.config
 C:\Учеба\itra\Task\Songs\Songs\bin\roslyn\csc.exe
 C:\Учеба\itra\Task\Songs\Songs\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
@@ -152,6 +157,9 @@ C:\Учеба\itra\Task\Songs\Songs\bin\Microsoft.AI.WindowsServer.dll
 C:\Учеба\itra\Task\Songs\Songs\bin\Microsoft.ApplicationInsights.dll
 C:\Учеба\itra\Task\Songs\Songs\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
 C:\Учеба\itra\Task\Songs\Songs\bin\Microsoft.Web.Infrastructure.dll
+C:\Учеба\itra\Task\Songs\Songs\bin\MvcBreadCrumbs.dll
+C:\Учеба\itra\Task\Songs\Songs\bin\MvcSiteMapProvider.dll
+C:\Учеба\itra\Task\Songs\Songs\bin\MvcSiteMapProvider.WebActivator.dll
 C:\Учеба\itra\Task\Songs\Songs\bin\Newtonsoft.Json.dll
 C:\Учеба\itra\Task\Songs\Songs\bin\SongsLogicLayer.dll
 C:\Учеба\itra\Task\Songs\Songs\bin\System.Web.Helpers.dll
@@ -161,6 +169,7 @@ C:\Учеба\itra\Task\Songs\Songs\bin\System.Web.Razor.dll
 C:\Учеба\itra\Task\Songs\Songs\bin\System.Web.WebPages.Deployment.dll
 C:\Учеба\itra\Task\Songs\Songs\bin\System.Web.WebPages.dll
 C:\Учеба\itra\Task\Songs\Songs\bin\System.Web.WebPages.Razor.dll
+C:\Учеба\itra\Task\Songs\Songs\bin\WebActivatorEx.dll
 C:\Учеба\itra\Task\Songs\Songs\bin\WebGrease.dll
 C:\Учеба\itra\Task\Songs\Songs\bin\SongsDBLayer.dll
 C:\Учеба\itra\Task\Songs\Songs\bin\AutoMapper.dll
@@ -175,6 +184,9 @@ C:\Учеба\itra\Task\Songs\Songs\bin\Microsoft.AI.Web.xml
 C:\Учеба\itra\Task\Songs\Songs\bin\Microsoft.AI.WindowsServer.xml
 C:\Учеба\itra\Task\Songs\Songs\bin\Microsoft.ApplicationInsights.xml
 C:\Учеба\itra\Task\Songs\Songs\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Учеба\itra\Task\Songs\Songs\bin\MvcBreadCrumbs.pdb
+C:\Учеба\itra\Task\Songs\Songs\bin\MvcSiteMapProvider.xml
+C:\Учеба\itra\Task\Songs\Songs\bin\MvcSiteMapProvider.WebActivator.xml
 C:\Учеба\itra\Task\Songs\Songs\bin\System.Web.Helpers.xml
 C:\Учеба\itra\Task\Songs\Songs\bin\System.Web.Mvc.xml
 C:\Учеба\itra\Task\Songs\Songs\bin\System.Web.Optimization.xml
@@ -186,11 +198,6 @@ C:\Учеба\itra\Task\Songs\Songs\bin\Antlr3.Runtime.pdb
 C:\Учеба\itra\Task\Songs\Songs\bin\Newtonsoft.Json.xml
 C:\Учеба\itra\Task\Songs\Songs\bin\SongsDBLayer.pdb
 C:\Учеба\itra\Task\Songs\Songs\bin\AutoMapper.xml
+C:\Учеба\itra\Task\Songs\Songs\obj\Debug\Songs.csprojResolveAssemblyReference.cache
 C:\Учеба\itra\Task\Songs\Songs\obj\Debug\Songs.dll
 C:\Учеба\itra\Task\Songs\Songs\obj\Debug\Songs.pdb
-D:\Task\Task\Songs\Songs\bin\SongsLogicLayer.dll
-D:\Task\Task\Songs\Songs\bin\SongsDBLayer.dll
-D:\Task\Task\Songs\Songs\bin\AutoMapper.dll
-D:\Task\Task\Songs\Songs\bin\SongsLogicLayer.pdb
-D:\Task\Task\Songs\Songs\bin\SongsDBLayer.pdb
-D:\Task\Task\Songs\Songs\bin\AutoMapper.xml

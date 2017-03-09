@@ -110,5 +110,20 @@ namespace SongsDBLayer.Repositories
 
             return item;
         }
+
+        public void DeleteAccordsBySongId(int SongId)
+        {
+            foreach(var item in db.Accords.Where(x => x.SongId == SongId).ToList())
+            {
+                db.Accords.Remove(item);
+                db.SaveChanges();
+            }
+        }
+
+        public void AddNewAccord(AccordModel NewAccord)
+        {
+            db.Accords.Add(NewAccord);
+            db.SaveChanges();
+        }
     }
 }
