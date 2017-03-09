@@ -93,9 +93,12 @@ namespace SongsLogicLayer.Services
                                         discriptiondoc = webDoc.Load("http:" + a.Attributes["href"].Value);
                                         div = discriptiondoc.DocumentNode.SelectNodes("//div[@class='artist-profile__bio']");
 
-                                        foreach (HtmlNode disc in div)
+                                        if (div != null)
                                         {
-                                            AllSingerDiscriptions.Add(disc.InnerText);
+                                            foreach (HtmlNode disc in div)
+                                            {
+                                                AllSingerDiscriptions.Add(disc.InnerText);
+                                            }
                                         }
                                     }
                                 }
@@ -103,7 +106,7 @@ namespace SongsLogicLayer.Services
                         }
                     }
                 }
-            //    Thread.Sleep(60000);
+                Thread.Sleep(60000);
             }
         }
 
@@ -118,7 +121,7 @@ namespace SongsLogicLayer.Services
 
             urls = new SingerService().GetSingersUrl();
 
-            for (int i = 0; i < 3; i++)
+            for (int i = 0; i < 300; i++)
             {
                 if (i > 0 && i % 50 == 0)
                 {
@@ -183,6 +186,11 @@ namespace SongsLogicLayer.Services
 
             for (int i = 0; i < songs.Count(); i++)
             {
+                if (i > 0 && i % 50 == 0)
+                {
+                    Thread.Sleep(60000);
+                }
+
                 doc = webDoc.Load(urls[i]);
                 pre = doc.DocumentNode.SelectNodes("//div[@class='b-podbor__text']//pre");
 
@@ -213,14 +221,14 @@ namespace SongsLogicLayer.Services
 
         public void ParseSingers()
         {
-            ParseSingersName(1);
-            ParseSingersBiography(1);
+            ParseSingersName(10);
+            ParseSingersBiography(10);
 
             SingerService singerService = new SingerService();
 
             SingerModelDTO Singer = new SingerModelDTO();
 
-            for (int i = 0; i < 3; i++)
+            for (int i = 0; i < 300; i++)
             {
                 Singer.Name = AllSingersNames[i];
                 Singer.Biography = AllSingerDiscriptions[i];

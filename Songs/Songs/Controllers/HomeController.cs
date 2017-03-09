@@ -15,9 +15,8 @@ namespace Songs.Controllers
         {
             ParseService parse = new ParseService();
             //parse.ParseSingers();
-            //parse.ParseSingersName(10);
-            //parse.ParseSongs(3);
-            parse.ParseSongsAccords();
+            //parse.ParseSongs(10);
+            //parse.ParseSongsAccords();
 
             ViewBag.Page = page;
             return View(new MainPageModel(page));
