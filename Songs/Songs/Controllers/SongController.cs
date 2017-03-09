@@ -22,7 +22,7 @@ namespace Songs.Controllers
 
         public ActionResult AjaxSongPage(int SongId)
         {
-            return View(new SongPageModel(SongId));
+            return PartialView("_AjaxSongPage",new SongPageModel(SongId));
         }
     }
 }

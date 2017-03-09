@@ -156,8 +156,7 @@ namespace SongsLogicLayer.Services
             if (songPosition == 1)
             {
                 return 0;
-            }
-            else
+            } else
             {
                 return songsId[songPosition - 1];
             }

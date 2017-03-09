@@ -1,19 +1,17 @@
 ﻿
-@{
-    ViewBag.Title = "AjaxSongPage";
-    Layout = "~/Views/Shared/_Layout.cshtml";
-}
-
 <script src="http://code.jquery.com/jquery-2.1.1.js"></script>
 <script src="http://code.jquery.com/ui/1.11.1/jquery-ui.js"></script>
 <link href="../../Content/jquery.tag-editor.css" rel="stylesheet" />
 <script src="../../Scripts/jquery.tag-editor.min.js"></script>
+<script src="../../Scripts/jquery.unobtrusive-ajax.js"></script>
+<script src="../../Scripts/jquery.unobtrusive-ajax.min.js"></script>
 <link href="../../Content/font-awesome.css" rel="stylesheet" />
 <link href="../../Content/Site.css" rel="stylesheet" />
 
+
 @model Songs.Models.SongPageModel
 
-<div class="container" id="songContainer">
+<div class="container">
     <h2>@Model.Song.Name</h2>
     <div>
         @Html.Raw(Model.Song.Text);
@@ -47,9 +45,9 @@
 
     <div align="center" id="arrows">
         @if (Model.previousSongId != 0)
-                {
-                    using (Ajax.BeginForm("AjaxSongPage", "Song", new { SongId = Model.previousSongId }, new AjaxOptions { UpdateTargetId = "results" }))
-                    {
+        {
+            using (Ajax.BeginForm("AjaxSongPage", "Song", new { SongId = Model.previousSongId }, new AjaxOptions { UpdateTargetId = "songContainer" }))
+            {
                 <button class="btn" type="submit">
                     <i class="fa fa-arrow-left fa-3x" aria-hidden="true"></i>
                 </button>
@@ -58,9 +56,9 @@
 
 
         @if (Model.nextSongId != 0)
-                {
-                    using (Ajax.BeginForm("AjaxSongPage", "Song", new { SongId = Model.nextSongId }, new AjaxOptions { UpdateTargetId = "results" }))
-                    {
+        {
+            using (Ajax.BeginForm("AjaxSongPage", "Song", new { SongId = Model.nextSongId }, new AjaxOptions { UpdateTargetId = "songContainer" }))
+            {
                 <button class="btn" type="submit">
                     <i class="fa fa-arrow-right fa-3x" aria-hidden="true"></i>
                 </button>
