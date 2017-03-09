@@ -55,12 +55,12 @@
             @*<input type="text" class="form-control" id="tokenfield" value="" />*@
         </div>
 
-        <div align="center">
+        <div align="center"id="arrows">
             @if (Model.previousSongId != 0)
             {
                 using (Ajax.BeginForm("AjaxSongPage", "Song", new { SongId = Model.previousSongId }, new AjaxOptions { UpdateTargetId = "songContainer" }))
                 {
-                    <button class="btn" type="submit">
+                    <button class="btn" type="submit" id="prvBut">
                         <i class="fa fa-arrow-left fa-3x" aria-hidden="true"></i>
                     </button>
                 }
@@ -71,7 +71,7 @@
             {
                 using (Ajax.BeginForm("AjaxSongPage", "Song", new { SongId = Model.nextSongId }, new AjaxOptions { UpdateTargetId = "songContainer" }))
                 {
-                    <button class="btn" type="submit">
+                    <button class="btn" type="submit" id="nextBut">
                         <i class="fa fa-arrow-right fa-3x" aria-hidden="true"></i>
                     </button>
                 }
@@ -79,8 +79,10 @@
         </div>
     </div>
 
-    <script>      
+    <script>
         jQuery(function ($) {
+
+
 
             var tags = '@Model.Tags';
             tags = tags.split(';');
@@ -100,6 +102,13 @@
                 placeholder: 'Accords ...'
             });
 
+            $('#prvBut').click(function () {
+                window.location.href = "http://localhost:63373/Song/SongInfo?SongId=" + @Model.previousSongId;
+            });
+
+            $('#nextBut').click(function () {
+                window.location.href = "http://localhost:63373/Song/SongInfo?SongId=" + @Model.nextSongId;
+            });
 
             $('#save').click(function () {
                 document.getElementById('inputData').value += $('#tagsarea').tagEditor('getTags')[0].tags + ";";

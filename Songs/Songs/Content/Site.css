@@ -33,6 +33,7 @@ textarea {
 }
 
 #arrows {
+    margin-top: 20px;
     width: 130px;
     height: 60px;
     margin-left: auto;

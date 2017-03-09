@@ -73,6 +73,14 @@
 
         jQuery(function ($) {
 
+            $('#prvBut').click(function () {
+                window.location.href = "http://localhost:63373/Song/SongInfo?SongId=" + @Model.previousSongId;
+            });
+
+            $('#nextBut').click(function () {
+                window.location.href = "http://localhost:63373/Song/SongInfo?SongId=" + @Model.nextSongId;
+            });
+
             var tags = '@Model.Tags';
             tags = tags.split(';');
 
