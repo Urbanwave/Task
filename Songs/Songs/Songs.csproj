@@ -254,7 +254,6 @@
     <Content Include="Views\Home\Contact.cshtml" />
     <Content Include="Views\Home\Index.cshtml" />
     <Content Include="Views\Singer\SingerInfo.cshtml" />
-    <Content Include="Views\Song\SongInfo.cshtml" />
     <Content Include="Views\Song\_AjaxSongPage.cshtml" />
     <Content Include="Views\Shared\DisplayTemplates\SiteMapTitleHelperModel.cshtml" />
     <Content Include="Views\Shared\DisplayTemplates\SiteMapPathHelperModel.cshtml" />

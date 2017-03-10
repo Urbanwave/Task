@@ -10,20 +10,15 @@ namespace Songs.Controllers
 {
     public class SongController : Controller
     {
-        public ActionResult SongInfo(int SongId)
+        public PartialViewResult SongInfo(int SongId)
         {
-            return View(new SongPageModel(SongId));
+            return PartialView("_AjaxSongPage", new SongPageModel(SongId));
         }
 
         [HttpPost]
-        public ActionResult SaveTags(string inputData)
+        public ViewResult SaveTags(string inputData)
         {
             return View("SongInfo", new SongPageModel(new SongService().UpdateSongAccords(inputData)));
-        }
-
-        public ActionResult AjaxSongPage(int SongId)
-        {
-            return PartialView("_AjaxSongPage",new SongPageModel(SongId));
         }
     }
 }

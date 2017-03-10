@@ -64,5 +64,10 @@ namespace SongsLogicLayer.Services
 
             return Mapper.Map<List<SingerModel>, List<SingerModelDTO>>(singerRep.GettAllSingers());
         }
+
+        public string  GetSingerNameById(int SingerId)
+        {
+            return singerRep.GetSingerNameById(SingerId);
+        }
     }
 }

@@ -8,42 +8,44 @@
 <body>
     <script src="http://code.jquery.com/jquery-2.1.1.js"></script>
     <script src="http://code.jquery.com/ui/1.11.1/jquery-ui.js"></script>
-    <link href="../../Content/jquery.tag-editor.css" rel="stylesheet" />
-    <script src="../../Scripts/jquery.tag-editor.js"></script>
-    <script src="../../Scripts/jquery.tag-editor.min.js"></script>
-    <script src="../../Scripts/jquery.caret.min.js"></script>
     <link href="../../Content/font-awesome.css" rel="stylesheet" />
+    <script src="../../Scripts/jquery.caret.min.js"></script>
+    <script src="../../Scripts/jquery.unobtrusive-ajax.js"></script>
+    <script src="../../Scripts/jquery.unobtrusive-ajax.min.js"></script>
 
-
-    <div class="container">
-        <h2>@Model.Name</h2>
-        <div>
-            @Model.Biography
-        </div>
-        <hr />
-        <h2>Список песен</h2>
-        <table class="table">
-            <thead>
-                <tr>
-                    <th>Название песни
-                        <a href="/Singer/SingerInfo?SingerId=@Model.singerId&sort=@Model.SortDownByNames"><i class="fa fa-arrow-down" aria-hidden="true"></i></a>
-                        <a href="/Singer/SingerInfo?SingerId=@Model.singerId&sort=@Model.SortUpByNames"><i class="fa fa-arrow-up" aria-hidden="true"></i></a>
-                    </th>
-                    <th>Количество посмотров
-                        <a href="/Singer/SingerInfo?SingerId=@Model.singerId&sort=@Model.SortDownByViewsAmount"><i class="fa fa-arrow-down" aria-hidden="true"></i></a>
-                        <a href="/Singer/SingerInfo?SingerId=@Model.singerId&sort=@Model.SortUpByViewsAmount"><i class="fa fa-arrow-up" aria-hidden="true"></i></a>
-                    </th>
-                </tr>
-            </thead>
-            <tbody>
-                @foreach (var item in Model.Songs)
-                {
+    <div id="songContainer">
+        <div class="container">
+            <h2>@Model.Name</h2>
+            <div>
+                @Model.Biography
+            </div>
+            <hr />
+            <h2>Список песен</h2>
+            <table class="table">
+                <thead>
                     <tr>
-                        <td><a href="/Song/SongInfo?SongId=@item.Id">@item.Name</a></td>
-                        <td>@item.ViewsAmount</td>
+                        <th>
+                            Название песни
+                            <a href="/Singer/SingerInfo?SingerId=@Model.singerId&sort=@Model.SortDownByNames"><i class="fa fa-arrow-down" aria-hidden="true"></i></a>
+                            <a href="/Singer/SingerInfo?SingerId=@Model.singerId&sort=@Model.SortUpByNames"><i class="fa fa-arrow-up" aria-hidden="true"></i></a>
+                        </th>
+                        <th>
+                            Количество посмотров
+                            <a href="/Singer/SingerInfo?SingerId=@Model.singerId&sort=@Model.SortDownByViewsAmount"><i class="fa fa-arrow-down" aria-hidden="true"></i></a>
+                            <a href="/Singer/SingerInfo?SingerId=@Model.singerId&sort=@Model.SortUpByViewsAmount"><i class="fa fa-arrow-up" aria-hidden="true"></i></a>
+                        </th>
                     </tr>
-                }
-            </tbody>
-        </table>
-    </div>
+                </thead>
+                <tbody>
+                    @foreach (var item in Model.Songs)
+                    {
+                        <tr>
+                            <td>@Ajax.ActionLink(item.Name, "SongInfo", "Song", new { SongId = item.Id }, new AjaxOptions { UpdateTargetId = "songContainer" })                                                      
+                            <td>@item.ViewsAmount</td>
+                        </tr>
+                    }
+                </tbody>
+            </table>
+        </div>
+        </div>
 </body>

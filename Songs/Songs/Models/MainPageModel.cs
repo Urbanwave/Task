@@ -18,11 +18,12 @@ namespace Songs.Models
         public string SortUpBySongsAmount = "SortUpBySongsAmount";
         public string SortDownByViewsAmount = "SortDownByViewsAmount";
         public string SortUpByViewsAmount = "SortUpByViewsAmount";
-
+        public string CurrentSort;
 
 
         public MainPageModel(int pageId, string sort)
         {
+            CurrentSort = sort;
             PageId = pageId;
             Singers = new SingerService().SelectOnePage(pageId, sort);
         }

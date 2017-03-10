@@ -4,6 +4,7 @@ using System.Linq;
 using System.Web;
 using System.Web.Mvc;
 using Songs.Models;
+using SongsLogicLayer.Services;
 
 namespace Songs.Controllers
 {
@@ -12,7 +13,7 @@ namespace Songs.Controllers
         public ActionResult SingerInfo(int SingerId, string sort)
         {
             TempData["SingerId"] = SingerId;
-            //ViewData.Keep("SingerId");
+            TempData["SingerName"] = new SingerService().GetSingerNameById(SingerId);
             return View(new SingerPageModel(SingerId, sort));
         }
     }

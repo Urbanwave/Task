@@ -1,81 +1,60 @@
-﻿
-<script src="http://code.jquery.com/jquery-2.1.1.js"></script>
-<script src="http://code.jquery.com/ui/1.11.1/jquery-ui.js"></script>
+﻿@model Songs.Models.SongPageModel
+
 <link href="../../Content/jquery.tag-editor.css" rel="stylesheet" />
+<script src="../../Scripts/jquery.tag-editor.js"></script>
 <script src="../../Scripts/jquery.tag-editor.min.js"></script>
-<script src="../../Scripts/jquery.unobtrusive-ajax.js"></script>
-<script src="../../Scripts/jquery.unobtrusive-ajax.min.js"></script>
-<link href="../../Content/font-awesome.css" rel="stylesheet" />
-<link href="../../Content/Site.css" rel="stylesheet" />
 
-
-@model Songs.Models.SongPageModel
-
-<div class="container">
-    <h2>@Model.Song.Name</h2>
-    <div>
-        @Html.Raw(Model.Song.Text);
-    </div>
-    <hr />
-    <h2>Список аккордов</h2>
-    <table class="table">
-        <thead>
-            <tr>
-                <th>Аккорд</th>
-                <th>Картинка</th>
-            </tr>
-        </thead>
-        <tbody>
-            @foreach (var item in Model.Song.Accords)
-            {
+    <div class="container">
+        <h2>@Model.Song.Name</h2>
+        <textarea id="songText" class="form-control textArea">
+            @Model.Song.Text
+        </textarea>
+        <hr />
+        <h2>Список аккордов</h2>
+        <table class="table">
+            <thead>
                 <tr>
-                    <td>@item.AccordName</td>
-                    <td><img src="@item.AccordURL" /></td>
+                    <th>Аккорд</th>
+                    <th>Картинка</th>
                 </tr>
-            }
-        </tbody>
-    </table>
-    @using (Html.BeginForm("SaveTags", "Song", FormMethod.Post, new { id = "form" }))
-    {
-        @Html.AntiForgeryToken()
-        <input type="hidden" id="inputData" name="inputData" />
-    }
-
-    <input type="text" class="form-control" id="demo2" value="" />
-    <input id="save" type="button" class="btn btn-default" value="Сохранить" />
-
-    <div align="center" id="arrows">
-        @if (Model.previousSongId != 0)
-        {
-            using (Ajax.BeginForm("AjaxSongPage", "Song", new { SongId = Model.previousSongId }, new AjaxOptions { UpdateTargetId = "songContainer" }))
+            </thead>
+            <tbody>
+                @foreach (var item in Model.Song.Accords)
             {
-                <button class="btn" type="submit">
-                    <i class="fa fa-arrow-left fa-3x" aria-hidden="true"></i>
-                </button>
-            }
-        }
-        @if (Model.nextSongId != 0)
+                    <tr>
+                        <td>@item.AccordName</td>
+                        <td><img src="@item.AccordURL" /></td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+        @using (Html.BeginForm("SaveTags", "Song", FormMethod.Post, new { Tar = "form" }))
         {
-            using (Ajax.BeginForm("AjaxSongPage", "Song", new { SongId = Model.nextSongId }, new AjaxOptions { UpdateTargetId = "songContainer" }))
-            {
-                <button class="btn" type="submit">
-                    <i class="fa fa-arrow-right fa-3x" aria-hidden="true"></i>
-                </button>
-            }
+            @Html.AntiForgeryToken()
+            <input type="hidden" id="inputData" name="inputData" />
         }
+
+        <input type="text" class="form-control" id="demo2" value="" />
+        <input id="save" type="button" class="btn btn-default" value="Сохранить" />
+
+        <div align="center" id="arrows">
+            @if (Model.previousSongId != 0)
+            {
+                @Ajax.ActionLink("Назад", "SongInfo", "Song", new { SongId = Model.previousSongId }, new AjaxOptions { UpdateTargetId = "songContainer" }, new { id = "prvBut" })
+            }
+            @if (Model.nextSongId != 0)
+            {
+                @Ajax.ActionLink("Вперед", "SongInfo", "Song", new { SongId = Model.nextSongId }, new AjaxOptions { UpdateTargetId = "songContainer" }, new { id = "nextBut" })
+            }
+        </div>
     </div>
-</div>
 
-<script>
+    <script>
 
         jQuery(function ($) {
 
-            $('#prvBut').click(function () {
-                window.location.href = "http://localhost:63373/Song/SongInfo?SongId=" + @Model.previousSongId;
-            });
-
-            $('#nextBut').click(function () {
-                window.location.href = "http://localhost:63373/Song/SongInfo?SongId=" + @Model.nextSongId;
+            $(document).ready(function (){
+                window.history.pushState("","", "http://localhost:63373/Song/SongInfo?SongId=" + @Model.songId)
             });
 
             var tags = '@Model.Tags';
@@ -94,15 +73,13 @@
                 placeholder: 'Accords ...'
             });
 
-
             $('#save').click(function () {
-                document.getElementById('inputData').value += @Model.songId + "," + $('#demo2').tagEditor('getTags')[0].tags;
+                document.getElementById('inputData').value += @Model.songId + "," + $('#demo2').tagEditor('getTags')[0].tags + ","
+                    + document.getElementById('songText').value;
                 $('#form').submit();
             });
-
-
         });
-</script>
+    </script>
 
 
 

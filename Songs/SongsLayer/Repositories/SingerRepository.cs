@@ -19,6 +19,45 @@ namespace SongsDBLayer.Repositories
             db = context;
         }
 
+        //public List<SingerModel> SelectOnePage(int pageNumber, string sort)
+        //{
+        //    var request = db.Singers;
+
+        //    switch (sort)
+        //    {
+        //        case "SortDownByNames":
+        //            request.OrderByDescending(s => s.Name);
+        //            break;
+
+        //        case "SortUpByNames":
+        //            request.OrderBy(s => s.Name);
+        //            break;
+
+        //        case "SortDownBySongsAmount":
+        //            request.OrderByDescending(s => s.SongsAmount);
+        //            break;
+
+        //        case "SortUpBySongsAmount":
+        //            request.OrderBy(s => s.SongsAmount);
+        //            break;
+
+        //        case "SortDownByViewsAmount":
+        //            request.OrderByDescending(s => s.ViewsAmount);
+        //            break;
+
+        //        case "SortUpByViewsAmount":
+        //            request.OrderBy(s => s.ViewsAmount);
+        //            break;
+
+        //        default:
+        //            request.OrderByDescending(s => s.ViewsAmount);
+        //            break;
+
+        //    }
+        //    request.Skip((pageNumber - 1) * 30).Take(30);
+        //    return request.ToList();
+        //}
+
         public List<SingerModel> SelectOnePage(int pageNumber,string sort)
         {
             switch (sort)
@@ -101,6 +140,11 @@ namespace SongsDBLayer.Repositories
         public List<SingerModel> GettAllSingers()
         {
             return db.Singers.ToList();
+        }
+
+        public string GetSingerNameById(int SingerId)
+        {
+            return db.Singers.Where(x => x.Id == SingerId).FirstOrDefault().Name;
         }
     }
 }

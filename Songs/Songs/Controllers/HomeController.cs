@@ -11,9 +11,8 @@ namespace Songs.Controllers
     public class HomeController : Controller
     {
 
-        public ActionResult Index(string sort, int page = 1)
+        public ActionResult Index(string sort = "SortDownByViewsAmount", int page = 1)
         {
-            ViewBag.sort = sort;
             ViewBag.Page = page;
             return View(new MainPageModel(page, sort));
         }
