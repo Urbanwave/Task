@@ -13,7 +13,7 @@
     {
         if (Model.Url == "/Singer/SingerInfo")
         {
-            <a href="/Singer/SingerInfo?SingerId=@TempData.SingerId" title="@Model.Description">@Model.Title</a>
+            <a href="/Singer/SingerInfo?SingerId=@TempData["SingerId"]" title="@Model.Description">@Model.Title</a>
         }
         else
         {

@@ -11,10 +11,9 @@ namespace Songs.Controllers
     {
         public ActionResult SingerInfo(int SingerId, string sort)
         {
-            //TempData.S = SingerId;
+            TempData["SingerId"] = SingerId;
+            //ViewData.Keep("SingerId");
             return View(new SingerPageModel(SingerId, sort));
         }
     }
 }
-
-http://stackoverflow.com/questions/22990443/viewbag-value-becomes-null-in-the-post-method
