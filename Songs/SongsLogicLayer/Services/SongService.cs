@@ -180,7 +180,10 @@ namespace SongsLogicLayer.Services
 
             songRep.DeleteAccordsBySongId(SongId);
 
-            for (int i = 1; i < parametrs.Count(); i++)
+            SongModel song = songRep.GetSongById(SongId);
+            songRep.AddTextToSong(parametrs[parametrs.Count()-1], SongId);
+
+            for (int i = 1; i < parametrs.Count() - 1; i++)
             {
                 if (Accords.Where(x => x.AccordName == parametrs[i]) != null)
                 {

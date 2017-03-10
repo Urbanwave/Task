@@ -28,7 +28,7 @@
                 }
             </tbody>
         </table>
-        @using (Html.BeginForm("SaveTags", "Song", FormMethod.Post, new { Tar = "form" }))
+        @using (Html.BeginForm("SaveTags", "Song", FormMethod.Post, new { id = "form" }))
         {
             @Html.AntiForgeryToken()
             <input type="hidden" id="inputData" name="inputData" />

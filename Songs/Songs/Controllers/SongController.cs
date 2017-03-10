@@ -15,10 +15,10 @@ namespace Songs.Controllers
             return PartialView("_AjaxSongPage", new SongPageModel(SongId));
         }
 
-        [HttpPost]
-        public ViewResult SaveTags(string inputData)
+        [HttpPost, ValidateInput(false)]
+        public RedirectToRouteResult SaveTags(string inputData)
         {
-            return View("SongInfo", new SongPageModel(new SongService().UpdateSongAccords(inputData)));
+            return RedirectToAction("SongInfo", "Song", new { SongId = new SongService().UpdateSongAccords(inputData) });
         }
     }
 }

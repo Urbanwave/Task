@@ -125,5 +125,14 @@ namespace SongsDBLayer.Repositories
             db.Accords.Add(NewAccord);
             db.SaveChanges();
         }
+
+        public void AddTextToSong(string text, int SongId)
+        {
+            if (db.Songs.Where(x => x.Id == SongId).FirstOrDefault().Text != text)
+            {
+                db.Songs.Where(x => x.Id == SongId).FirstOrDefault().Text = text;
+                db.SaveChanges();
+            }
+        }
     }
 }

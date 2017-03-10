@@ -21,5 +21,6 @@ namespace SongsDBLayer.Interfaces
         List<AccordModel> GetAllAccords();
         int[] GetSongsId(int songId);
         void AddNewAccord(AccordModel NewAccord);
+        void AddTextToSong(string text, int SongId);
     }
 }
