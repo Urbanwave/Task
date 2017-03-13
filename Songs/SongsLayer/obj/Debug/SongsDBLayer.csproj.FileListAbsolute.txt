@@ -47,7 +47,6 @@ D:\Task\Songs\SongsLayer\bin\Debug\EntityFramework.SqlServer.dll
 D:\Task\Songs\SongsLayer\bin\Debug\AutoMapper.xml
 D:\Task\Songs\SongsLayer\bin\Debug\EntityFramework.xml
 D:\Task\Songs\SongsLayer\bin\Debug\EntityFramework.SqlServer.xml
-D:\Task\Songs\SongsLayer\obj\Debug\SongsDBLayer.csprojResolveAssemblyReference.cache
 D:\Task\Songs\SongsLayer\obj\Debug\SongsDBLayer.Migrations.InitialCreate.resources
 D:\Task\Songs\SongsLayer\obj\Debug\SongsDBLayer.Migrations.Test.resources
 D:\Task\Songs\SongsLayer\obj\Debug\SongsDBLayer.Migrations.addsongurl.resources
@@ -58,3 +57,4 @@ D:\Task\Songs\SongsLayer\obj\Debug\SongsDBLayer.Migrations.redacraccords.resourc
 D:\Task\Songs\SongsLayer\obj\Debug\SongsDBLayer.csproj.GenerateResource.Cache
 D:\Task\Songs\SongsLayer\obj\Debug\SongsDBLayer.dll
 D:\Task\Songs\SongsLayer\obj\Debug\SongsDBLayer.pdb
+D:\Task\Songs\SongsLayer\obj\Debug\SongsDBLayer.csprojResolveAssemblyReference.cache

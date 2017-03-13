@@ -33,6 +33,7 @@
 
         @Html.MvcSiteMap().SiteMapPath()
         @RenderBody()
+        <div><span id="notification" style="color:red;font-size:15px;"></span></div>
         <hr />
         <footer>
             <p>&copy; @DateTime.Now.Year - My ASP.NET Application</p>
@@ -42,5 +43,6 @@
     @Scripts.Render("~/bundles/jquery")
     @Scripts.Render("~/bundles/bootstrap")
     @RenderSection("scripts", required: false)
+
 </body>
 </html>

@@ -201,9 +201,6 @@ C:\Учеба\itra\Task\Songs\Songs\bin\AutoMapper.xml
 C:\Учеба\itra\Task\Songs\Songs\obj\Debug\Songs.csprojResolveAssemblyReference.cache
 C:\Учеба\itra\Task\Songs\Songs\obj\Debug\Songs.dll
 C:\Учеба\itra\Task\Songs\Songs\obj\Debug\Songs.pdb
-D:\Task\Songs\Songs\obj\Debug\Songs.csprojResolveAssemblyReference.cache
-D:\Task\Songs\Songs\obj\Debug\Songs.dll
-D:\Task\Songs\Songs\obj\Debug\Songs.pdb
 D:\Task\Songs\Songs\bin\ApplicationInsights.config
 D:\Task\Songs\Songs\bin\roslyn\csc.exe
 D:\Task\Songs\Songs\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
@@ -217,6 +214,7 @@ D:\Task\Songs\Songs\bin\roslyn\System.Reflection.Metadata.dll
 D:\Task\Songs\Songs\bin\roslyn\vbc.exe
 D:\Task\Songs\Songs\bin\roslyn\VBCSCompiler.exe
 D:\Task\Songs\Songs\bin\roslyn\VBCSCompiler.exe.config
+D:\Task\Songs\Songs\bin\NLog.config
 D:\Task\Songs\Songs\bin\Songs.dll.config
 D:\Task\Songs\Songs\bin\Songs.dll
 D:\Task\Songs\Songs\bin\Songs.pdb
@@ -231,12 +229,18 @@ D:\Task\Songs\Songs\bin\Microsoft.AI.ServerTelemetryChannel.dll
 D:\Task\Songs\Songs\bin\Microsoft.AI.Web.dll
 D:\Task\Songs\Songs\bin\Microsoft.AI.WindowsServer.dll
 D:\Task\Songs\Songs\bin\Microsoft.ApplicationInsights.dll
+D:\Task\Songs\Songs\bin\Microsoft.AspNet.SignalR.Core.dll
+D:\Task\Songs\Songs\bin\Microsoft.AspNet.SignalR.SystemWeb.dll
 D:\Task\Songs\Songs\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Task\Songs\Songs\bin\Microsoft.Owin.dll
+D:\Task\Songs\Songs\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\Task\Songs\Songs\bin\Microsoft.Owin.Security.dll
 D:\Task\Songs\Songs\bin\Microsoft.Web.Infrastructure.dll
 D:\Task\Songs\Songs\bin\MvcBreadCrumbs.dll
 D:\Task\Songs\Songs\bin\MvcSiteMapProvider.dll
 D:\Task\Songs\Songs\bin\MvcSiteMapProvider.WebActivator.dll
 D:\Task\Songs\Songs\bin\Newtonsoft.Json.dll
+D:\Task\Songs\Songs\bin\Owin.dll
 D:\Task\Songs\Songs\bin\SongsLogicLayer.dll
 D:\Task\Songs\Songs\bin\System.Web.Helpers.dll
 D:\Task\Songs\Songs\bin\System.Web.Mvc.dll
@@ -247,6 +251,7 @@ D:\Task\Songs\Songs\bin\System.Web.WebPages.dll
 D:\Task\Songs\Songs\bin\System.Web.WebPages.Razor.dll
 D:\Task\Songs\Songs\bin\WebActivatorEx.dll
 D:\Task\Songs\Songs\bin\WebGrease.dll
+D:\Task\Songs\Songs\bin\NLog.dll
 D:\Task\Songs\Songs\bin\SongsDBLayer.dll
 D:\Task\Songs\Songs\bin\AutoMapper.dll
 D:\Task\Songs\Songs\bin\SongsLogicLayer.pdb
@@ -259,7 +264,12 @@ D:\Task\Songs\Songs\bin\Microsoft.AI.ServerTelemetryChannel.xml
 D:\Task\Songs\Songs\bin\Microsoft.AI.Web.xml
 D:\Task\Songs\Songs\bin\Microsoft.AI.WindowsServer.xml
 D:\Task\Songs\Songs\bin\Microsoft.ApplicationInsights.xml
+D:\Task\Songs\Songs\bin\Microsoft.AspNet.SignalR.Core.xml
+D:\Task\Songs\Songs\bin\Microsoft.AspNet.SignalR.SystemWeb.xml
 D:\Task\Songs\Songs\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Task\Songs\Songs\bin\Microsoft.Owin.xml
+D:\Task\Songs\Songs\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\Task\Songs\Songs\bin\Microsoft.Owin.Security.xml
 D:\Task\Songs\Songs\bin\MvcBreadCrumbs.pdb
 D:\Task\Songs\Songs\bin\MvcSiteMapProvider.xml
 D:\Task\Songs\Songs\bin\MvcSiteMapProvider.WebActivator.xml
@@ -272,5 +282,9 @@ D:\Task\Songs\Songs\bin\System.Web.WebPages.Deployment.xml
 D:\Task\Songs\Songs\bin\System.Web.WebPages.Razor.xml
 D:\Task\Songs\Songs\bin\Antlr3.Runtime.pdb
 D:\Task\Songs\Songs\bin\Newtonsoft.Json.xml
+D:\Task\Songs\Songs\bin\NLog.xml
 D:\Task\Songs\Songs\bin\SongsDBLayer.pdb
 D:\Task\Songs\Songs\bin\AutoMapper.xml
+D:\Task\Songs\Songs\obj\Debug\Songs.csprojResolveAssemblyReference.cache
+D:\Task\Songs\Songs\obj\Debug\Songs.dll
+D:\Task\Songs\Songs\obj\Debug\Songs.pdb

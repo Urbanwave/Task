@@ -4,7 +4,6 @@ using System.Linq;
 using System.Web;
 using System.Web.Mvc;
 using Songs.Models;
-using SongsLogicLayer.Services;
 
 namespace Songs.Controllers
 {

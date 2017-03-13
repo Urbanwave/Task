@@ -1,0 +1,4500 @@
+2017-03-13 13:52:59.9557|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Кино
+Количество песен: 263 
+2017-03-13 13:52:59.9777|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Песни у костра
+Количество песен: 539 
+2017-03-13 13:52:59.9777|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: ДДТ
+Количество песен: 553 
+2017-03-13 13:52:59.9777|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Сплин
+Количество песен: 453 
+2017-03-13 13:52:59.9777|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Песни из кино и мультфильмов
+Количество песен: 741 
+2017-03-13 13:52:59.9777|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Сектор Газа
+Количество песен: 288 
+2017-03-13 13:52:59.9777|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Гражданская Оборона
+Количество песен: 459 
+2017-03-13 13:52:59.9777|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Любэ
+Количество песен: 191 
+2017-03-13 13:52:59.9777|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Разные песни
+Количество песен: 1178 
+2017-03-13 13:52:59.9777|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Ария
+Количество песен: 321 
+2017-03-13 13:52:59.9777|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Король и Шут
+Количество песен: 468 
+2017-03-13 13:52:59.9777|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Наутилус Помпилиус
+Количество песен: 248 
+2017-03-13 13:52:59.9777|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Розенбаум Александр
+Количество песен: 490 
+2017-03-13 13:52:59.9777|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Агата Кристи
+Количество песен: 233 
+2017-03-13 13:52:59.9777|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: 5nizza
+Количество песен: 133 
+2017-03-13 13:52:59.9777|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Чиж
+Количество песен: 342 
+2017-03-13 13:52:59.9828|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Ляпис Трубецкой
+Количество песен: 201 
+2017-03-13 13:52:59.9828|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Аквариум
+Количество песен: 811 
+2017-03-13 13:52:59.9828|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Чайф
+Количество песен: 327 
+2017-03-13 13:52:59.9828|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Высоцкий Владимир
+Количество песен: 409 
+2017-03-13 13:52:59.9828|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Круг Михаил
+Количество песен: 220 
+2017-03-13 13:52:59.9828|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Земфира
+Количество песен: 239 
+2017-03-13 13:52:59.9828|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Дворовые песни
+Количество песен: 192 
+2017-03-13 13:52:59.9828|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Военные, армейские песни
+Количество песен: 330 
+2017-03-13 13:52:59.9828|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Би-2
+Количество песен: 239 
+2017-03-13 13:52:59.9828|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Браво
+Количество песен: 154 
+2017-03-13 13:52:59.9828|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Бумбокс
+Количество песен: 66 
+2017-03-13 13:52:59.9828|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Ленинград
+Количество песен: 407 
+2017-03-13 13:52:59.9828|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Звери
+Количество песен: 136 
+2017-03-13 13:52:59.9828|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Танцы Минус
+Количество песен: 125 
+2017-03-13 15:37:48.7244|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Sammy Kershaw
+Количество песен: 1 
+2017-03-13 15:37:48.7404|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Асан?лі К?шеров
+Количество песен: 1 
+2017-03-13 15:37:48.7404|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: DiscoPraise
+Количество песен: 1 
+2017-03-13 15:37:48.7404|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Skeeter Davis
+Количество песен: 1 
+2017-03-13 15:37:48.7404|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Кино
+Количество песен: 263 
+2017-03-13 15:37:48.7404|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Песни у костра
+Количество песен: 539 
+2017-03-13 15:37:48.7404|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: ДДТ
+Количество песен: 553 
+2017-03-13 15:37:48.7404|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Сплин
+Количество песен: 453 
+2017-03-13 15:37:48.7404|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Песни из кино и мультфильмов
+Количество песен: 741 
+2017-03-13 15:37:48.7404|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Сектор Газа
+Количество песен: 288 
+2017-03-13 15:37:48.7404|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Гражданская Оборона
+Количество песен: 459 
+2017-03-13 15:37:48.7404|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Любэ
+Количество песен: 191 
+2017-03-13 15:37:48.7404|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Разные песни
+Количество песен: 1178 
+2017-03-13 15:37:48.7404|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Ария
+Количество песен: 321 
+2017-03-13 15:37:48.7404|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Король и Шут
+Количество песен: 468 
+2017-03-13 15:37:48.7404|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Наутилус Помпилиус
+Количество песен: 248 
+2017-03-13 15:37:48.7404|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Розенбаум Александр
+Количество песен: 490 
+2017-03-13 15:37:48.7404|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Агата Кристи
+Количество песен: 233 
+2017-03-13 15:37:48.7404|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: 5nizza
+Количество песен: 133 
+2017-03-13 15:37:48.7404|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Чиж
+Количество песен: 342 
+2017-03-13 15:37:48.7404|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Ляпис Трубецкой
+Количество песен: 201 
+2017-03-13 15:37:48.7404|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Аквариум
+Количество песен: 811 
+2017-03-13 15:37:48.7404|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Чайф
+Количество песен: 327 
+2017-03-13 15:37:48.7404|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Высоцкий Владимир
+Количество песен: 409 
+2017-03-13 15:37:48.7404|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Круг Михаил
+Количество песен: 220 
+2017-03-13 15:37:48.7404|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Земфира
+Количество песен: 239 
+2017-03-13 15:37:48.7404|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Дворовые песни
+Количество песен: 192 
+2017-03-13 15:37:48.7404|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Военные, армейские песни
+Количество песен: 330 
+2017-03-13 15:37:48.7404|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Би-2
+Количество песен: 239 
+2017-03-13 15:37:48.7404|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Браво
+Количество песен: 154 
+2017-03-13 15:45:43.8846|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Sammy Kershaw
+Количество песен: 1 
+2017-03-13 15:45:43.9011|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Асан?лі К?шеров
+Количество песен: 1 
+2017-03-13 15:45:43.9011|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: DiscoPraise
+Количество песен: 1 
+2017-03-13 15:45:43.9011|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Skeeter Davis
+Количество песен: 1 
+2017-03-13 15:45:43.9011|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Кино
+Количество песен: 263 
+2017-03-13 15:45:43.9011|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Песни у костра
+Количество песен: 539 
+2017-03-13 15:45:43.9011|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: ДДТ
+Количество песен: 553 
+2017-03-13 15:45:43.9011|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Сплин
+Количество песен: 453 
+2017-03-13 15:45:43.9011|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Песни из кино и мультфильмов
+Количество песен: 741 
+2017-03-13 15:45:43.9011|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Сектор Газа
+Количество песен: 288 
+2017-03-13 15:45:43.9011|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Гражданская Оборона
+Количество песен: 459 
+2017-03-13 15:45:43.9011|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Любэ
+Количество песен: 191 
+2017-03-13 15:45:43.9011|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Разные песни
+Количество песен: 1178 
+2017-03-13 15:45:43.9011|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Ария
+Количество песен: 321 
+2017-03-13 15:45:43.9011|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Король и Шут
+Количество песен: 468 
+2017-03-13 15:45:43.9011|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Наутилус Помпилиус
+Количество песен: 248 
+2017-03-13 15:45:43.9011|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Розенбаум Александр
+Количество песен: 490 
+2017-03-13 15:45:43.9011|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Агата Кристи
+Количество песен: 233 
+2017-03-13 15:45:43.9011|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: 5nizza
+Количество песен: 133 
+2017-03-13 15:45:43.9011|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Чиж
+Количество песен: 342 
+2017-03-13 15:45:43.9011|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Ляпис Трубецкой
+Количество песен: 201 
+2017-03-13 15:45:43.9011|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Аквариум
+Количество песен: 811 
+2017-03-13 15:45:43.9011|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Чайф
+Количество песен: 327 
+2017-03-13 15:45:43.9011|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Высоцкий Владимир
+Количество песен: 409 
+2017-03-13 15:45:43.9011|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Круг Михаил
+Количество песен: 220 
+2017-03-13 15:45:43.9011|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Земфира
+Количество песен: 239 
+2017-03-13 15:45:43.9011|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Дворовые песни
+Количество песен: 192 
+2017-03-13 15:45:43.9011|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Военные, армейские песни
+Количество песен: 330 
+2017-03-13 15:45:43.9011|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Би-2
+Количество песен: 239 
+2017-03-13 15:45:43.9011|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Браво
+Количество песен: 154 
+2017-03-13 16:13:15.4751|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Sammy Kershaw
+Количество песен: 1 
+2017-03-13 16:13:15.4971|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Асан?лі К?шеров
+Количество песен: 1 
+2017-03-13 16:13:15.4971|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: DiscoPraise
+Количество песен: 1 
+2017-03-13 16:13:15.4971|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Skeeter Davis
+Количество песен: 1 
+2017-03-13 16:13:15.4971|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Кино
+Количество песен: 263 
+2017-03-13 16:13:15.4991|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Песни у костра
+Количество песен: 539 
+2017-03-13 16:13:15.4991|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: ДДТ
+Количество песен: 553 
+2017-03-13 16:13:15.4991|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Сплин
+Количество песен: 453 
+2017-03-13 16:13:15.4991|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Песни из кино и мультфильмов
+Количество песен: 741 
+2017-03-13 16:13:15.4991|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Сектор Газа
+Количество песен: 288 
+2017-03-13 16:13:15.4991|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Гражданская Оборона
+Количество песен: 459 
+2017-03-13 16:13:15.4991|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Любэ
+Количество песен: 191 
+2017-03-13 16:13:15.4991|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Разные песни
+Количество песен: 1178 
+2017-03-13 16:13:15.4991|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Ария
+Количество песен: 321 
+2017-03-13 16:13:15.4991|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Король и Шут
+Количество песен: 468 
+2017-03-13 16:13:15.4991|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Наутилус Помпилиус
+Количество песен: 248 
+2017-03-13 16:13:15.4991|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Розенбаум Александр
+Количество песен: 490 
+2017-03-13 16:13:15.4991|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Агата Кристи
+Количество песен: 233 
+2017-03-13 16:13:15.4991|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: 5nizza
+Количество песен: 133 
+2017-03-13 16:13:15.4991|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Чиж
+Количество песен: 342 
+2017-03-13 16:13:15.4991|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Ляпис Трубецкой
+Количество песен: 201 
+2017-03-13 16:13:15.4991|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Аквариум
+Количество песен: 811 
+2017-03-13 16:13:15.4991|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Чайф
+Количество песен: 327 
+2017-03-13 16:13:15.4991|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Высоцкий Владимир
+Количество песен: 409 
+2017-03-13 16:13:15.4991|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Круг Михаил
+Количество песен: 220 
+2017-03-13 16:13:15.4991|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Земфира
+Количество песен: 239 
+2017-03-13 16:13:15.4991|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Дворовые песни
+Количество песен: 192 
+2017-03-13 16:13:15.4991|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Военные, армейские песни
+Количество песен: 330 
+2017-03-13 16:13:15.4991|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Би-2
+Количество песен: 239 
+2017-03-13 16:13:15.4991|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Браво
+Количество песен: 154 
+2017-03-13 16:16:25.4839|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Eric Bibb
+Количество песен: 1 
+2017-03-13 16:16:25.5189|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: DiscoPraise
+Количество песен: 1 
+2017-03-13 16:16:25.5189|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Skeeter Davis
+Количество песен: 1 
+2017-03-13 16:16:25.5189|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Emma6
+Количество песен: 1 
+2017-03-13 16:16:25.5189|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Riley Green
+Количество песен: 1 
+2017-03-13 16:16:25.5189|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Steel Panther
+Количество песен: 1 
+2017-03-13 16:16:25.5189|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Michelle Wright
+Количество песен: 1 
+2017-03-13 16:16:25.5189|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Sammy Kershaw
+Количество песен: 1 
+2017-03-13 16:16:25.5189|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Асан?лі К?шеров
+Количество песен: 1 
+2017-03-13 16:16:25.5189|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: HTM
+Количество песен: 1 
+2017-03-13 16:16:25.5189|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Jaron Lowenstein
+Количество песен: 1 
+2017-03-13 16:16:25.5219|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Lea Salonga
+Количество песен: 1 
+2017-03-13 16:16:25.5219|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Кино
+Количество песен: 263 
+2017-03-13 16:16:25.5219|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Песни у костра
+Количество песен: 539 
+2017-03-13 16:16:25.5219|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: ДДТ
+Количество песен: 553 
+2017-03-13 16:16:25.5219|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Сплин
+Количество песен: 453 
+2017-03-13 16:16:25.5219|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Песни из кино и мультфильмов
+Количество песен: 741 
+2017-03-13 16:16:25.5219|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Сектор Газа
+Количество песен: 288 
+2017-03-13 16:16:25.5219|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Гражданская Оборона
+Количество песен: 459 
+2017-03-13 16:16:25.5219|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Любэ
+Количество песен: 191 
+2017-03-13 16:16:25.5219|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Разные песни
+Количество песен: 1178 
+2017-03-13 16:16:25.5219|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Ария
+Количество песен: 321 
+2017-03-13 16:16:25.5219|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Король и Шут
+Количество песен: 468 
+2017-03-13 16:16:25.5219|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Наутилус Помпилиус
+Количество песен: 248 
+2017-03-13 16:16:25.5219|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Розенбаум Александр
+Количество песен: 490 
+2017-03-13 16:16:25.5219|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Агата Кристи
+Количество песен: 233 
+2017-03-13 16:16:25.5219|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: 5nizza
+Количество песен: 134 
+2017-03-13 16:16:25.5219|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Чиж
+Количество песен: 342 
+2017-03-13 16:16:25.5219|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Ляпис Трубецкой
+Количество песен: 201 
+2017-03-13 16:16:25.5219|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Аквариум
+Количество песен: 811 
+2017-03-13 16:16:54.5300|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Eric Bibb
+Количество песен: 1 
+2017-03-13 16:16:54.5541|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: DiscoPraise
+Количество песен: 1 
+2017-03-13 16:16:54.5541|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Skeeter Davis
+Количество песен: 1 
+2017-03-13 16:16:54.5541|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Emma6
+Количество песен: 1 
+2017-03-13 16:16:54.5541|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Riley Green
+Количество песен: 1 
+2017-03-13 16:16:54.5541|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Steel Panther
+Количество песен: 1 
+2017-03-13 16:16:54.5541|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Michelle Wright
+Количество песен: 1 
+2017-03-13 16:16:54.5541|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Sammy Kershaw
+Количество песен: 1 
+2017-03-13 16:16:54.5541|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Асан?лі К?шеров
+Количество песен: 1 
+2017-03-13 16:16:54.5541|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: HTM
+Количество песен: 1 
+2017-03-13 16:16:54.5541|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Jaron Lowenstein
+Количество песен: 1 
+2017-03-13 16:16:54.5541|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Lea Salonga
+Количество песен: 1 
+2017-03-13 16:16:54.5541|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Кино
+Количество песен: 263 
+2017-03-13 16:16:54.5541|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Песни у костра
+Количество песен: 539 
+2017-03-13 16:16:54.5541|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: ДДТ
+Количество песен: 553 
+2017-03-13 16:16:54.5541|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Сплин
+Количество песен: 453 
+2017-03-13 16:16:54.5541|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Песни из кино и мультфильмов
+Количество песен: 741 
+2017-03-13 16:16:54.5541|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Сектор Газа
+Количество песен: 288 
+2017-03-13 16:16:54.5541|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Гражданская Оборона
+Количество песен: 459 
+2017-03-13 16:16:54.5541|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Любэ
+Количество песен: 191 
+2017-03-13 16:16:54.5541|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Разные песни
+Количество песен: 1178 
+2017-03-13 16:16:54.5541|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Ария
+Количество песен: 321 
+2017-03-13 16:16:54.5541|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Король и Шут
+Количество песен: 468 
+2017-03-13 16:16:54.5541|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Наутилус Помпилиус
+Количество песен: 248 
+2017-03-13 16:16:54.5541|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Розенбаум Александр
+Количество песен: 490 
+2017-03-13 16:16:54.5541|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Агата Кристи
+Количество песен: 233 
+2017-03-13 16:16:54.5541|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: 5nizza
+Количество песен: 134 
+2017-03-13 16:16:54.5541|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Чиж
+Количество песен: 342 
+2017-03-13 16:16:54.5541|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Ляпис Трубецкой
+Количество песен: 201 
+2017-03-13 16:16:54.5541|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Аквариум
+Количество песен: 811 
+2017-03-13 16:28:06.3059|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Eric Bibb
+Количество песен: 1 
+2017-03-13 16:28:06.3257|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: DiscoPraise
+Количество песен: 1 
+2017-03-13 16:28:06.3257|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Skeeter Davis
+Количество песен: 1 
+2017-03-13 16:28:06.3257|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Emma6
+Количество песен: 1 
+2017-03-13 16:28:06.3257|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Riley Green
+Количество песен: 1 
+2017-03-13 16:28:06.3257|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Steel Panther
+Количество песен: 1 
+2017-03-13 16:28:06.3257|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Michelle Wright
+Количество песен: 1 
+2017-03-13 16:28:06.3257|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Sammy Kershaw
+Количество песен: 1 
+2017-03-13 16:28:06.3257|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Асан?лі К?шеров
+Количество песен: 1 
+2017-03-13 16:28:06.3257|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: HTM
+Количество песен: 1 
+2017-03-13 16:28:06.3257|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Jaron Lowenstein
+Количество песен: 1 
+2017-03-13 16:28:06.3257|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Lea Salonga
+Количество песен: 1 
+2017-03-13 16:28:06.3257|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Кино
+Количество песен: 263 
+2017-03-13 16:28:06.3257|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Песни у костра
+Количество песен: 539 
+2017-03-13 16:28:06.3257|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: ДДТ
+Количество песен: 553 
+2017-03-13 16:28:06.3257|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Сплин
+Количество песен: 453 
+2017-03-13 16:28:06.3257|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Песни из кино и мультфильмов
+Количество песен: 741 
+2017-03-13 16:28:06.3257|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Сектор Газа
+Количество песен: 288 
+2017-03-13 16:28:06.3257|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Гражданская Оборона
+Количество песен: 459 
+2017-03-13 16:28:06.3257|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Любэ
+Количество песен: 191 
+2017-03-13 16:28:06.3257|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Разные песни
+Количество песен: 1178 
+2017-03-13 16:28:06.3257|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Ария
+Количество песен: 321 
+2017-03-13 16:28:06.3257|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Король и Шут
+Количество песен: 468 
+2017-03-13 16:28:06.3257|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Наутилус Помпилиус
+Количество песен: 248 
+2017-03-13 16:28:06.3257|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Розенбаум Александр
+Количество песен: 490 
+2017-03-13 16:28:06.3257|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Агата Кристи
+Количество песен: 233 
+2017-03-13 16:28:06.3257|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: 5nizza
+Количество песен: 134 
+2017-03-13 16:28:06.3257|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Чиж
+Количество песен: 342 
+2017-03-13 16:28:06.3257|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Ляпис Трубецкой
+Количество песен: 201 
+2017-03-13 16:28:06.3257|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Аквариум
+Количество песен: 811 
+2017-03-13 16:45:47.8657|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Eric Bibb
+Количество песен: 1 
+2017-03-13 16:45:47.8877|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: DiscoPraise
+Количество песен: 1 
+2017-03-13 16:45:47.8877|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Skeeter Davis
+Количество песен: 1 
+2017-03-13 16:45:47.8877|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Emma6
+Количество песен: 1 
+2017-03-13 16:45:47.8877|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Riley Green
+Количество песен: 1 
+2017-03-13 16:45:47.8877|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Steel Panther
+Количество песен: 1 
+2017-03-13 16:45:47.8877|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Michelle Wright
+Количество песен: 1 
+2017-03-13 16:45:47.8877|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Sammy Kershaw
+Количество песен: 1 
+2017-03-13 16:45:47.8877|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Асан?лі К?шеров
+Количество песен: 1 
+2017-03-13 16:45:47.8877|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: HTM
+Количество песен: 1 
+2017-03-13 16:45:47.8877|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Jaron Lowenstein
+Количество песен: 1 
+2017-03-13 16:45:47.8877|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Lea Salonga
+Количество песен: 1 
+2017-03-13 16:45:47.8877|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Кино
+Количество песен: 263 
+2017-03-13 16:45:47.8877|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Песни у костра
+Количество песен: 539 
+2017-03-13 16:45:47.8877|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: ДДТ
+Количество песен: 553 
+2017-03-13 16:45:47.8877|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Сплин
+Количество песен: 453 
+2017-03-13 16:45:47.8877|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Песни из кино и мультфильмов
+Количество песен: 741 
+2017-03-13 16:45:47.8877|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Сектор Газа
+Количество песен: 288 
+2017-03-13 16:45:47.8877|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Гражданская Оборона
+Количество песен: 459 
+2017-03-13 16:45:47.8877|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Любэ
+Количество песен: 191 
+2017-03-13 16:45:47.8877|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Разные песни
+Количество песен: 1178 
+2017-03-13 16:45:47.8877|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Ария
+Количество песен: 321 
+2017-03-13 16:45:47.8877|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Король и Шут
+Количество песен: 468 
+2017-03-13 16:45:47.8877|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Наутилус Помпилиус
+Количество песен: 248 
+2017-03-13 16:45:47.8877|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Розенбаум Александр
+Количество песен: 490 
+2017-03-13 16:45:47.8877|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Агата Кристи
+Количество песен: 233 
+2017-03-13 16:45:47.8877|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: 5nizza
+Количество песен: 134 
+2017-03-13 16:45:47.8877|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Чиж
+Количество песен: 342 
+2017-03-13 16:45:47.8877|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Ляпис Трубецкой
+Количество песен: 201 
+2017-03-13 16:45:47.8877|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Аквариум
+Количество песен: 811 
+2017-03-13 16:46:36.2247|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Skeeter Davis
+Количество песен: 1 
+2017-03-13 16:46:36.2477|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Emma6
+Количество песен: 1 
+2017-03-13 16:46:36.2477|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Riley Green
+Количество песен: 1 
+2017-03-13 16:46:36.2477|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Steel Panther
+Количество песен: 1 
+2017-03-13 16:46:36.2487|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Michelle Wright
+Количество песен: 1 
+2017-03-13 16:46:36.2487|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Sammy Kershaw
+Количество песен: 1 
+2017-03-13 16:46:36.2487|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Асан?лі К?шеров
+Количество песен: 1 
+2017-03-13 16:46:36.2487|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: HTM
+Количество песен: 1 
+2017-03-13 16:46:36.2487|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Jaron Lowenstein
+Количество песен: 1 
+2017-03-13 16:46:36.2487|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Lea Salonga
+Количество песен: 1 
+2017-03-13 16:46:36.2487|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Eric Bibb
+Количество песен: 1 
+2017-03-13 16:46:36.2487|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: DiscoPraise
+Количество песен: 1 
+2017-03-13 16:46:36.2487|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Кино
+Количество песен: 263 
+2017-03-13 16:46:36.2487|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Песни у костра
+Количество песен: 539 
+2017-03-13 16:46:36.2487|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: ДДТ
+Количество песен: 553 
+2017-03-13 16:46:36.2487|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Сплин
+Количество песен: 453 
+2017-03-13 16:46:36.2487|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Песни из кино и мультфильмов
+Количество песен: 741 
+2017-03-13 16:46:36.2487|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Сектор Газа
+Количество песен: 288 
+2017-03-13 16:46:36.2487|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Гражданская Оборона
+Количество песен: 459 
+2017-03-13 16:46:36.2487|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Любэ
+Количество песен: 191 
+2017-03-13 16:46:36.2487|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Разные песни
+Количество песен: 1178 
+2017-03-13 16:46:36.2487|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Ария
+Количество песен: 321 
+2017-03-13 16:46:36.2487|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Король и Шут
+Количество песен: 468 
+2017-03-13 16:46:36.2487|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Наутилус Помпилиус
+Количество песен: 248 
+2017-03-13 16:46:36.2487|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Розенбаум Александр
+Количество песен: 490 
+2017-03-13 16:46:36.2487|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Агата Кристи
+Количество песен: 233 
+2017-03-13 16:46:36.2487|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: 5nizza
+Количество песен: 134 
+2017-03-13 16:46:36.2487|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Чиж
+Количество песен: 342 
+2017-03-13 16:46:36.2487|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Ляпис Трубецкой
+Количество песен: 201 
+2017-03-13 16:46:36.2487|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Аквариум
+Количество песен: 811 
+2017-03-13 16:47:20.2210|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Skeeter Davis
+Количество песен: 1 
+2017-03-13 16:47:20.2370|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Emma6
+Количество песен: 1 
+2017-03-13 16:47:20.2370|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Riley Green
+Количество песен: 1 
+2017-03-13 16:47:20.2370|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Steel Panther
+Количество песен: 1 
+2017-03-13 16:47:20.2370|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Michelle Wright
+Количество песен: 1 
+2017-03-13 16:47:20.2370|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Sammy Kershaw
+Количество песен: 1 
+2017-03-13 16:47:20.2370|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Асан?лі К?шеров
+Количество песен: 1 
+2017-03-13 16:47:20.2370|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: HTM
+Количество песен: 1 
+2017-03-13 16:47:20.2370|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Jaron Lowenstein
+Количество песен: 1 
+2017-03-13 16:47:20.2370|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Lea Salonga
+Количество песен: 1 
+2017-03-13 16:47:20.2370|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Eric Bibb
+Количество песен: 1 
+2017-03-13 16:47:20.2370|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: DiscoPraise
+Количество песен: 1 
+2017-03-13 16:47:20.2370|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Кино
+Количество песен: 263 
+2017-03-13 16:47:20.2370|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Песни у костра
+Количество песен: 539 
+2017-03-13 16:47:20.2370|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: ДДТ
+Количество песен: 553 
+2017-03-13 16:47:20.2370|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Сплин
+Количество песен: 453 
+2017-03-13 16:47:20.2370|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Песни из кино и мультфильмов
+Количество песен: 741 
+2017-03-13 16:47:20.2370|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Сектор Газа
+Количество песен: 288 
+2017-03-13 16:47:20.2370|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Гражданская Оборона
+Количество песен: 459 
+2017-03-13 16:47:20.2370|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Любэ
+Количество песен: 191 
+2017-03-13 16:47:20.2370|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Разные песни
+Количество песен: 1178 
+2017-03-13 16:47:20.2370|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Ария
+Количество песен: 321 
+2017-03-13 16:47:20.2370|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Король и Шут
+Количество песен: 468 
+2017-03-13 16:47:20.2370|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Наутилус Помпилиус
+Количество песен: 248 
+2017-03-13 16:47:20.2370|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Розенбаум Александр
+Количество песен: 490 
+2017-03-13 16:47:20.2370|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Агата Кристи
+Количество песен: 233 
+2017-03-13 16:47:20.2370|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: 5nizza
+Количество песен: 134 
+2017-03-13 16:47:20.2370|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Чиж
+Количество песен: 342 
+2017-03-13 16:47:20.2370|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Ляпис Трубецкой
+Количество песен: 201 
+2017-03-13 16:47:20.2370|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Аквариум
+Количество песен: 811 
+2017-03-13 16:48:15.5037|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Skeeter Davis
+Количество песен: 1 
+2017-03-13 16:48:15.5193|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Emma6
+Количество песен: 1 
+2017-03-13 16:48:15.5193|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Riley Green
+Количество песен: 1 
+2017-03-13 16:48:15.5193|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Steel Panther
+Количество песен: 1 
+2017-03-13 16:48:15.5193|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Michelle Wright
+Количество песен: 1 
+2017-03-13 16:48:15.5193|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Sammy Kershaw
+Количество песен: 1 
+2017-03-13 16:48:15.5193|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Асан?лі К?шеров
+Количество песен: 1 
+2017-03-13 16:48:15.5193|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: HTM
+Количество песен: 1 
+2017-03-13 16:48:15.5193|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Jaron Lowenstein
+Количество песен: 1 
+2017-03-13 16:48:15.5193|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Lea Salonga
+Количество песен: 1 
+2017-03-13 16:48:15.5193|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Eric Bibb
+Количество песен: 1 
+2017-03-13 16:48:15.5193|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: DiscoPraise
+Количество песен: 1 
+2017-03-13 16:48:15.5193|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Кино
+Количество песен: 263 
+2017-03-13 16:48:15.5193|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Песни у костра
+Количество песен: 539 
+2017-03-13 16:48:15.5193|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: ДДТ
+Количество песен: 553 
+2017-03-13 16:48:15.5193|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Сплин
+Количество песен: 453 
+2017-03-13 16:48:15.5193|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Песни из кино и мультфильмов
+Количество песен: 741 
+2017-03-13 16:48:15.5193|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Сектор Газа
+Количество песен: 288 
+2017-03-13 16:48:15.5193|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Гражданская Оборона
+Количество песен: 459 
+2017-03-13 16:48:15.5193|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Любэ
+Количество песен: 191 
+2017-03-13 16:48:15.5193|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Разные песни
+Количество песен: 1178 
+2017-03-13 16:48:15.5193|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Ария
+Количество песен: 321 
+2017-03-13 16:48:15.5193|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Король и Шут
+Количество песен: 468 
+2017-03-13 16:48:15.5193|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Наутилус Помпилиус
+Количество песен: 248 
+2017-03-13 16:48:15.5193|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Розенбаум Александр
+Количество песен: 490 
+2017-03-13 16:48:15.5193|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Агата Кристи
+Количество песен: 233 
+2017-03-13 16:48:15.5193|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: 5nizza
+Количество песен: 134 
+2017-03-13 16:48:15.5193|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Чиж
+Количество песен: 342 
+2017-03-13 16:48:15.5193|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Ляпис Трубецкой
+Количество песен: 201 
+2017-03-13 16:48:15.5193|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Аквариум
+Количество песен: 811 
+2017-03-13 16:53:49.9697|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Skeeter Davis
+Количество песен: 1 
+2017-03-13 16:53:50.0067|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Emma6
+Количество песен: 1 
+2017-03-13 16:53:50.0067|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Riley Green
+Количество песен: 1 
+2017-03-13 16:53:50.0067|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Steel Panther
+Количество песен: 1 
+2017-03-13 16:53:50.0067|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Michelle Wright
+Количество песен: 1 
+2017-03-13 16:53:50.0067|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Sammy Kershaw
+Количество песен: 1 
+2017-03-13 16:53:50.0067|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Асан?лі К?шеров
+Количество песен: 1 
+2017-03-13 16:53:50.0067|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: HTM
+Количество песен: 1 
+2017-03-13 16:53:50.0067|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Jaron Lowenstein
+Количество песен: 1 
+2017-03-13 16:53:50.0067|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Lea Salonga
+Количество песен: 1 
+2017-03-13 16:53:50.0067|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Eric Bibb
+Количество песен: 1 
+2017-03-13 16:53:50.0067|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: DiscoPraise
+Количество песен: 1 
+2017-03-13 16:53:50.0067|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Кино
+Количество песен: 263 
+2017-03-13 16:53:50.0067|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Песни у костра
+Количество песен: 539 
+2017-03-13 16:53:50.0067|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: ДДТ
+Количество песен: 553 
+2017-03-13 16:53:50.0067|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Сплин
+Количество песен: 453 
+2017-03-13 16:53:50.0067|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Песни из кино и мультфильмов
+Количество песен: 741 
+2017-03-13 16:53:50.0067|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Сектор Газа
+Количество песен: 288 
+2017-03-13 16:53:50.0067|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Гражданская Оборона
+Количество песен: 459 
+2017-03-13 16:53:50.0067|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Любэ
+Количество песен: 191 
+2017-03-13 16:53:50.0067|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Разные песни
+Количество песен: 1178 
+2017-03-13 16:53:50.0067|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Ария
+Количество песен: 321 
+2017-03-13 16:53:50.0067|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Король и Шут
+Количество песен: 468 
+2017-03-13 16:53:50.0067|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Наутилус Помпилиус
+Количество песен: 248 
+2017-03-13 16:53:50.0067|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Розенбаум Александр
+Количество песен: 490 
+2017-03-13 16:53:50.0067|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Агата Кристи
+Количество песен: 233 
+2017-03-13 16:53:50.0067|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: 5nizza
+Количество песен: 134 
+2017-03-13 16:53:50.0157|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Чиж
+Количество песен: 342 
+2017-03-13 16:53:50.0157|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Ляпис Трубецкой
+Количество песен: 201 
+2017-03-13 16:53:50.0157|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Аквариум
+Количество песен: 811 
+2017-03-13 16:54:50.6472|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Skeeter Davis
+Количество песен: 1 
+2017-03-13 16:54:50.6712|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Emma6
+Количество песен: 1 
+2017-03-13 16:54:50.6722|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Riley Green
+Количество песен: 1 
+2017-03-13 16:54:50.6722|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Steel Panther
+Количество песен: 1 
+2017-03-13 16:54:50.6722|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Michelle Wright
+Количество песен: 1 
+2017-03-13 16:54:50.6722|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Sammy Kershaw
+Количество песен: 1 
+2017-03-13 16:54:50.6722|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Асан?лі К?шеров
+Количество песен: 1 
+2017-03-13 16:54:50.6722|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: HTM
+Количество песен: 1 
+2017-03-13 16:54:50.6722|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Jaron Lowenstein
+Количество песен: 1 
+2017-03-13 16:54:50.6722|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Lea Salonga
+Количество песен: 1 
+2017-03-13 16:54:50.6722|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Eric Bibb
+Количество песен: 1 
+2017-03-13 16:54:50.6722|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: DiscoPraise
+Количество песен: 1 
+2017-03-13 16:54:50.6722|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Кино
+Количество песен: 263 
+2017-03-13 16:54:50.6722|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Песни у костра
+Количество песен: 539 
+2017-03-13 16:54:50.6722|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: ДДТ
+Количество песен: 553 
+2017-03-13 16:54:50.6722|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Сплин
+Количество песен: 453 
+2017-03-13 16:54:50.6722|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Песни из кино и мультфильмов
+Количество песен: 741 
+2017-03-13 16:54:50.6722|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Сектор Газа
+Количество песен: 288 
+2017-03-13 16:54:50.6722|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Гражданская Оборона
+Количество песен: 459 
+2017-03-13 16:54:50.6722|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Любэ
+Количество песен: 191 
+2017-03-13 16:54:50.6722|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Разные песни
+Количество песен: 1178 
+2017-03-13 16:54:50.6722|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Ария
+Количество песен: 321 
+2017-03-13 16:54:50.6722|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Король и Шут
+Количество песен: 468 
+2017-03-13 16:54:50.6722|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Наутилус Помпилиус
+Количество песен: 248 
+2017-03-13 16:54:50.6722|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Розенбаум Александр
+Количество песен: 490 
+2017-03-13 16:54:50.6722|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Агата Кристи
+Количество песен: 233 
+2017-03-13 16:54:50.6722|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: 5nizza
+Количество песен: 134 
+2017-03-13 16:54:50.6722|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Чиж
+Количество песен: 342 
+2017-03-13 16:54:50.6722|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Ляпис Трубецкой
+Количество песен: 201 
+2017-03-13 16:54:50.6722|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Аквариум
+Количество песен: 811 
+2017-03-13 16:56:51.3754|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Skeeter Davis
+Количество песен: 1 
+2017-03-13 16:56:51.3974|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Emma6
+Количество песен: 1 
+2017-03-13 16:56:51.3974|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Riley Green
+Количество песен: 1 
+2017-03-13 16:56:51.3974|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Steel Panther
+Количество песен: 1 
+2017-03-13 16:56:51.3974|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Michelle Wright
+Количество песен: 1 
+2017-03-13 16:56:51.3974|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Sammy Kershaw
+Количество песен: 1 
+2017-03-13 16:56:51.3974|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Асан?лі К?шеров
+Количество песен: 1 
+2017-03-13 16:56:51.3974|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: HTM
+Количество песен: 1 
+2017-03-13 16:56:51.3974|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Jaron Lowenstein
+Количество песен: 1 
+2017-03-13 16:56:51.3974|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Lea Salonga
+Количество песен: 1 
+2017-03-13 16:56:51.3974|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Eric Bibb
+Количество песен: 1 
+2017-03-13 16:56:51.3974|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: DiscoPraise
+Количество песен: 1 
+2017-03-13 16:56:51.3974|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Кино
+Количество песен: 263 
+2017-03-13 16:56:51.3974|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Песни у костра
+Количество песен: 539 
+2017-03-13 16:56:51.3974|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: ДДТ
+Количество песен: 553 
+2017-03-13 16:56:51.3974|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Сплин
+Количество песен: 453 
+2017-03-13 16:56:51.3974|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Песни из кино и мультфильмов
+Количество песен: 741 
+2017-03-13 16:56:51.3974|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Сектор Газа
+Количество песен: 288 
+2017-03-13 16:56:51.3974|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Гражданская Оборона
+Количество песен: 459 
+2017-03-13 16:56:51.3974|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Любэ
+Количество песен: 191 
+2017-03-13 16:56:51.3974|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Разные песни
+Количество песен: 1178 
+2017-03-13 16:56:51.3974|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Ария
+Количество песен: 321 
+2017-03-13 16:56:51.3974|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Король и Шут
+Количество песен: 468 
+2017-03-13 16:56:51.4044|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Наутилус Помпилиус
+Количество песен: 248 
+2017-03-13 16:56:51.4044|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Розенбаум Александр
+Количество песен: 490 
+2017-03-13 16:56:51.4044|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Агата Кристи
+Количество песен: 233 
+2017-03-13 16:56:51.4044|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: 5nizza
+Количество песен: 134 
+2017-03-13 16:56:51.4044|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Чиж
+Количество песен: 342 
+2017-03-13 16:56:51.4044|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Ляпис Трубецкой
+Количество песен: 201 
+2017-03-13 16:56:51.4044|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Аквариум
+Количество песен: 811 
+2017-03-13 17:23:46.4074|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Riley Green
+Количество песен: 1 
+2017-03-13 17:23:46.4685|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Steel Panther
+Количество песен: 1 
+2017-03-13 17:23:46.4685|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Michelle Wright
+Количество песен: 1 
+2017-03-13 17:23:46.4685|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Sammy Kershaw
+Количество песен: 1 
+2017-03-13 17:23:46.4685|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Асан?лі К?шеров
+Количество песен: 1 
+2017-03-13 17:23:46.4685|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: HTM
+Количество песен: 1 
+2017-03-13 17:23:46.4685|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Jaron Lowenstein
+Количество песен: 1 
+2017-03-13 17:23:46.4685|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Lea Salonga
+Количество песен: 1 
+2017-03-13 17:23:46.4685|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Eric Bibb
+Количество песен: 1 
+2017-03-13 17:23:46.4685|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: DiscoPraise
+Количество песен: 1 
+2017-03-13 17:23:46.4685|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Skeeter Davis
+Количество песен: 1 
+2017-03-13 17:23:46.4685|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Emma6
+Количество песен: 1 
+2017-03-13 17:23:46.4685|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Кино
+Количество песен: 263 
+2017-03-13 17:23:46.4685|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Песни у костра
+Количество песен: 539 
+2017-03-13 17:23:46.4685|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: ДДТ
+Количество песен: 553 
+2017-03-13 17:23:46.4685|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Сплин
+Количество песен: 453 
+2017-03-13 17:23:46.4685|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Песни из кино и мультфильмов
+Количество песен: 741 
+2017-03-13 17:23:46.4685|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Сектор Газа
+Количество песен: 288 
+2017-03-13 17:23:46.4685|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Гражданская Оборона
+Количество песен: 459 
+2017-03-13 17:23:46.4685|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Любэ
+Количество песен: 191 
+2017-03-13 17:23:46.4685|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Разные песни
+Количество песен: 1178 
+2017-03-13 17:23:46.4685|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Ария
+Количество песен: 321 
+2017-03-13 17:23:46.4685|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Король и Шут
+Количество песен: 468 
+2017-03-13 17:23:46.4685|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Наутилус Помпилиус
+Количество песен: 248 
+2017-03-13 17:23:46.4685|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Розенбаум Александр
+Количество песен: 490 
+2017-03-13 17:23:46.4685|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Агата Кристи
+Количество песен: 233 
+2017-03-13 17:23:46.4685|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: 5nizza
+Количество песен: 134 
+2017-03-13 17:23:46.4685|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Чиж
+Количество песен: 342 
+2017-03-13 17:23:46.4685|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Ляпис Трубецкой
+Количество песен: 201 
+2017-03-13 17:23:46.4685|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Аквариум
+Количество песен: 811 
+2017-03-13 17:24:36.1375|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Riley Green
+Количество песен: 1 
+2017-03-13 17:24:36.1640|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Steel Panther
+Количество песен: 1 
+2017-03-13 17:24:36.1640|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Michelle Wright
+Количество песен: 1 
+2017-03-13 17:24:36.1640|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Sammy Kershaw
+Количество песен: 1 
+2017-03-13 17:24:36.1640|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Асан?лі К?шеров
+Количество песен: 1 
+2017-03-13 17:24:36.1640|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: HTM
+Количество песен: 1 
+2017-03-13 17:24:36.1640|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Jaron Lowenstein
+Количество песен: 1 
+2017-03-13 17:24:36.1640|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Lea Salonga
+Количество песен: 1 
+2017-03-13 17:24:36.1640|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Eric Bibb
+Количество песен: 1 
+2017-03-13 17:24:36.1640|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: DiscoPraise
+Количество песен: 1 
+2017-03-13 17:24:36.1640|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Skeeter Davis
+Количество песен: 1 
+2017-03-13 17:24:36.1640|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Emma6
+Количество песен: 1 
+2017-03-13 17:24:36.1710|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Кино
+Количество песен: 263 
+2017-03-13 17:24:36.1710|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Песни у костра
+Количество песен: 539 
+2017-03-13 17:24:36.1710|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: ДДТ
+Количество песен: 553 
+2017-03-13 17:24:36.1710|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Сплин
+Количество песен: 453 
+2017-03-13 17:24:36.1710|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Песни из кино и мультфильмов
+Количество песен: 741 
+2017-03-13 17:24:36.1710|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Сектор Газа
+Количество песен: 288 
+2017-03-13 17:24:36.1710|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Гражданская Оборона
+Количество песен: 459 
+2017-03-13 17:24:36.1710|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Любэ
+Количество песен: 191 
+2017-03-13 17:24:36.1710|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Разные песни
+Количество песен: 1178 
+2017-03-13 17:24:36.1710|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Ария
+Количество песен: 321 
+2017-03-13 17:24:36.1710|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Король и Шут
+Количество песен: 468 
+2017-03-13 17:24:36.1710|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Наутилус Помпилиус
+Количество песен: 248 
+2017-03-13 17:24:36.1710|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Розенбаум Александр
+Количество песен: 490 
+2017-03-13 17:24:36.1710|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Агата Кристи
+Количество песен: 233 
+2017-03-13 17:24:36.1710|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: 5nizza
+Количество песен: 134 
+2017-03-13 17:24:36.1710|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Чиж
+Количество песен: 342 
+2017-03-13 17:24:36.1710|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Ляпис Трубецкой
+Количество песен: 201 
+2017-03-13 17:24:36.1710|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Аквариум
+Количество песен: 811 
+2017-03-13 17:26:40.9592|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Riley Green
+Количество песен: 1 
+2017-03-13 17:26:40.9923|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Steel Panther
+Количество песен: 1 
+2017-03-13 17:26:40.9923|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Michelle Wright
+Количество песен: 1 
+2017-03-13 17:26:40.9923|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Sammy Kershaw
+Количество песен: 1 
+2017-03-13 17:26:40.9923|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Асан?лі К?шеров
+Количество песен: 1 
+2017-03-13 17:26:40.9923|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: HTM
+Количество песен: 1 
+2017-03-13 17:26:40.9923|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Jaron Lowenstein
+Количество песен: 1 
+2017-03-13 17:26:40.9923|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Lea Salonga
+Количество песен: 1 
+2017-03-13 17:26:40.9923|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Eric Bibb
+Количество песен: 1 
+2017-03-13 17:26:40.9923|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: DiscoPraise
+Количество песен: 1 
+2017-03-13 17:26:40.9923|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Skeeter Davis
+Количество песен: 1 
+2017-03-13 17:26:40.9923|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Emma6
+Количество песен: 1 
+2017-03-13 17:26:40.9923|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Кино
+Количество песен: 263 
+2017-03-13 17:26:40.9923|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Песни у костра
+Количество песен: 539 
+2017-03-13 17:26:40.9923|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: ДДТ
+Количество песен: 553 
+2017-03-13 17:26:40.9923|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Сплин
+Количество песен: 453 
+2017-03-13 17:26:40.9923|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Песни из кино и мультфильмов
+Количество песен: 741 
+2017-03-13 17:26:40.9923|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Сектор Газа
+Количество песен: 288 
+2017-03-13 17:26:40.9923|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Гражданская Оборона
+Количество песен: 459 
+2017-03-13 17:26:40.9923|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Любэ
+Количество песен: 191 
+2017-03-13 17:26:40.9923|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Разные песни
+Количество песен: 1178 
+2017-03-13 17:26:40.9923|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Ария
+Количество песен: 321 
+2017-03-13 17:26:40.9923|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Король и Шут
+Количество песен: 468 
+2017-03-13 17:26:41.0043|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Наутилус Помпилиус
+Количество песен: 248 
+2017-03-13 17:26:41.0043|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Розенбаум Александр
+Количество песен: 490 
+2017-03-13 17:26:41.0043|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Агата Кристи
+Количество песен: 233 
+2017-03-13 17:26:41.0043|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: 5nizza
+Количество песен: 134 
+2017-03-13 17:26:41.0043|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Чиж
+Количество песен: 342 
+2017-03-13 17:26:41.0043|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Ляпис Трубецкой
+Количество песен: 201 
+2017-03-13 17:26:41.0043|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Аквариум
+Количество песен: 811 
+2017-03-13 17:28:27.7809|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Riley Green
+Количество песен: 1 
+2017-03-13 17:28:27.8099|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Steel Panther
+Количество песен: 1 
+2017-03-13 17:28:27.8099|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Michelle Wright
+Количество песен: 1 
+2017-03-13 17:28:27.8099|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Sammy Kershaw
+Количество песен: 1 
+2017-03-13 17:28:27.8099|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Асан?лі К?шеров
+Количество песен: 1 
+2017-03-13 17:28:27.8099|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: HTM
+Количество песен: 1 
+2017-03-13 17:28:27.8099|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Jaron Lowenstein
+Количество песен: 1 
+2017-03-13 17:28:27.8099|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Lea Salonga
+Количество песен: 1 
+2017-03-13 17:28:27.8099|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Eric Bibb
+Количество песен: 1 
+2017-03-13 17:28:27.8099|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: DiscoPraise
+Количество песен: 1 
+2017-03-13 17:28:27.8099|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Skeeter Davis
+Количество песен: 1 
+2017-03-13 17:28:27.8099|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Emma6
+Количество песен: 1 
+2017-03-13 17:28:27.8099|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Кино
+Количество песен: 263 
+2017-03-13 17:28:27.8099|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Песни у костра
+Количество песен: 539 
+2017-03-13 17:28:27.8099|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: ДДТ
+Количество песен: 553 
+2017-03-13 17:28:27.8099|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Сплин
+Количество песен: 453 
+2017-03-13 17:28:27.8099|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Песни из кино и мультфильмов
+Количество песен: 741 
+2017-03-13 17:28:27.8099|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Сектор Газа
+Количество песен: 288 
+2017-03-13 17:28:27.8099|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Гражданская Оборона
+Количество песен: 459 
+2017-03-13 17:28:27.8099|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Любэ
+Количество песен: 191 
+2017-03-13 17:28:27.8099|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Разные песни
+Количество песен: 1178 
+2017-03-13 17:28:27.8099|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Ария
+Количество песен: 321 
+2017-03-13 17:28:27.8099|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Король и Шут
+Количество песен: 468 
+2017-03-13 17:28:27.8099|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Наутилус Помпилиус
+Количество песен: 248 
+2017-03-13 17:28:27.8099|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Розенбаум Александр
+Количество песен: 490 
+2017-03-13 17:28:27.8099|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Агата Кристи
+Количество песен: 233 
+2017-03-13 17:28:27.8099|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: 5nizza
+Количество песен: 134 
+2017-03-13 17:28:27.8099|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Чиж
+Количество песен: 342 
+2017-03-13 17:28:27.8099|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Ляпис Трубецкой
+Количество песен: 201 
+2017-03-13 17:28:27.8099|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Аквариум
+Количество песен: 811 
+2017-03-13 17:38:16.9610|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Riley Green
+Количество песен: 1 
+2017-03-13 17:38:16.9766|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Steel Panther
+Количество песен: 1 
+2017-03-13 17:38:16.9766|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Michelle Wright
+Количество песен: 1 
+2017-03-13 17:38:16.9766|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Sammy Kershaw
+Количество песен: 1 
+2017-03-13 17:38:16.9766|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Асан?лі К?шеров
+Количество песен: 1 
+2017-03-13 17:38:16.9922|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: HTM
+Количество песен: 1 
+2017-03-13 17:38:16.9922|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Jaron Lowenstein
+Количество песен: 1 
+2017-03-13 17:38:16.9922|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Lea Salonga
+Количество песен: 1 
+2017-03-13 17:38:16.9922|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Eric Bibb
+Количество песен: 1 
+2017-03-13 17:38:16.9922|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: DiscoPraise
+Количество песен: 1 
+2017-03-13 17:38:16.9922|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Skeeter Davis
+Количество песен: 1 
+2017-03-13 17:38:16.9922|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Emma6
+Количество песен: 1 
+2017-03-13 17:38:16.9922|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Кино
+Количество песен: 263 
+2017-03-13 17:38:16.9922|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Песни у костра
+Количество песен: 539 
+2017-03-13 17:38:16.9922|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: ДДТ
+Количество песен: 553 
+2017-03-13 17:38:16.9922|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Сплин
+Количество песен: 453 
+2017-03-13 17:38:16.9922|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Песни из кино и мультфильмов
+Количество песен: 741 
+2017-03-13 17:38:16.9922|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Сектор Газа
+Количество песен: 288 
+2017-03-13 17:38:16.9922|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Гражданская Оборона
+Количество песен: 459 
+2017-03-13 17:38:16.9922|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Любэ
+Количество песен: 191 
+2017-03-13 17:38:16.9922|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Разные песни
+Количество песен: 1178 
+2017-03-13 17:38:16.9922|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Ария
+Количество песен: 321 
+2017-03-13 17:38:16.9922|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Король и Шут
+Количество песен: 468 
+2017-03-13 17:38:16.9922|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Наутилус Помпилиус
+Количество песен: 248 
+2017-03-13 17:38:16.9922|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Розенбаум Александр
+Количество песен: 490 
+2017-03-13 17:38:16.9922|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Агата Кристи
+Количество песен: 233 
+2017-03-13 17:38:16.9922|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: 5nizza
+Количество песен: 134 
+2017-03-13 17:38:16.9922|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Чиж
+Количество песен: 342 
+2017-03-13 17:38:16.9922|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Ляпис Трубецкой
+Количество песен: 201 
+2017-03-13 17:38:16.9922|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Аквариум
+Количество песен: 811 
+2017-03-13 17:40:11.8657|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Riley Green
+Количество песен: 1 
+2017-03-13 17:40:11.8847|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Steel Panther
+Количество песен: 1 
+2017-03-13 17:40:11.8847|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Michelle Wright
+Количество песен: 1 
+2017-03-13 17:40:11.8847|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Sammy Kershaw
+Количество песен: 1 
+2017-03-13 17:40:11.8847|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Асан?лі К?шеров
+Количество песен: 1 
+2017-03-13 17:40:11.8847|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: HTM
+Количество песен: 1 
+2017-03-13 17:40:11.8847|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Jaron Lowenstein
+Количество песен: 1 
+2017-03-13 17:40:11.8847|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Lea Salonga
+Количество песен: 1 
+2017-03-13 17:40:11.8847|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Eric Bibb
+Количество песен: 1 
+2017-03-13 17:40:11.8847|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: DiscoPraise
+Количество песен: 1 
+2017-03-13 17:40:11.8847|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Skeeter Davis
+Количество песен: 1 
+2017-03-13 17:40:11.8847|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Emma6
+Количество песен: 1 
+2017-03-13 17:40:11.8847|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Кино
+Количество песен: 263 
+2017-03-13 17:40:11.8847|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Песни у костра
+Количество песен: 539 
+2017-03-13 17:40:11.8847|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: ДДТ
+Количество песен: 553 
+2017-03-13 17:40:11.8847|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Сплин
+Количество песен: 453 
+2017-03-13 17:40:11.8847|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Песни из кино и мультфильмов
+Количество песен: 741 
+2017-03-13 17:40:11.8847|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Сектор Газа
+Количество песен: 288 
+2017-03-13 17:40:11.8847|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Гражданская Оборона
+Количество песен: 459 
+2017-03-13 17:40:11.8847|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Любэ
+Количество песен: 191 
+2017-03-13 17:40:11.8847|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Разные песни
+Количество песен: 1178 
+2017-03-13 17:40:11.8847|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Ария
+Количество песен: 321 
+2017-03-13 17:40:11.8847|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Король и Шут
+Количество песен: 468 
+2017-03-13 17:40:11.8847|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Наутилус Помпилиус
+Количество песен: 248 
+2017-03-13 17:40:11.8847|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Розенбаум Александр
+Количество песен: 490 
+2017-03-13 17:40:11.8847|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Агата Кристи
+Количество песен: 233 
+2017-03-13 17:40:11.8847|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: 5nizza
+Количество песен: 134 
+2017-03-13 17:40:11.8847|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Чиж
+Количество песен: 342 
+2017-03-13 17:40:11.8847|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Ляпис Трубецкой
+Количество песен: 201 
+2017-03-13 17:40:11.8847|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Аквариум
+Количество песен: 811 
+2017-03-13 17:50:06.3557|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Riley Green
+Количество песен: 1 
+2017-03-13 17:50:06.3837|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Steel Panther
+Количество песен: 1 
+2017-03-13 17:50:06.3837|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Michelle Wright
+Количество песен: 1 
+2017-03-13 17:50:06.3837|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Sammy Kershaw
+Количество песен: 1 
+2017-03-13 17:50:06.3837|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Асан?лі К?шеров
+Количество песен: 1 
+2017-03-13 17:50:06.3837|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: HTM
+Количество песен: 1 
+2017-03-13 17:50:06.3862|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Jaron Lowenstein
+Количество песен: 1 
+2017-03-13 17:50:06.3862|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Lea Salonga
+Количество песен: 1 
+2017-03-13 17:50:06.3862|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Eric Bibb
+Количество песен: 1 
+2017-03-13 17:50:06.3862|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: DiscoPraise
+Количество песен: 1 
+2017-03-13 17:50:06.3862|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Skeeter Davis
+Количество песен: 1 
+2017-03-13 17:50:06.3862|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Emma6
+Количество песен: 1 
+2017-03-13 17:50:06.3862|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Кино
+Количество песен: 263 
+2017-03-13 17:50:06.3862|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Песни у костра
+Количество песен: 539 
+2017-03-13 17:50:06.3862|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: ДДТ
+Количество песен: 553 
+2017-03-13 17:50:06.3862|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Сплин
+Количество песен: 453 
+2017-03-13 17:50:06.3862|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Песни из кино и мультфильмов
+Количество песен: 741 
+2017-03-13 17:50:06.3862|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Сектор Газа
+Количество песен: 288 
+2017-03-13 17:50:06.3862|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Гражданская Оборона
+Количество песен: 459 
+2017-03-13 17:50:06.3862|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Любэ
+Количество песен: 191 
+2017-03-13 17:50:06.3862|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Разные песни
+Количество песен: 1178 
+2017-03-13 17:50:06.3862|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Ария
+Количество песен: 321 
+2017-03-13 17:50:06.3862|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Король и Шут
+Количество песен: 468 
+2017-03-13 17:50:06.3862|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Наутилус Помпилиус
+Количество песен: 248 
+2017-03-13 17:50:06.3862|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Розенбаум Александр
+Количество песен: 490 
+2017-03-13 17:50:06.3862|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Агата Кристи
+Количество песен: 233 
+2017-03-13 17:50:06.3862|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: 5nizza
+Количество песен: 134 
+2017-03-13 17:50:06.3862|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Чиж
+Количество песен: 342 
+2017-03-13 17:50:06.3862|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Ляпис Трубецкой
+Количество песен: 201 
+2017-03-13 17:50:06.3862|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Аквариум
+Количество песен: 811 
+2017-03-13 17:57:13.5783|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Riley Green
+Количество песен: 1 
+2017-03-13 17:57:13.6013|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Steel Panther
+Количество песен: 1 
+2017-03-13 17:57:13.6013|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Michelle Wright
+Количество песен: 1 
+2017-03-13 17:57:13.6013|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Sammy Kershaw
+Количество песен: 1 
+2017-03-13 17:57:13.6013|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Асан?лі К?шеров
+Количество песен: 1 
+2017-03-13 17:57:13.6013|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: HTM
+Количество песен: 1 
+2017-03-13 17:57:13.6013|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Jaron Lowenstein
+Количество песен: 1 
+2017-03-13 17:57:13.6013|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Lea Salonga
+Количество песен: 1 
+2017-03-13 17:57:13.6013|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Eric Bibb
+Количество песен: 1 
+2017-03-13 17:57:13.6013|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: DiscoPraise
+Количество песен: 1 
+2017-03-13 17:57:13.6013|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Skeeter Davis
+Количество песен: 1 
+2017-03-13 17:57:13.6013|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Emma6
+Количество песен: 1 
+2017-03-13 17:57:13.6013|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Кино
+Количество песен: 263 
+2017-03-13 17:57:13.6013|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Песни у костра
+Количество песен: 539 
+2017-03-13 17:57:13.6013|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: ДДТ
+Количество песен: 553 
+2017-03-13 17:57:13.6013|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Сплин
+Количество песен: 453 
+2017-03-13 17:57:13.6063|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Песни из кино и мультфильмов
+Количество песен: 741 
+2017-03-13 17:57:13.6063|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Сектор Газа
+Количество песен: 288 
+2017-03-13 17:57:13.6063|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Гражданская Оборона
+Количество песен: 459 
+2017-03-13 17:57:13.6063|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Любэ
+Количество песен: 191 
+2017-03-13 17:57:13.6063|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Разные песни
+Количество песен: 1178 
+2017-03-13 17:57:13.6063|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Ария
+Количество песен: 321 
+2017-03-13 17:57:13.6063|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Король и Шут
+Количество песен: 468 
+2017-03-13 17:57:13.6063|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Наутилус Помпилиус
+Количество песен: 248 
+2017-03-13 17:57:13.6063|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Розенбаум Александр
+Количество песен: 490 
+2017-03-13 17:57:13.6063|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Агата Кристи
+Количество песен: 233 
+2017-03-13 17:57:13.6063|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: 5nizza
+Количество песен: 134 
+2017-03-13 17:57:13.6063|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Чиж
+Количество песен: 342 
+2017-03-13 17:57:13.6063|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Ляпис Трубецкой
+Количество песен: 201 
+2017-03-13 17:57:13.6063|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Аквариум
+Количество песен: 811 
+2017-03-13 18:00:04.3499|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Riley Green
+Количество песен: 1 
+2017-03-13 18:00:04.3499|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Steel Panther
+Количество песен: 1 
+2017-03-13 18:00:04.3499|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Michelle Wright
+Количество песен: 1 
+2017-03-13 18:00:04.3499|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Sammy Kershaw
+Количество песен: 1 
+2017-03-13 18:00:04.3499|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Асан?лі К?шеров
+Количество песен: 1 
+2017-03-13 18:00:04.3499|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: HTM
+Количество песен: 1 
+2017-03-13 18:00:04.3499|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Jaron Lowenstein
+Количество песен: 1 
+2017-03-13 18:00:04.3499|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Lea Salonga
+Количество песен: 1 
+2017-03-13 18:00:04.3499|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Eric Bibb
+Количество песен: 1 
+2017-03-13 18:00:04.3499|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: DiscoPraise
+Количество песен: 1 
+2017-03-13 18:00:04.3499|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Skeeter Davis
+Количество песен: 1 
+2017-03-13 18:00:04.3499|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Emma6
+Количество песен: 1 
+2017-03-13 18:00:04.3499|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Кино
+Количество песен: 263 
+2017-03-13 18:00:04.3499|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Песни у костра
+Количество песен: 539 
+2017-03-13 18:00:04.3499|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: ДДТ
+Количество песен: 553 
+2017-03-13 18:00:04.3499|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Сплин
+Количество песен: 453 
+2017-03-13 18:00:04.3709|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Песни из кино и мультфильмов
+Количество песен: 741 
+2017-03-13 18:00:04.3709|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Сектор Газа
+Количество песен: 288 
+2017-03-13 18:00:04.3709|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Гражданская Оборона
+Количество песен: 459 
+2017-03-13 18:00:04.3709|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Любэ
+Количество песен: 191 
+2017-03-13 18:00:04.3709|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Разные песни
+Количество песен: 1178 
+2017-03-13 18:00:04.3709|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Ария
+Количество песен: 321 
+2017-03-13 18:00:04.3709|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Король и Шут
+Количество песен: 468 
+2017-03-13 18:00:04.3709|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Наутилус Помпилиус
+Количество песен: 248 
+2017-03-13 18:00:04.3709|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Розенбаум Александр
+Количество песен: 490 
+2017-03-13 18:00:04.3709|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Агата Кристи
+Количество песен: 233 
+2017-03-13 18:00:04.3709|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: 5nizza
+Количество песен: 134 
+2017-03-13 18:00:04.3709|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Чиж
+Количество песен: 342 
+2017-03-13 18:00:04.3709|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Ляпис Трубецкой
+Количество песен: 201 
+2017-03-13 18:00:04.3709|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Аквариум
+Количество песен: 811 
+2017-03-13 18:34:43.2851|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Jaron Lowenstein
+Количество песен: 1 
+2017-03-13 18:34:43.3102|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Lea Salonga
+Количество песен: 1 
+2017-03-13 18:34:43.3102|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Eric Bibb
+Количество песен: 1 
+2017-03-13 18:34:43.3102|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: DiscoPraise
+Количество песен: 1 
+2017-03-13 18:34:43.3102|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Skeeter Davis
+Количество песен: 1 
+2017-03-13 18:34:43.3102|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Emma6
+Количество песен: 1 
+2017-03-13 18:34:43.3102|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Riley Green
+Количество песен: 1 
+2017-03-13 18:34:43.3102|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Steel Panther
+Количество песен: 1 
+2017-03-13 18:34:43.3102|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Michelle Wright
+Количество песен: 1 
+2017-03-13 18:34:43.3102|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Sammy Kershaw
+Количество песен: 1 
+2017-03-13 18:34:43.3102|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Асан?лі К?шеров
+Количество песен: 1 
+2017-03-13 18:34:43.3102|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: HTM
+Количество песен: 1 
+2017-03-13 18:34:43.3102|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Кино
+Количество песен: 263 
+2017-03-13 18:34:43.3102|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Песни у костра
+Количество песен: 539 
+2017-03-13 18:34:43.3102|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: ДДТ
+Количество песен: 553 
+2017-03-13 18:34:43.3152|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Сплин
+Количество песен: 453 
+2017-03-13 18:34:43.3152|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Песни из кино и мультфильмов
+Количество песен: 741 
+2017-03-13 18:34:43.3152|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Сектор Газа
+Количество песен: 288 
+2017-03-13 18:34:43.3152|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Гражданская Оборона
+Количество песен: 459 
+2017-03-13 18:34:43.3152|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Любэ
+Количество песен: 191 
+2017-03-13 18:34:43.3152|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Разные песни
+Количество песен: 1178 
+2017-03-13 18:34:43.3152|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Ария
+Количество песен: 321 
+2017-03-13 18:34:43.3152|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Король и Шут
+Количество песен: 468 
+2017-03-13 18:34:43.3152|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Наутилус Помпилиус
+Количество песен: 248 
+2017-03-13 18:34:43.3152|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Розенбаум Александр
+Количество песен: 490 
+2017-03-13 18:34:43.3152|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Агата Кристи
+Количество песен: 233 
+2017-03-13 18:34:43.3152|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: 5nizza
+Количество песен: 134 
+2017-03-13 18:34:43.3152|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Чиж
+Количество песен: 342 
+2017-03-13 18:34:43.3152|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Ляпис Трубецкой
+Количество песен: 201 
+2017-03-13 18:34:43.3152|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Аквариум
+Количество песен: 811 
+2017-03-13 18:36:34.6221|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Jaron Lowenstein
+Количество песен: 1 
+2017-03-13 18:36:34.6441|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Lea Salonga
+Количество песен: 1 
+2017-03-13 18:36:34.6441|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Eric Bibb
+Количество песен: 1 
+2017-03-13 18:36:34.6441|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: DiscoPraise
+Количество песен: 1 
+2017-03-13 18:36:34.6441|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Skeeter Davis
+Количество песен: 1 
+2017-03-13 18:36:34.6441|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Emma6
+Количество песен: 1 
+2017-03-13 18:36:34.6441|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Riley Green
+Количество песен: 1 
+2017-03-13 18:36:34.6441|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Steel Panther
+Количество песен: 1 
+2017-03-13 18:36:34.6441|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Michelle Wright
+Количество песен: 1 
+2017-03-13 18:36:34.6471|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Sammy Kershaw
+Количество песен: 1 
+2017-03-13 18:36:34.6471|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Асан?лі К?шеров
+Количество песен: 1 
+2017-03-13 18:36:34.6471|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: HTM
+Количество песен: 1 
+2017-03-13 18:36:34.6471|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Кино
+Количество песен: 263 
+2017-03-13 18:36:34.6471|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Песни у костра
+Количество песен: 539 
+2017-03-13 18:36:34.6471|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: ДДТ
+Количество песен: 553 
+2017-03-13 18:36:34.6471|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Сплин
+Количество песен: 453 
+2017-03-13 18:36:34.6471|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Песни из кино и мультфильмов
+Количество песен: 741 
+2017-03-13 18:36:34.6471|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Сектор Газа
+Количество песен: 288 
+2017-03-13 18:36:34.6471|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Гражданская Оборона
+Количество песен: 459 
+2017-03-13 18:36:34.6471|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Любэ
+Количество песен: 191 
+2017-03-13 18:36:34.6471|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Разные песни
+Количество песен: 1178 
+2017-03-13 18:36:34.6471|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Ария
+Количество песен: 321 
+2017-03-13 18:36:34.6471|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Король и Шут
+Количество песен: 468 
+2017-03-13 18:36:34.6471|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Наутилус Помпилиус
+Количество песен: 248 
+2017-03-13 18:36:34.6471|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Розенбаум Александр
+Количество песен: 490 
+2017-03-13 18:36:34.6471|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Агата Кристи
+Количество песен: 233 
+2017-03-13 18:36:34.6471|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: 5nizza
+Количество песен: 134 
+2017-03-13 18:36:34.6471|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Чиж
+Количество песен: 342 
+2017-03-13 18:36:34.6471|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Ляпис Трубецкой
+Количество песен: 201 
+2017-03-13 18:36:34.6471|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Аквариум
+Количество песен: 811 
+2017-03-13 18:36:49.8074|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Jaron Lowenstein
+Количество песен: 1 
+2017-03-13 18:36:49.8284|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Lea Salonga
+Количество песен: 1 
+2017-03-13 18:36:49.8284|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Eric Bibb
+Количество песен: 1 
+2017-03-13 18:36:49.8284|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: DiscoPraise
+Количество песен: 1 
+2017-03-13 18:36:49.8284|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Skeeter Davis
+Количество песен: 1 
+2017-03-13 18:36:49.8284|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Emma6
+Количество песен: 1 
+2017-03-13 18:36:49.8284|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Riley Green
+Количество песен: 1 
+2017-03-13 18:36:49.8284|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Steel Panther
+Количество песен: 1 
+2017-03-13 18:36:49.8284|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Michelle Wright
+Количество песен: 1 
+2017-03-13 18:36:49.8284|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Sammy Kershaw
+Количество песен: 1 
+2017-03-13 18:36:49.8284|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Асан?лі К?шеров
+Количество песен: 1 
+2017-03-13 18:36:49.8284|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: HTM
+Количество песен: 1 
+2017-03-13 18:36:49.8284|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Кино
+Количество песен: 263 
+2017-03-13 18:36:49.8284|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Песни у костра
+Количество песен: 539 
+2017-03-13 18:36:49.8284|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: ДДТ
+Количество песен: 553 
+2017-03-13 18:36:49.8284|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Сплин
+Количество песен: 453 
+2017-03-13 18:36:49.8284|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Песни из кино и мультфильмов
+Количество песен: 741 
+2017-03-13 18:36:49.8284|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Сектор Газа
+Количество песен: 288 
+2017-03-13 18:36:49.8284|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Гражданская Оборона
+Количество песен: 459 
+2017-03-13 18:36:49.8284|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Любэ
+Количество песен: 191 
+2017-03-13 18:36:49.8284|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Разные песни
+Количество песен: 1178 
+2017-03-13 18:36:49.8284|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Ария
+Количество песен: 321 
+2017-03-13 18:36:49.8284|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Король и Шут
+Количество песен: 468 
+2017-03-13 18:36:49.8284|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Наутилус Помпилиус
+Количество песен: 248 
+2017-03-13 18:36:49.8284|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Розенбаум Александр
+Количество песен: 490 
+2017-03-13 18:36:49.8284|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Агата Кристи
+Количество песен: 233 
+2017-03-13 18:36:49.8284|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: 5nizza
+Количество песен: 134 
+2017-03-13 18:36:49.8284|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Чиж
+Количество песен: 342 
+2017-03-13 18:36:49.8284|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Ляпис Трубецкой
+Количество песен: 201 
+2017-03-13 18:36:49.8354|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Аквариум
+Количество песен: 811 
+2017-03-13 18:42:07.7420|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Jaron Lowenstein
+Количество песен: 1 
+2017-03-13 18:42:07.7680|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Lea Salonga
+Количество песен: 1 
+2017-03-13 18:42:07.7680|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Eric Bibb
+Количество песен: 1 
+2017-03-13 18:42:07.7690|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: DiscoPraise
+Количество песен: 1 
+2017-03-13 18:42:07.7690|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Skeeter Davis
+Количество песен: 1 
+2017-03-13 18:42:07.7690|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Emma6
+Количество песен: 1 
+2017-03-13 18:42:07.7690|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Riley Green
+Количество песен: 1 
+2017-03-13 18:42:07.7690|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Steel Panther
+Количество песен: 1 
+2017-03-13 18:42:07.7690|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Michelle Wright
+Количество песен: 1 
+2017-03-13 18:42:07.7690|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Sammy Kershaw
+Количество песен: 1 
+2017-03-13 18:42:07.7690|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Асан?лі К?шеров
+Количество песен: 1 
+2017-03-13 18:42:07.7690|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: HTM
+Количество песен: 1 
+2017-03-13 18:42:07.7690|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Кино
+Количество песен: 263 
+2017-03-13 18:42:07.7690|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Песни у костра
+Количество песен: 539 
+2017-03-13 18:42:07.7690|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: ДДТ
+Количество песен: 553 
+2017-03-13 18:42:07.7690|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Сплин
+Количество песен: 453 
+2017-03-13 18:42:07.7690|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Песни из кино и мультфильмов
+Количество песен: 741 
+2017-03-13 18:42:07.7690|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Сектор Газа
+Количество песен: 288 
+2017-03-13 18:42:07.7690|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Гражданская Оборона
+Количество песен: 459 
+2017-03-13 18:42:07.7690|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Любэ
+Количество песен: 191 
+2017-03-13 18:42:07.7690|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Разные песни
+Количество песен: 1178 
+2017-03-13 18:42:07.7690|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Ария
+Количество песен: 321 
+2017-03-13 18:42:07.7690|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Король и Шут
+Количество песен: 468 
+2017-03-13 18:42:07.7690|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Наутилус Помпилиус
+Количество песен: 248 
+2017-03-13 18:42:07.7690|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Розенбаум Александр
+Количество песен: 490 
+2017-03-13 18:42:07.7690|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Агата Кристи
+Количество песен: 233 
+2017-03-13 18:42:07.7690|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: 5nizza
+Количество песен: 134 
+2017-03-13 18:42:07.7690|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Чиж
+Количество песен: 342 
+2017-03-13 18:42:07.7690|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Ляпис Трубецкой
+Количество песен: 201 
+2017-03-13 18:42:07.7690|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Аквариум
+Количество песен: 811 
+2017-03-13 18:42:19.4162|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Jaron Lowenstein
+Количество песен: 1 
+2017-03-13 18:42:19.4318|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Lea Salonga
+Количество песен: 1 
+2017-03-13 18:42:19.4318|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Eric Bibb
+Количество песен: 1 
+2017-03-13 18:42:19.4318|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: DiscoPraise
+Количество песен: 1 
+2017-03-13 18:42:19.4318|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Skeeter Davis
+Количество песен: 1 
+2017-03-13 18:42:19.4318|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Emma6
+Количество песен: 1 
+2017-03-13 18:42:19.4318|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Riley Green
+Количество песен: 1 
+2017-03-13 18:42:19.4318|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Steel Panther
+Количество песен: 1 
+2017-03-13 18:42:19.4318|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Michelle Wright
+Количество песен: 1 
+2017-03-13 18:42:19.4318|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Sammy Kershaw
+Количество песен: 1 
+2017-03-13 18:42:19.4318|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Асан?лі К?шеров
+Количество песен: 1 
+2017-03-13 18:42:19.4318|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: HTM
+Количество песен: 1 
+2017-03-13 18:42:19.4318|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Кино
+Количество песен: 263 
+2017-03-13 18:42:19.4318|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Песни у костра
+Количество песен: 539 
+2017-03-13 18:42:19.4318|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: ДДТ
+Количество песен: 553 
+2017-03-13 18:42:19.4318|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Сплин
+Количество песен: 453 
+2017-03-13 18:42:19.4318|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Песни из кино и мультфильмов
+Количество песен: 741 
+2017-03-13 18:42:19.4318|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Сектор Газа
+Количество песен: 288 
+2017-03-13 18:42:19.4318|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Гражданская Оборона
+Количество песен: 459 
+2017-03-13 18:42:19.4318|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Любэ
+Количество песен: 191 
+2017-03-13 18:42:19.4318|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Разные песни
+Количество песен: 1178 
+2017-03-13 18:42:19.4318|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Ария
+Количество песен: 321 
+2017-03-13 18:42:19.4318|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Король и Шут
+Количество песен: 468 
+2017-03-13 18:42:19.4318|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Наутилус Помпилиус
+Количество песен: 248 
+2017-03-13 18:42:19.4318|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Розенбаум Александр
+Количество песен: 490 
+2017-03-13 18:42:19.4318|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Агата Кристи
+Количество песен: 233 
+2017-03-13 18:42:19.4318|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: 5nizza
+Количество песен: 134 
+2017-03-13 18:42:19.4318|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Чиж
+Количество песен: 342 
+2017-03-13 18:42:19.4318|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Ляпис Трубецкой
+Количество песен: 201 
+2017-03-13 18:42:19.4318|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Аквариум
+Количество песен: 811 
+2017-03-13 18:52:33.5042|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Jaron Lowenstein
+Количество песен: 1 
+2017-03-13 18:52:33.5277|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Lea Salonga
+Количество песен: 1 
+2017-03-13 18:52:33.5277|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Eric Bibb
+Количество песен: 1 
+2017-03-13 18:52:33.5277|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: DiscoPraise
+Количество песен: 1 
+2017-03-13 18:52:33.5277|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Skeeter Davis
+Количество песен: 1 
+2017-03-13 18:52:33.5277|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Emma6
+Количество песен: 1 
+2017-03-13 18:52:33.5277|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Riley Green
+Количество песен: 1 
+2017-03-13 18:52:33.5277|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Steel Panther
+Количество песен: 1 
+2017-03-13 18:52:33.5277|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Michelle Wright
+Количество песен: 1 
+2017-03-13 18:52:33.5277|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Sammy Kershaw
+Количество песен: 1 
+2017-03-13 18:52:33.5277|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Асан?лі К?шеров
+Количество песен: 1 
+2017-03-13 18:52:33.5277|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: HTM
+Количество песен: 1 
+2017-03-13 18:52:33.5277|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Кино
+Количество песен: 263 
+2017-03-13 18:52:33.5277|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Песни у костра
+Количество песен: 539 
+2017-03-13 18:52:33.5277|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: ДДТ
+Количество песен: 553 
+2017-03-13 18:52:33.5277|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Сплин
+Количество песен: 453 
+2017-03-13 18:52:33.5277|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Песни из кино и мультфильмов
+Количество песен: 741 
+2017-03-13 18:52:33.5277|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Сектор Газа
+Количество песен: 288 
+2017-03-13 18:52:33.5277|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Гражданская Оборона
+Количество песен: 459 
+2017-03-13 18:52:33.5277|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Любэ
+Количество песен: 191 
+2017-03-13 18:52:33.5277|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Разные песни
+Количество песен: 1178 
+2017-03-13 18:52:33.5277|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Ария
+Количество песен: 321 
+2017-03-13 18:52:33.5277|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Король и Шут
+Количество песен: 468 
+2017-03-13 18:52:33.5277|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Наутилус Помпилиус
+Количество песен: 248 
+2017-03-13 18:52:33.5277|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Розенбаум Александр
+Количество песен: 490 
+2017-03-13 18:52:33.5277|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Агата Кристи
+Количество песен: 233 
+2017-03-13 18:52:33.5277|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: 5nizza
+Количество песен: 134 
+2017-03-13 18:52:33.5277|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Чиж
+Количество песен: 342 
+2017-03-13 18:52:33.5277|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Ляпис Трубецкой
+Количество песен: 201 
+2017-03-13 18:52:33.5277|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Аквариум
+Количество песен: 811 
+2017-03-13 19:00:09.3754|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Jaron Lowenstein
+Количество песен: 1 
+2017-03-13 19:00:09.4000|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Lea Salonga
+Количество песен: 1 
+2017-03-13 19:00:09.4000|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Eric Bibb
+Количество песен: 1 
+2017-03-13 19:00:09.4000|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: DiscoPraise
+Количество песен: 1 
+2017-03-13 19:00:09.4000|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Skeeter Davis
+Количество песен: 1 
+2017-03-13 19:00:09.4000|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Emma6
+Количество песен: 1 
+2017-03-13 19:00:09.4000|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Riley Green
+Количество песен: 1 
+2017-03-13 19:00:09.4000|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Steel Panther
+Количество песен: 1 
+2017-03-13 19:00:09.4000|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Michelle Wright
+Количество песен: 1 
+2017-03-13 19:00:09.4000|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Sammy Kershaw
+Количество песен: 1 
+2017-03-13 19:00:09.4000|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Асан?лі К?шеров
+Количество песен: 1 
+2017-03-13 19:00:09.4000|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: HTM
+Количество песен: 1 
+2017-03-13 19:00:09.4000|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Кино
+Количество песен: 263 
+2017-03-13 19:00:09.4000|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Песни у костра
+Количество песен: 539 
+2017-03-13 19:00:09.4000|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: ДДТ
+Количество песен: 553 
+2017-03-13 19:00:09.4000|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Сплин
+Количество песен: 453 
+2017-03-13 19:00:09.4000|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Песни из кино и мультфильмов
+Количество песен: 741 
+2017-03-13 19:00:09.4050|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Сектор Газа
+Количество песен: 288 
+2017-03-13 19:00:09.4050|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Гражданская Оборона
+Количество песен: 459 
+2017-03-13 19:00:09.4050|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Любэ
+Количество песен: 191 
+2017-03-13 19:00:09.4050|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Разные песни
+Количество песен: 1178 
+2017-03-13 19:00:09.4050|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Ария
+Количество песен: 321 
+2017-03-13 19:00:09.4050|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Король и Шут
+Количество песен: 468 
+2017-03-13 19:00:09.4050|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Наутилус Помпилиус
+Количество песен: 248 
+2017-03-13 19:00:09.4050|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Розенбаум Александр
+Количество песен: 490 
+2017-03-13 19:00:09.4050|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Агата Кристи
+Количество песен: 233 
+2017-03-13 19:00:09.4050|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: 5nizza
+Количество песен: 134 
+2017-03-13 19:00:09.4050|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Чиж
+Количество песен: 342 
+2017-03-13 19:00:09.4050|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Ляпис Трубецкой
+Количество песен: 201 
+2017-03-13 19:00:09.4050|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Аквариум
+Количество песен: 811 
+2017-03-13 19:02:05.5232|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Jaron Lowenstein
+Количество песен: 1 
+2017-03-13 19:02:05.5503|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Lea Salonga
+Количество песен: 1 
+2017-03-13 19:02:05.5503|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Eric Bibb
+Количество песен: 1 
+2017-03-13 19:02:05.5503|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: DiscoPraise
+Количество песен: 1 
+2017-03-13 19:02:05.5503|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Skeeter Davis
+Количество песен: 1 
+2017-03-13 19:02:05.5503|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Emma6
+Количество песен: 1 
+2017-03-13 19:02:05.5503|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Riley Green
+Количество песен: 1 
+2017-03-13 19:02:05.5503|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Steel Panther
+Количество песен: 1 
+2017-03-13 19:02:05.5503|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Michelle Wright
+Количество песен: 1 
+2017-03-13 19:02:05.5503|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Sammy Kershaw
+Количество песен: 1 
+2017-03-13 19:02:05.5503|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Асан?лі К?шеров
+Количество песен: 1 
+2017-03-13 19:02:05.5503|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: HTM
+Количество песен: 1 
+2017-03-13 19:02:05.5503|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Кино
+Количество песен: 263 
+2017-03-13 19:02:05.5503|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Песни у костра
+Количество песен: 539 
+2017-03-13 19:02:05.5503|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: ДДТ
+Количество песен: 553 
+2017-03-13 19:02:05.5503|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Сплин
+Количество песен: 453 
+2017-03-13 19:02:05.5503|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Песни из кино и мультфильмов
+Количество песен: 741 
+2017-03-13 19:02:05.5503|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Сектор Газа
+Количество песен: 288 
+2017-03-13 19:02:05.5503|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Гражданская Оборона
+Количество песен: 459 
+2017-03-13 19:02:05.5503|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Любэ
+Количество песен: 191 
+2017-03-13 19:02:05.5503|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Разные песни
+Количество песен: 1178 
+2017-03-13 19:02:05.5503|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Ария
+Количество песен: 321 
+2017-03-13 19:02:05.5503|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Король и Шут
+Количество песен: 468 
+2017-03-13 19:02:05.5503|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Наутилус Помпилиус
+Количество песен: 248 
+2017-03-13 19:02:05.5503|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Розенбаум Александр
+Количество песен: 490 
+2017-03-13 19:02:05.5503|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Агата Кристи
+Количество песен: 233 
+2017-03-13 19:02:05.5503|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: 5nizza
+Количество песен: 134 
+2017-03-13 19:02:05.5503|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Чиж
+Количество песен: 342 
+2017-03-13 19:02:05.5503|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Ляпис Трубецкой
+Количество песен: 201 
+2017-03-13 19:02:05.5503|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Аквариум
+Количество песен: 811 
+2017-03-13 19:07:41.2383|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Jaron Lowenstein
+Количество песен: 1 
+2017-03-13 19:07:41.2551|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Lea Salonga
+Количество песен: 1 
+2017-03-13 19:07:41.2551|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Eric Bibb
+Количество песен: 1 
+2017-03-13 19:07:41.2551|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: DiscoPraise
+Количество песен: 1 
+2017-03-13 19:07:41.2551|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Skeeter Davis
+Количество песен: 1 
+2017-03-13 19:07:41.2551|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Emma6
+Количество песен: 1 
+2017-03-13 19:07:41.2551|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Riley Green
+Количество песен: 1 
+2017-03-13 19:07:41.2551|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Steel Panther
+Количество песен: 1 
+2017-03-13 19:07:41.2551|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Michelle Wright
+Количество песен: 1 
+2017-03-13 19:07:41.2551|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Sammy Kershaw
+Количество песен: 1 
+2017-03-13 19:07:41.2551|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Асан?лі К?шеров
+Количество песен: 1 
+2017-03-13 19:07:41.2551|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: HTM
+Количество песен: 1 
+2017-03-13 19:07:41.2551|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Кино
+Количество песен: 263 
+2017-03-13 19:07:41.2551|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Песни у костра
+Количество песен: 539 
+2017-03-13 19:07:41.2551|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: ДДТ
+Количество песен: 553 
+2017-03-13 19:07:41.2551|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Сплин
+Количество песен: 453 
+2017-03-13 19:07:41.2551|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Песни из кино и мультфильмов
+Количество песен: 741 
+2017-03-13 19:07:41.2551|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Сектор Газа
+Количество песен: 288 
+2017-03-13 19:07:41.2551|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Гражданская Оборона
+Количество песен: 459 
+2017-03-13 19:07:41.2551|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Любэ
+Количество песен: 191 
+2017-03-13 19:07:41.2551|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Разные песни
+Количество песен: 1178 
+2017-03-13 19:07:41.2551|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Ария
+Количество песен: 321 
+2017-03-13 19:07:41.2551|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Король и Шут
+Количество песен: 468 
+2017-03-13 19:07:41.2551|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Наутилус Помпилиус
+Количество песен: 248 
+2017-03-13 19:07:41.2551|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Розенбаум Александр
+Количество песен: 490 
+2017-03-13 19:07:41.2551|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Агата Кристи
+Количество песен: 233 
+2017-03-13 19:07:41.2551|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: 5nizza
+Количество песен: 134 
+2017-03-13 19:07:41.2551|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Чиж
+Количество песен: 342 
+2017-03-13 19:07:41.2551|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Ляпис Трубецкой
+Количество песен: 201 
+2017-03-13 19:07:41.2551|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Аквариум
+Количество песен: 811 
+2017-03-13 19:08:06.8345|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Jaron Lowenstein
+Количество песен: 1 
+2017-03-13 19:08:06.8575|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Lea Salonga
+Количество песен: 1 
+2017-03-13 19:08:06.8575|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Eric Bibb
+Количество песен: 1 
+2017-03-13 19:08:06.8575|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: DiscoPraise
+Количество песен: 1 
+2017-03-13 19:08:06.8575|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Skeeter Davis
+Количество песен: 1 
+2017-03-13 19:08:06.8575|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Emma6
+Количество песен: 1 
+2017-03-13 19:08:06.8575|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Riley Green
+Количество песен: 1 
+2017-03-13 19:08:06.8575|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Steel Panther
+Количество песен: 1 
+2017-03-13 19:08:06.8575|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Michelle Wright
+Количество песен: 1 
+2017-03-13 19:08:06.8575|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Sammy Kershaw
+Количество песен: 1 
+2017-03-13 19:08:06.8605|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Асан?лі К?шеров
+Количество песен: 1 
+2017-03-13 19:08:06.8605|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: HTM
+Количество песен: 1 
+2017-03-13 19:08:06.8605|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Кино
+Количество песен: 263 
+2017-03-13 19:08:06.8605|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Песни у костра
+Количество песен: 539 
+2017-03-13 19:08:06.8605|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: ДДТ
+Количество песен: 553 
+2017-03-13 19:08:06.8605|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Сплин
+Количество песен: 453 
+2017-03-13 19:08:06.8605|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Песни из кино и мультфильмов
+Количество песен: 741 
+2017-03-13 19:08:06.8605|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Сектор Газа
+Количество песен: 288 
+2017-03-13 19:08:06.8605|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Гражданская Оборона
+Количество песен: 459 
+2017-03-13 19:08:06.8605|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Любэ
+Количество песен: 191 
+2017-03-13 19:08:06.8605|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Разные песни
+Количество песен: 1178 
+2017-03-13 19:08:06.8605|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Ария
+Количество песен: 321 
+2017-03-13 19:08:06.8605|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Король и Шут
+Количество песен: 468 
+2017-03-13 19:08:06.8605|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Наутилус Помпилиус
+Количество песен: 248 
+2017-03-13 19:08:06.8605|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Розенбаум Александр
+Количество песен: 490 
+2017-03-13 19:08:06.8605|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Агата Кристи
+Количество песен: 233 
+2017-03-13 19:08:06.8605|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: 5nizza
+Количество песен: 134 
+2017-03-13 19:08:06.8605|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Чиж
+Количество песен: 342 
+2017-03-13 19:08:06.8605|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Ляпис Трубецкой
+Количество песен: 201 
+2017-03-13 19:08:06.8605|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Аквариум
+Количество песен: 811 
+2017-03-13 19:18:09.2520|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Jaron Lowenstein
+Количество песен: 1 
+2017-03-13 19:18:09.2680|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Lea Salonga
+Количество песен: 1 
+2017-03-13 19:18:09.2680|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Eric Bibb
+Количество песен: 1 
+2017-03-13 19:18:09.2680|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: DiscoPraise
+Количество песен: 1 
+2017-03-13 19:18:09.2680|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Skeeter Davis
+Количество песен: 1 
+2017-03-13 19:18:09.2680|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Emma6
+Количество песен: 1 
+2017-03-13 19:18:09.2680|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Riley Green
+Количество песен: 1 
+2017-03-13 19:18:09.2680|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Steel Panther
+Количество песен: 1 
+2017-03-13 19:18:09.2680|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Michelle Wright
+Количество песен: 1 
+2017-03-13 19:18:09.2680|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Sammy Kershaw
+Количество песен: 1 
+2017-03-13 19:18:09.2680|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Асан?лі К?шеров
+Количество песен: 1 
+2017-03-13 19:18:09.2680|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: HTM
+Количество песен: 1 
+2017-03-13 19:18:09.2680|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Кино
+Количество песен: 263 
+2017-03-13 19:18:09.2680|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Песни у костра
+Количество песен: 539 
+2017-03-13 19:18:09.2680|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: ДДТ
+Количество песен: 553 
+2017-03-13 19:18:09.2680|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Сплин
+Количество песен: 453 
+2017-03-13 19:18:09.2680|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Песни из кино и мультфильмов
+Количество песен: 741 
+2017-03-13 19:18:09.2680|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Сектор Газа
+Количество песен: 288 
+2017-03-13 19:18:09.2680|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Гражданская Оборона
+Количество песен: 459 
+2017-03-13 19:18:09.2680|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Любэ
+Количество песен: 191 
+2017-03-13 19:18:09.2680|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Разные песни
+Количество песен: 1178 
+2017-03-13 19:18:09.2680|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Ария
+Количество песен: 321 
+2017-03-13 19:18:09.2680|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Король и Шут
+Количество песен: 468 
+2017-03-13 19:18:09.2680|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Наутилус Помпилиус
+Количество песен: 248 
+2017-03-13 19:18:09.2680|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Розенбаум Александр
+Количество песен: 490 
+2017-03-13 19:18:09.2680|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Агата Кристи
+Количество песен: 233 
+2017-03-13 19:18:09.2680|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: 5nizza
+Количество песен: 134 
+2017-03-13 19:18:09.2680|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Чиж
+Количество песен: 342 
+2017-03-13 19:18:09.2680|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Ляпис Трубецкой
+Количество песен: 201 
+2017-03-13 19:18:09.2770|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Аквариум
+Количество песен: 811 
+2017-03-13 19:19:08.2820|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Jaron Lowenstein
+Количество песен: 1 
+2017-03-13 19:19:08.2980|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Lea Salonga
+Количество песен: 1 
+2017-03-13 19:19:08.2980|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Eric Bibb
+Количество песен: 1 
+2017-03-13 19:19:08.2980|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: DiscoPraise
+Количество песен: 1 
+2017-03-13 19:19:08.2980|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Skeeter Davis
+Количество песен: 1 
+2017-03-13 19:19:08.2980|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Emma6
+Количество песен: 1 
+2017-03-13 19:19:08.2980|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Riley Green
+Количество песен: 1 
+2017-03-13 19:19:08.2980|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Steel Panther
+Количество песен: 1 
+2017-03-13 19:19:08.2980|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Michelle Wright
+Количество песен: 1 
+2017-03-13 19:19:08.2980|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Sammy Kershaw
+Количество песен: 1 
+2017-03-13 19:19:08.2980|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Асан?лі К?шеров
+Количество песен: 1 
+2017-03-13 19:19:08.2980|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: HTM
+Количество песен: 1 
+2017-03-13 19:19:08.2980|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Кино
+Количество песен: 263 
+2017-03-13 19:19:08.2980|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Песни у костра
+Количество песен: 539 
+2017-03-13 19:19:08.2980|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: ДДТ
+Количество песен: 553 
+2017-03-13 19:19:08.2980|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Сплин
+Количество песен: 453 
+2017-03-13 19:19:08.2980|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Песни из кино и мультфильмов
+Количество песен: 741 
+2017-03-13 19:19:08.2980|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Сектор Газа
+Количество песен: 288 
+2017-03-13 19:19:08.2980|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Гражданская Оборона
+Количество песен: 459 
+2017-03-13 19:19:08.2980|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Любэ
+Количество песен: 191 
+2017-03-13 19:19:08.2980|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Разные песни
+Количество песен: 1178 
+2017-03-13 19:19:08.2980|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Ария
+Количество песен: 321 
+2017-03-13 19:19:08.2980|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Король и Шут
+Количество песен: 468 
+2017-03-13 19:19:08.2980|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Наутилус Помпилиус
+Количество песен: 248 
+2017-03-13 19:19:08.2980|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Розенбаум Александр
+Количество песен: 490 
+2017-03-13 19:19:08.2980|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Агата Кристи
+Количество песен: 233 
+2017-03-13 19:19:08.2980|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: 5nizza
+Количество песен: 134 
+2017-03-13 19:19:08.2980|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Чиж
+Количество песен: 342 
+2017-03-13 19:19:08.2980|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Ляпис Трубецкой
+Количество песен: 201 
+2017-03-13 19:19:08.2980|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Аквариум
+Количество песен: 811 
+2017-03-13 19:20:08.4377|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Асан?лі К?шеров
+Количество песен: 1 
+2017-03-13 19:20:08.4597|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: HTM
+Количество песен: 1 
+2017-03-13 19:20:08.4597|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Jaron Lowenstein
+Количество песен: 1 
+2017-03-13 19:20:08.4597|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Lea Salonga
+Количество песен: 1 
+2017-03-13 19:20:08.4597|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Eric Bibb
+Количество песен: 1 
+2017-03-13 19:20:08.4597|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: DiscoPraise
+Количество песен: 1 
+2017-03-13 19:20:08.4597|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Skeeter Davis
+Количество песен: 1 
+2017-03-13 19:20:08.4597|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Emma6
+Количество песен: 1 
+2017-03-13 19:20:08.4597|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Riley Green
+Количество песен: 1 
+2017-03-13 19:20:08.4597|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Steel Panther
+Количество песен: 1 
+2017-03-13 19:20:08.4597|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Michelle Wright
+Количество песен: 1 
+2017-03-13 19:20:08.4637|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Sammy Kershaw
+Количество песен: 1 
+2017-03-13 19:20:08.4637|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Кино
+Количество песен: 263 
+2017-03-13 19:20:08.4637|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Песни у костра
+Количество песен: 539 
+2017-03-13 19:20:08.4637|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: ДДТ
+Количество песен: 553 
+2017-03-13 19:20:08.4637|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Сплин
+Количество песен: 453 
+2017-03-13 19:20:08.4637|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Песни из кино и мультфильмов
+Количество песен: 741 
+2017-03-13 19:20:08.4637|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Сектор Газа
+Количество песен: 288 
+2017-03-13 19:20:08.4637|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Гражданская Оборона
+Количество песен: 459 
+2017-03-13 19:20:08.4637|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Любэ
+Количество песен: 191 
+2017-03-13 19:20:08.4637|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Разные песни
+Количество песен: 1178 
+2017-03-13 19:20:08.4637|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Ария
+Количество песен: 321 
+2017-03-13 19:20:08.4637|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Король и Шут
+Количество песен: 468 
+2017-03-13 19:20:08.4637|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Наутилус Помпилиус
+Количество песен: 248 
+2017-03-13 19:20:08.4637|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Розенбаум Александр
+Количество песен: 490 
+2017-03-13 19:20:08.4637|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Агата Кристи
+Количество песен: 233 
+2017-03-13 19:20:08.4637|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: 5nizza
+Количество песен: 134 
+2017-03-13 19:20:08.4637|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Чиж
+Количество песен: 342 
+2017-03-13 19:20:08.4637|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Ляпис Трубецкой
+Количество песен: 201 
+2017-03-13 19:20:08.4637|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Аквариум
+Количество песен: 811 
+2017-03-13 19:21:08.2660|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Асан?лі К?шеров
+Количество песен: 1 
+2017-03-13 19:21:08.2910|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: HTM
+Количество песен: 1 
+2017-03-13 19:21:08.2920|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Jaron Lowenstein
+Количество песен: 1 
+2017-03-13 19:21:08.2920|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Lea Salonga
+Количество песен: 1 
+2017-03-13 19:21:08.2920|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Eric Bibb
+Количество песен: 1 
+2017-03-13 19:21:08.2920|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: DiscoPraise
+Количество песен: 1 
+2017-03-13 19:21:08.2920|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Skeeter Davis
+Количество песен: 1 
+2017-03-13 19:21:08.2920|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Emma6
+Количество песен: 1 
+2017-03-13 19:21:08.2920|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Riley Green
+Количество песен: 1 
+2017-03-13 19:21:08.2920|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Steel Panther
+Количество песен: 1 
+2017-03-13 19:21:08.2920|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Michelle Wright
+Количество песен: 1 
+2017-03-13 19:21:08.2920|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Sammy Kershaw
+Количество песен: 1 
+2017-03-13 19:21:08.2920|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Кино
+Количество песен: 263 
+2017-03-13 19:21:08.2920|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Песни у костра
+Количество песен: 539 
+2017-03-13 19:21:08.2920|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: ДДТ
+Количество песен: 553 
+2017-03-13 19:21:08.2920|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Сплин
+Количество песен: 453 
+2017-03-13 19:21:08.2920|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Песни из кино и мультфильмов
+Количество песен: 741 
+2017-03-13 19:21:08.2920|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Сектор Газа
+Количество песен: 288 
+2017-03-13 19:21:08.2920|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Гражданская Оборона
+Количество песен: 459 
+2017-03-13 19:21:08.2920|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Любэ
+Количество песен: 191 
+2017-03-13 19:21:08.2920|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Разные песни
+Количество песен: 1178 
+2017-03-13 19:21:08.2920|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Ария
+Количество песен: 321 
+2017-03-13 19:21:08.2920|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Король и Шут
+Количество песен: 468 
+2017-03-13 19:21:08.2920|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Наутилус Помпилиус
+Количество песен: 248 
+2017-03-13 19:21:08.2920|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Розенбаум Александр
+Количество песен: 490 
+2017-03-13 19:21:08.2920|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Агата Кристи
+Количество песен: 233 
+2017-03-13 19:21:08.2920|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: 5nizza
+Количество песен: 134 
+2017-03-13 19:21:08.2920|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Чиж
+Количество песен: 342 
+2017-03-13 19:21:08.2920|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Ляпис Трубецкой
+Количество песен: 201 
+2017-03-13 19:21:08.2920|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Аквариум
+Количество песен: 811 
+2017-03-13 19:22:08.2837|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Jaron Lowenstein
+Количество песен: 1 
+2017-03-13 19:22:08.3047|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Lea Salonga
+Количество песен: 1 
+2017-03-13 19:22:08.3047|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Eric Bibb
+Количество песен: 1 
+2017-03-13 19:22:08.3047|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: DiscoPraise
+Количество песен: 1 
+2017-03-13 19:22:08.3047|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Skeeter Davis
+Количество песен: 1 
+2017-03-13 19:22:08.3047|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Emma6
+Количество песен: 1 
+2017-03-13 19:22:08.3047|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Riley Green
+Количество песен: 1 
+2017-03-13 19:22:08.3047|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Steel Panther
+Количество песен: 1 
+2017-03-13 19:22:08.3047|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Michelle Wright
+Количество песен: 1 
+2017-03-13 19:22:08.3047|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Sammy Kershaw
+Количество песен: 1 
+2017-03-13 19:22:08.3047|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Асан?лі К?шеров
+Количество песен: 1 
+2017-03-13 19:22:08.3047|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: HTM
+Количество песен: 1 
+2017-03-13 19:22:08.3047|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Кино
+Количество песен: 263 
+2017-03-13 19:22:08.3047|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Песни у костра
+Количество песен: 539 
+2017-03-13 19:22:08.3087|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: ДДТ
+Количество песен: 553 
+2017-03-13 19:22:08.3087|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Сплин
+Количество песен: 453 
+2017-03-13 19:22:08.3087|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Песни из кино и мультфильмов
+Количество песен: 741 
+2017-03-13 19:22:08.3087|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Сектор Газа
+Количество песен: 288 
+2017-03-13 19:22:08.3087|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Гражданская Оборона
+Количество песен: 459 
+2017-03-13 19:22:08.3087|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Любэ
+Количество песен: 191 
+2017-03-13 19:22:08.3087|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Разные песни
+Количество песен: 1178 
+2017-03-13 19:22:08.3087|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Ария
+Количество песен: 321 
+2017-03-13 19:22:08.3087|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Король и Шут
+Количество песен: 468 
+2017-03-13 19:22:08.3087|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Наутилус Помпилиус
+Количество песен: 248 
+2017-03-13 19:22:08.3087|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Розенбаум Александр
+Количество песен: 490 
+2017-03-13 19:22:08.3087|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Агата Кристи
+Количество песен: 233 
+2017-03-13 19:22:08.3087|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: 5nizza
+Количество песен: 134 
+2017-03-13 19:22:08.3087|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Чиж
+Количество песен: 342 
+2017-03-13 19:22:08.3087|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Ляпис Трубецкой
+Количество песен: 201 
+2017-03-13 19:22:08.3087|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Аквариум
+Количество песен: 811 
+2017-03-13 19:23:08.2688|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Jaron Lowenstein
+Количество песен: 1 
+2017-03-13 19:23:08.2863|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Lea Salonga
+Количество песен: 1 
+2017-03-13 19:23:08.2863|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Eric Bibb
+Количество песен: 1 
+2017-03-13 19:23:08.2863|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: DiscoPraise
+Количество песен: 1 
+2017-03-13 19:23:08.2863|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Skeeter Davis
+Количество песен: 1 
+2017-03-13 19:23:08.2863|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Emma6
+Количество песен: 1 
+2017-03-13 19:23:08.2863|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Riley Green
+Количество песен: 1 
+2017-03-13 19:23:08.2863|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Steel Panther
+Количество песен: 1 
+2017-03-13 19:23:08.2863|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Michelle Wright
+Количество песен: 1 
+2017-03-13 19:23:08.2863|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Sammy Kershaw
+Количество песен: 1 
+2017-03-13 19:23:08.2863|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Асан?лі К?шеров
+Количество песен: 1 
+2017-03-13 19:23:08.2863|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: HTM
+Количество песен: 1 
+2017-03-13 19:23:08.2863|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Кино
+Количество песен: 263 
+2017-03-13 19:23:08.2863|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Песни у костра
+Количество песен: 539 
+2017-03-13 19:23:08.2863|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: ДДТ
+Количество песен: 553 
+2017-03-13 19:23:08.2863|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Сплин
+Количество песен: 453 
+2017-03-13 19:23:08.2863|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Песни из кино и мультфильмов
+Количество песен: 741 
+2017-03-13 19:23:08.2863|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Сектор Газа
+Количество песен: 288 
+2017-03-13 19:23:08.2863|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Гражданская Оборона
+Количество песен: 459 
+2017-03-13 19:23:08.2863|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Любэ
+Количество песен: 191 
+2017-03-13 19:23:08.2863|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Разные песни
+Количество песен: 1178 
+2017-03-13 19:23:08.2938|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Ария
+Количество песен: 321 
+2017-03-13 19:23:08.2938|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Король и Шут
+Количество песен: 468 
+2017-03-13 19:23:08.2938|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Наутилус Помпилиус
+Количество песен: 248 
+2017-03-13 19:23:08.2938|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Розенбаум Александр
+Количество песен: 490 
+2017-03-13 19:23:08.2938|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Агата Кристи
+Количество песен: 233 
+2017-03-13 19:23:08.2938|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: 5nizza
+Количество песен: 134 
+2017-03-13 19:23:08.2938|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Чиж
+Количество песен: 342 
+2017-03-13 19:23:08.2938|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Ляпис Трубецкой
+Количество песен: 201 
+2017-03-13 19:23:08.2938|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Аквариум
+Количество песен: 811 
+2017-03-13 19:24:08.2847|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Jaron Lowenstein
+Количество песен: 1 
+2017-03-13 19:24:08.3117|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Lea Salonga
+Количество песен: 1 
+2017-03-13 19:24:08.3117|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Eric Bibb
+Количество песен: 1 
+2017-03-13 19:24:08.3117|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: DiscoPraise
+Количество песен: 1 
+2017-03-13 19:24:08.3117|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Skeeter Davis
+Количество песен: 1 
+2017-03-13 19:24:08.3117|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Emma6
+Количество песен: 1 
+2017-03-13 19:24:08.3117|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Riley Green
+Количество песен: 1 
+2017-03-13 19:24:08.3117|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Steel Panther
+Количество песен: 1 
+2017-03-13 19:24:08.3117|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Michelle Wright
+Количество песен: 1 
+2017-03-13 19:24:08.3117|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Sammy Kershaw
+Количество песен: 1 
+2017-03-13 19:24:08.3117|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Асан?лі К?шеров
+Количество песен: 1 
+2017-03-13 19:24:08.3117|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: HTM
+Количество песен: 1 
+2017-03-13 19:24:08.3117|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Кино
+Количество песен: 263 
+2017-03-13 19:24:08.3117|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Песни у костра
+Количество песен: 539 
+2017-03-13 19:24:08.3117|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: ДДТ
+Количество песен: 553 
+2017-03-13 19:24:08.3117|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Сплин
+Количество песен: 453 
+2017-03-13 19:24:08.3117|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Песни из кино и мультфильмов
+Количество песен: 741 
+2017-03-13 19:24:08.3117|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Сектор Газа
+Количество песен: 288 
+2017-03-13 19:24:08.3117|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Гражданская Оборона
+Количество песен: 459 
+2017-03-13 19:24:08.3117|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Любэ
+Количество песен: 191 
+2017-03-13 19:24:08.3117|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Разные песни
+Количество песен: 1178 
+2017-03-13 19:24:08.3117|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Ария
+Количество песен: 321 
+2017-03-13 19:24:08.3117|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Король и Шут
+Количество песен: 468 
+2017-03-13 19:24:08.3117|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Наутилус Помпилиус
+Количество песен: 248 
+2017-03-13 19:24:08.3267|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Розенбаум Александр
+Количество песен: 490 
+2017-03-13 19:24:08.3267|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Агата Кристи
+Количество песен: 233 
+2017-03-13 19:24:08.3267|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: 5nizza
+Количество песен: 134 
+2017-03-13 19:24:08.3267|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Чиж
+Количество песен: 342 
+2017-03-13 19:24:08.3267|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Ляпис Трубецкой
+Количество песен: 201 
+2017-03-13 19:24:08.3267|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Аквариум
+Количество песен: 811 
+2017-03-13 19:25:08.2811|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Jaron Lowenstein
+Количество песен: 1 
+2017-03-13 19:25:08.2971|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Lea Salonga
+Количество песен: 1 
+2017-03-13 19:25:08.2971|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Eric Bibb
+Количество песен: 1 
+2017-03-13 19:25:08.2971|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: DiscoPraise
+Количество песен: 1 
+2017-03-13 19:25:08.2971|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Skeeter Davis
+Количество песен: 1 
+2017-03-13 19:25:08.2971|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Emma6
+Количество песен: 1 
+2017-03-13 19:25:08.2971|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Riley Green
+Количество песен: 1 
+2017-03-13 19:25:08.2971|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Steel Panther
+Количество песен: 1 
+2017-03-13 19:25:08.2971|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Michelle Wright
+Количество песен: 1 
+2017-03-13 19:25:08.2971|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Sammy Kershaw
+Количество песен: 1 
+2017-03-13 19:25:08.2971|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Асан?лі К?шеров
+Количество песен: 1 
+2017-03-13 19:25:08.2971|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: HTM
+Количество песен: 1 
+2017-03-13 19:25:08.2971|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Кино
+Количество песен: 263 
+2017-03-13 19:25:08.2971|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Песни у костра
+Количество песен: 539 
+2017-03-13 19:25:08.2971|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: ДДТ
+Количество песен: 553 
+2017-03-13 19:25:08.2971|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Сплин
+Количество песен: 453 
+2017-03-13 19:25:08.2971|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Песни из кино и мультфильмов
+Количество песен: 741 
+2017-03-13 19:25:08.2971|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Сектор Газа
+Количество песен: 288 
+2017-03-13 19:25:08.2971|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Гражданская Оборона
+Количество песен: 459 
+2017-03-13 19:25:08.2971|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Любэ
+Количество песен: 191 
+2017-03-13 19:25:08.2971|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Разные песни
+Количество песен: 1178 
+2017-03-13 19:25:08.2971|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Ария
+Количество песен: 321 
+2017-03-13 19:25:08.2971|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Король и Шут
+Количество песен: 468 
+2017-03-13 19:25:08.2971|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Наутилус Помпилиус
+Количество песен: 248 
+2017-03-13 19:25:08.2971|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Розенбаум Александр
+Количество песен: 490 
+2017-03-13 19:25:08.2971|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Агата Кристи
+Количество песен: 233 
+2017-03-13 19:25:08.2971|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: 5nizza
+Количество песен: 134 
+2017-03-13 19:25:08.2971|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Чиж
+Количество песен: 342 
+2017-03-13 19:25:08.2971|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Ляпис Трубецкой
+Количество песен: 201 
+2017-03-13 19:25:08.2971|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Аквариум
+Количество песен: 811 
+2017-03-13 19:26:08.2730|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Jaron Lowenstein
+Количество песен: 1 
+2017-03-13 19:26:08.2951|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Lea Salonga
+Количество песен: 1 
+2017-03-13 19:26:08.2951|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Eric Bibb
+Количество песен: 1 
+2017-03-13 19:26:08.2951|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: DiscoPraise
+Количество песен: 1 
+2017-03-13 19:26:08.2951|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Skeeter Davis
+Количество песен: 1 
+2017-03-13 19:26:08.2951|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Emma6
+Количество песен: 1 
+2017-03-13 19:26:08.2951|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Riley Green
+Количество песен: 1 
+2017-03-13 19:26:08.2951|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Steel Panther
+Количество песен: 1 
+2017-03-13 19:26:08.2951|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Michelle Wright
+Количество песен: 1 
+2017-03-13 19:26:08.2981|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Sammy Kershaw
+Количество песен: 1 
+2017-03-13 19:26:08.2981|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Асан?лі К?шеров
+Количество песен: 1 
+2017-03-13 19:26:08.2981|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: HTM
+Количество песен: 1 
+2017-03-13 19:26:08.2981|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Кино
+Количество песен: 263 
+2017-03-13 19:26:08.2981|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Песни у костра
+Количество песен: 539 
+2017-03-13 19:26:08.2981|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: ДДТ
+Количество песен: 553 
+2017-03-13 19:26:08.2981|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Сплин
+Количество песен: 453 
+2017-03-13 19:26:08.2981|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Песни из кино и мультфильмов
+Количество песен: 741 
+2017-03-13 19:26:08.2981|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Сектор Газа
+Количество песен: 288 
+2017-03-13 19:26:08.2981|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Гражданская Оборона
+Количество песен: 459 
+2017-03-13 19:26:08.2981|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Любэ
+Количество песен: 191 
+2017-03-13 19:26:08.2981|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Разные песни
+Количество песен: 1178 
+2017-03-13 19:26:08.2981|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Ария
+Количество песен: 321 
+2017-03-13 19:26:08.2981|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Король и Шут
+Количество песен: 468 
+2017-03-13 19:26:08.2981|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Наутилус Помпилиус
+Количество песен: 248 
+2017-03-13 19:26:08.2981|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Розенбаум Александр
+Количество песен: 490 
+2017-03-13 19:26:08.2981|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Агата Кристи
+Количество песен: 233 
+2017-03-13 19:26:08.2981|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: 5nizza
+Количество песен: 134 
+2017-03-13 19:26:08.2981|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Чиж
+Количество песен: 342 
+2017-03-13 19:26:08.2981|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Ляпис Трубецкой
+Количество песен: 201 
+2017-03-13 19:26:08.2981|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Аквариум
+Количество песен: 811 
+2017-03-13 19:27:08.2867|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Jaron Lowenstein
+Количество песен: 1 
+2017-03-13 19:27:08.3027|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Lea Salonga
+Количество песен: 1 
+2017-03-13 19:27:08.3027|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Eric Bibb
+Количество песен: 1 
+2017-03-13 19:27:08.3027|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: DiscoPraise
+Количество песен: 1 
+2017-03-13 19:27:08.3027|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Skeeter Davis
+Количество песен: 1 
+2017-03-13 19:27:08.3027|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Emma6
+Количество песен: 1 
+2017-03-13 19:27:08.3027|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Riley Green
+Количество песен: 1 
+2017-03-13 19:27:08.3027|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Steel Panther
+Количество песен: 1 
+2017-03-13 19:27:08.3027|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Michelle Wright
+Количество песен: 1 
+2017-03-13 19:27:08.3027|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Sammy Kershaw
+Количество песен: 1 
+2017-03-13 19:27:08.3027|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Асан?лі К?шеров
+Количество песен: 1 
+2017-03-13 19:27:08.3027|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: HTM
+Количество песен: 1 
+2017-03-13 19:27:08.3027|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Кино
+Количество песен: 263 
+2017-03-13 19:27:08.3027|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Песни у костра
+Количество песен: 539 
+2017-03-13 19:27:08.3027|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: ДДТ
+Количество песен: 553 
+2017-03-13 19:27:08.3027|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Сплин
+Количество песен: 453 
+2017-03-13 19:27:08.3027|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Песни из кино и мультфильмов
+Количество песен: 741 
+2017-03-13 19:27:08.3027|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Сектор Газа
+Количество песен: 288 
+2017-03-13 19:27:08.3027|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Гражданская Оборона
+Количество песен: 459 
+2017-03-13 19:27:08.3027|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Любэ
+Количество песен: 191 
+2017-03-13 19:27:08.3027|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Разные песни
+Количество песен: 1178 
+2017-03-13 19:27:08.3027|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Ария
+Количество песен: 321 
+2017-03-13 19:27:08.3027|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Король и Шут
+Количество песен: 468 
+2017-03-13 19:27:08.3027|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Наутилус Помпилиус
+Количество песен: 248 
+2017-03-13 19:27:08.3027|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Розенбаум Александр
+Количество песен: 490 
+2017-03-13 19:27:08.3027|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Агата Кристи
+Количество песен: 233 
+2017-03-13 19:27:08.3027|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: 5nizza
+Количество песен: 134 
+2017-03-13 19:27:08.3027|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Чиж
+Количество песен: 342 
+2017-03-13 19:27:08.3027|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Ляпис Трубецкой
+Количество песен: 201 
+2017-03-13 19:27:08.3027|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Аквариум
+Количество песен: 811 
+2017-03-13 19:28:08.3649|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Jaron Lowenstein
+Количество песен: 1 
+2017-03-13 19:28:08.3814|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Lea Salonga
+Количество песен: 1 
+2017-03-13 19:28:08.3814|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Eric Bibb
+Количество песен: 1 
+2017-03-13 19:28:08.3814|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: DiscoPraise
+Количество песен: 1 
+2017-03-13 19:28:08.3814|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Skeeter Davis
+Количество песен: 1 
+2017-03-13 19:28:08.3814|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Emma6
+Количество песен: 1 
+2017-03-13 19:28:08.3814|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Riley Green
+Количество песен: 1 
+2017-03-13 19:28:08.3814|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Steel Panther
+Количество песен: 1 
+2017-03-13 19:28:08.3814|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Michelle Wright
+Количество песен: 1 
+2017-03-13 19:28:08.3814|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Sammy Kershaw
+Количество песен: 1 
+2017-03-13 19:28:08.3814|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Асан?лі К?шеров
+Количество песен: 1 
+2017-03-13 19:28:08.3814|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: HTM
+Количество песен: 1 
+2017-03-13 19:28:08.3814|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Кино
+Количество песен: 263 
+2017-03-13 19:28:08.3814|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Песни у костра
+Количество песен: 539 
+2017-03-13 19:28:08.3814|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: ДДТ
+Количество песен: 553 
+2017-03-13 19:28:08.3814|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Сплин
+Количество песен: 453 
+2017-03-13 19:28:08.3814|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Песни из кино и мультфильмов
+Количество песен: 741 
+2017-03-13 19:28:08.3814|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Сектор Газа
+Количество песен: 288 
+2017-03-13 19:28:08.3814|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Гражданская Оборона
+Количество песен: 459 
+2017-03-13 19:28:08.3814|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Любэ
+Количество песен: 191 
+2017-03-13 19:28:08.3814|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Разные песни
+Количество песен: 1178 
+2017-03-13 19:28:08.3814|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Ария
+Количество песен: 321 
+2017-03-13 19:28:08.3814|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Король и Шут
+Количество песен: 468 
+2017-03-13 19:28:08.3814|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Наутилус Помпилиус
+Количество песен: 248 
+2017-03-13 19:28:08.3814|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Розенбаум Александр
+Количество песен: 490 
+2017-03-13 19:28:08.3814|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Агата Кристи
+Количество песен: 233 
+2017-03-13 19:28:08.3814|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: 5nizza
+Количество песен: 134 
+2017-03-13 19:28:08.3814|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Чиж
+Количество песен: 342 
+2017-03-13 19:28:08.3814|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Ляпис Трубецкой
+Количество песен: 201 
+2017-03-13 19:28:08.3814|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Аквариум
+Количество песен: 811 
+2017-03-13 19:29:08.3049|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Jaron Lowenstein
+Количество песен: 1 
+2017-03-13 19:29:08.3219|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Lea Salonga
+Количество песен: 1 
+2017-03-13 19:29:08.3219|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Eric Bibb
+Количество песен: 1 
+2017-03-13 19:29:08.3219|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: DiscoPraise
+Количество песен: 1 
+2017-03-13 19:29:08.3219|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Skeeter Davis
+Количество песен: 1 
+2017-03-13 19:29:08.3219|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Emma6
+Количество песен: 1 
+2017-03-13 19:29:08.3219|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Riley Green
+Количество песен: 1 
+2017-03-13 19:29:08.3219|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Steel Panther
+Количество песен: 1 
+2017-03-13 19:29:08.3219|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Michelle Wright
+Количество песен: 1 
+2017-03-13 19:29:08.3219|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Sammy Kershaw
+Количество песен: 1 
+2017-03-13 19:29:08.3219|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Асан?лі К?шеров
+Количество песен: 1 
+2017-03-13 19:29:08.3219|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: HTM
+Количество песен: 1 
+2017-03-13 19:29:08.3219|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Кино
+Количество песен: 263 
+2017-03-13 19:29:08.3219|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Песни у костра
+Количество песен: 539 
+2017-03-13 19:29:08.3219|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: ДДТ
+Количество песен: 553 
+2017-03-13 19:29:08.3219|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Сплин
+Количество песен: 453 
+2017-03-13 19:29:08.3219|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Песни из кино и мультфильмов
+Количество песен: 741 
+2017-03-13 19:29:08.3219|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Сектор Газа
+Количество песен: 288 
+2017-03-13 19:29:08.3219|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Гражданская Оборона
+Количество песен: 459 
+2017-03-13 19:29:08.3219|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Любэ
+Количество песен: 191 
+2017-03-13 19:29:08.3219|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Разные песни
+Количество песен: 1178 
+2017-03-13 19:29:08.3219|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Ария
+Количество песен: 321 
+2017-03-13 19:29:08.3219|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Король и Шут
+Количество песен: 468 
+2017-03-13 19:29:08.3219|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Наутилус Помпилиус
+Количество песен: 248 
+2017-03-13 19:29:08.3219|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Розенбаум Александр
+Количество песен: 490 
+2017-03-13 19:29:08.3219|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Агата Кристи
+Количество песен: 233 
+2017-03-13 19:29:08.3219|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: 5nizza
+Количество песен: 134 
+2017-03-13 19:29:08.3219|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Чиж
+Количество песен: 342 
+2017-03-13 19:29:08.3219|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Ляпис Трубецкой
+Количество песен: 201 
+2017-03-13 19:29:08.3219|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Аквариум
+Количество песен: 811 
+2017-03-13 19:30:08.3095|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Jaron Lowenstein
+Количество песен: 1 
+2017-03-13 19:30:08.3315|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Lea Salonga
+Количество песен: 1 
+2017-03-13 19:30:08.3315|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Eric Bibb
+Количество песен: 1 
+2017-03-13 19:30:08.3315|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: DiscoPraise
+Количество песен: 1 
+2017-03-13 19:30:08.3315|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Skeeter Davis
+Количество песен: 1 
+2017-03-13 19:30:08.3315|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Emma6
+Количество песен: 1 
+2017-03-13 19:30:08.3315|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Riley Green
+Количество песен: 1 
+2017-03-13 19:30:08.3315|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Steel Panther
+Количество песен: 1 
+2017-03-13 19:30:08.3315|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Michelle Wright
+Количество песен: 1 
+2017-03-13 19:30:08.3315|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Sammy Kershaw
+Количество песен: 1 
+2017-03-13 19:30:08.3315|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Асан?лі К?шеров
+Количество песен: 1 
+2017-03-13 19:30:08.3315|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: HTM
+Количество песен: 1 
+2017-03-13 19:30:08.3315|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Кино
+Количество песен: 263 
+2017-03-13 19:30:08.3315|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Песни у костра
+Количество песен: 539 
+2017-03-13 19:30:08.3365|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: ДДТ
+Количество песен: 553 
+2017-03-13 19:30:08.3365|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Сплин
+Количество песен: 453 
+2017-03-13 19:30:08.3365|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Песни из кино и мультфильмов
+Количество песен: 741 
+2017-03-13 19:30:08.3365|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Сектор Газа
+Количество песен: 288 
+2017-03-13 19:30:08.3365|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Гражданская Оборона
+Количество песен: 459 
+2017-03-13 19:30:08.3365|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Любэ
+Количество песен: 191 
+2017-03-13 19:30:08.3365|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Разные песни
+Количество песен: 1178 
+2017-03-13 19:30:08.3365|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Ария
+Количество песен: 321 
+2017-03-13 19:30:08.3365|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Король и Шут
+Количество песен: 468 
+2017-03-13 19:30:08.3365|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Наутилус Помпилиус
+Количество песен: 248 
+2017-03-13 19:30:08.3365|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Розенбаум Александр
+Количество песен: 490 
+2017-03-13 19:30:08.3365|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Агата Кристи
+Количество песен: 233 
+2017-03-13 19:30:08.3365|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: 5nizza
+Количество песен: 134 
+2017-03-13 19:30:08.3365|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Чиж
+Количество песен: 342 
+2017-03-13 19:30:08.3365|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Ляпис Трубецкой
+Количество песен: 201 
+2017-03-13 19:30:08.3365|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Аквариум
+Количество песен: 811 
+2017-03-13 19:31:08.2671|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Jaron Lowenstein
+Количество песен: 1 
+2017-03-13 19:31:08.2832|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Lea Salonga
+Количество песен: 1 
+2017-03-13 19:31:08.2832|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Eric Bibb
+Количество песен: 1 
+2017-03-13 19:31:08.2832|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: DiscoPraise
+Количество песен: 1 
+2017-03-13 19:31:08.2832|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Skeeter Davis
+Количество песен: 1 
+2017-03-13 19:31:08.2832|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Emma6
+Количество песен: 1 
+2017-03-13 19:31:08.2832|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Riley Green
+Количество песен: 1 
+2017-03-13 19:31:08.2832|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Steel Panther
+Количество песен: 1 
+2017-03-13 19:31:08.2832|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Michelle Wright
+Количество песен: 1 
+2017-03-13 19:31:08.2832|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Sammy Kershaw
+Количество песен: 1 
+2017-03-13 19:31:08.2832|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Асан?лі К?шеров
+Количество песен: 1 
+2017-03-13 19:31:08.2832|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: HTM
+Количество песен: 1 
+2017-03-13 19:31:08.2832|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Кино
+Количество песен: 263 
+2017-03-13 19:31:08.2832|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Песни у костра
+Количество песен: 539 
+2017-03-13 19:31:08.2832|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: ДДТ
+Количество песен: 553 
+2017-03-13 19:31:08.2832|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Сплин
+Количество песен: 453 
+2017-03-13 19:31:08.2832|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Песни из кино и мультфильмов
+Количество песен: 741 
+2017-03-13 19:31:08.2832|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Сектор Газа
+Количество песен: 288 
+2017-03-13 19:31:08.2832|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Гражданская Оборона
+Количество песен: 459 
+2017-03-13 19:31:08.2832|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Любэ
+Количество песен: 191 
+2017-03-13 19:31:08.2832|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Разные песни
+Количество песен: 1178 
+2017-03-13 19:31:08.2832|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Ария
+Количество песен: 321 
+2017-03-13 19:31:08.2832|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Король и Шут
+Количество песен: 468 
+2017-03-13 19:31:08.2832|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Наутилус Помпилиус
+Количество песен: 248 
+2017-03-13 19:31:08.2832|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Розенбаум Александр
+Количество песен: 490 
+2017-03-13 19:31:08.2832|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Агата Кристи
+Количество песен: 233 
+2017-03-13 19:31:08.2832|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: 5nizza
+Количество песен: 134 
+2017-03-13 19:31:08.2832|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Чиж
+Количество песен: 342 
+2017-03-13 19:31:08.2832|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Ляпис Трубецкой
+Количество песен: 201 
+2017-03-13 19:31:08.2832|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Аквариум
+Количество песен: 811 
+2017-03-13 19:32:08.3843|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Jaron Lowenstein
+Количество песен: 1 
+2017-03-13 19:32:08.4053|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Lea Salonga
+Количество песен: 1 
+2017-03-13 19:32:08.4053|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Eric Bibb
+Количество песен: 1 
+2017-03-13 19:32:08.4053|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: DiscoPraise
+Количество песен: 1 
+2017-03-13 19:32:08.4053|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Skeeter Davis
+Количество песен: 1 
+2017-03-13 19:32:08.4053|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Emma6
+Количество песен: 1 
+2017-03-13 19:32:08.4053|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Riley Green
+Количество песен: 1 
+2017-03-13 19:32:08.4053|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Steel Panther
+Количество песен: 1 
+2017-03-13 19:32:08.4053|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Michelle Wright
+Количество песен: 1 
+2017-03-13 19:32:08.4053|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Sammy Kershaw
+Количество песен: 1 
+2017-03-13 19:32:08.4053|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Асан?лі К?шеров
+Количество песен: 1 
+2017-03-13 19:32:08.4053|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: HTM
+Количество песен: 1 
+2017-03-13 19:32:08.4053|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Кино
+Количество песен: 263 
+2017-03-13 19:32:08.4053|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Песни у костра
+Количество песен: 539 
+2017-03-13 19:32:08.4053|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: ДДТ
+Количество песен: 553 
+2017-03-13 19:32:08.4053|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Сплин
+Количество песен: 453 
+2017-03-13 19:32:08.4053|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Песни из кино и мультфильмов
+Количество песен: 741 
+2017-03-13 19:32:08.4053|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Сектор Газа
+Количество песен: 288 
+2017-03-13 19:32:08.4053|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Гражданская Оборона
+Количество песен: 459 
+2017-03-13 19:32:08.4053|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Любэ
+Количество песен: 191 
+2017-03-13 19:32:08.4053|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Разные песни
+Количество песен: 1178 
+2017-03-13 19:32:08.4053|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Ария
+Количество песен: 321 
+2017-03-13 19:32:08.4053|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Король и Шут
+Количество песен: 468 
+2017-03-13 19:32:08.4053|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Наутилус Помпилиус
+Количество песен: 248 
+2017-03-13 19:32:08.4053|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Розенбаум Александр
+Количество песен: 490 
+2017-03-13 19:32:08.4053|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Агата Кристи
+Количество песен: 233 
+2017-03-13 19:32:08.4053|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: 5nizza
+Количество песен: 134 
+2017-03-13 19:32:08.4053|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Чиж
+Количество песен: 342 
+2017-03-13 19:32:08.4053|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Ляпис Трубецкой
+Количество песен: 201 
+2017-03-13 19:32:08.4053|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Аквариум
+Количество песен: 811 
+2017-03-13 19:33:08.3162|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Jaron Lowenstein
+Количество песен: 1 
+2017-03-13 19:33:08.3332|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Lea Salonga
+Количество песен: 1 
+2017-03-13 19:33:08.3332|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Eric Bibb
+Количество песен: 1 
+2017-03-13 19:33:08.3332|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: DiscoPraise
+Количество песен: 1 
+2017-03-13 19:33:08.3332|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Skeeter Davis
+Количество песен: 1 
+2017-03-13 19:33:08.3332|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Emma6
+Количество песен: 1 
+2017-03-13 19:33:08.3332|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Riley Green
+Количество песен: 1 
+2017-03-13 19:33:08.3332|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Steel Panther
+Количество песен: 1 
+2017-03-13 19:33:08.3332|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Michelle Wright
+Количество песен: 1 
+2017-03-13 19:33:08.3332|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Sammy Kershaw
+Количество песен: 1 
+2017-03-13 19:33:08.3332|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Асан?лі К?шеров
+Количество песен: 1 
+2017-03-13 19:33:08.3332|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: HTM
+Количество песен: 1 
+2017-03-13 19:33:08.3332|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Кино
+Количество песен: 263 
+2017-03-13 19:33:08.3332|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Песни у костра
+Количество песен: 539 
+2017-03-13 19:33:08.3332|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: ДДТ
+Количество песен: 553 
+2017-03-13 19:33:08.3332|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Сплин
+Количество песен: 453 
+2017-03-13 19:33:08.3332|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Песни из кино и мультфильмов
+Количество песен: 741 
+2017-03-13 19:33:08.3332|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Сектор Газа
+Количество песен: 288 
+2017-03-13 19:33:08.3332|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Гражданская Оборона
+Количество песен: 459 
+2017-03-13 19:33:08.3332|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Любэ
+Количество песен: 191 
+2017-03-13 19:33:08.3332|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Разные песни
+Количество песен: 1178 
+2017-03-13 19:33:08.3332|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Ария
+Количество песен: 321 
+2017-03-13 19:33:08.3332|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Король и Шут
+Количество песен: 468 
+2017-03-13 19:33:08.3332|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Наутилус Помпилиус
+Количество песен: 248 
+2017-03-13 19:33:08.3332|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Розенбаум Александр
+Количество песен: 490 
+2017-03-13 19:33:08.3432|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Агата Кристи
+Количество песен: 233 
+2017-03-13 19:33:08.3432|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: 5nizza
+Количество песен: 134 
+2017-03-13 19:33:08.3432|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Чиж
+Количество песен: 342 
+2017-03-13 19:33:08.3432|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Ляпис Трубецкой
+Количество песен: 201 
+2017-03-13 19:33:08.3432|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Аквариум
+Количество песен: 811 
+2017-03-13 19:34:08.3154|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Jaron Lowenstein
+Количество песен: 1 
+2017-03-13 19:34:08.3344|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Lea Salonga
+Количество песен: 1 
+2017-03-13 19:34:08.3344|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Eric Bibb
+Количество песен: 1 
+2017-03-13 19:34:08.3344|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: DiscoPraise
+Количество песен: 1 
+2017-03-13 19:34:08.3344|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Skeeter Davis
+Количество песен: 1 
+2017-03-13 19:34:08.3344|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Emma6
+Количество песен: 1 
+2017-03-13 19:34:08.3344|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Riley Green
+Количество песен: 1 
+2017-03-13 19:34:08.3344|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Steel Panther
+Количество песен: 1 
+2017-03-13 19:34:08.3344|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Michelle Wright
+Количество песен: 1 
+2017-03-13 19:34:08.3344|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Sammy Kershaw
+Количество песен: 1 
+2017-03-13 19:34:08.3344|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Асан?лі К?шеров
+Количество песен: 1 
+2017-03-13 19:34:08.3344|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: HTM
+Количество песен: 1 
+2017-03-13 19:34:08.3344|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Кино
+Количество песен: 263 
+2017-03-13 19:34:08.3344|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Песни у костра
+Количество песен: 539 
+2017-03-13 19:34:08.3344|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: ДДТ
+Количество песен: 553 
+2017-03-13 19:34:08.3344|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Сплин
+Количество песен: 453 
+2017-03-13 19:34:08.3344|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Песни из кино и мультфильмов
+Количество песен: 741 
+2017-03-13 19:34:08.3344|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Сектор Газа
+Количество песен: 288 
+2017-03-13 19:34:08.3344|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Гражданская Оборона
+Количество песен: 459 
+2017-03-13 19:34:08.3344|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Любэ
+Количество песен: 191 
+2017-03-13 19:34:08.3344|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Разные песни
+Количество песен: 1178 
+2017-03-13 19:34:08.3344|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Ария
+Количество песен: 321 
+2017-03-13 19:34:08.3344|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Король и Шут
+Количество песен: 468 
+2017-03-13 19:34:08.3344|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Наутилус Помпилиус
+Количество песен: 248 
+2017-03-13 19:34:08.3344|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Розенбаум Александр
+Количество песен: 490 
+2017-03-13 19:34:08.3344|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Агата Кристи
+Количество песен: 233 
+2017-03-13 19:34:08.3344|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: 5nizza
+Количество песен: 134 
+2017-03-13 19:34:08.3344|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Чиж
+Количество песен: 342 
+2017-03-13 19:34:08.3344|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Ляпис Трубецкой
+Количество песен: 201 
+2017-03-13 19:34:08.3344|INFO|SongsLogicLayer.Services.LoggerService|
+Исполнитель: Аквариум
+Количество песен: 811 

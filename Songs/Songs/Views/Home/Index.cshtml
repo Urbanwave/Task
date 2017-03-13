@@ -5,9 +5,12 @@
 @model Songs.Models.MainPageModel
 
 <link href="../../Content/font-awesome.css" rel="stylesheet" />
+<script src="http://code.jquery.com/jquery-2.1.1.js"></script>
+<script src="http://code.jquery.com/ui/1.11.1/jquery-ui.js"></script>
 
 <div class="container">
     <h2>Топ исполнителей</h2>
+    <div><span id="notification" style="color:red;font-size:15px;"></span></div>
     <table class="table table-bordered">
         <thead>
             <tr>
@@ -50,3 +53,23 @@
         }
     </div>
 </div>
+
+@section scripts{
+    <script src="~/Scripts/jquery.signalR-2.2.1.min.js"></script>
+    <!--Ссылка на автоматически сгенерированный скрипт хаба SignalR -->
+    <script src="~/signalr/hubs"></script>
+    <script type="text/javascript">
+    $(function () {
+
+        var notificationhub = $.connection.TestHub;
+
+        notificationhub.client.displayMessage = function (message) {
+
+            $('#notification').html("<div class='alert alert-info'><strong>Info!</strong>" + "  Общее количество песен: " + message + "</div>")
+        };
+
+        $.connection.hub.start();
+
+    });
+    </script>
+}

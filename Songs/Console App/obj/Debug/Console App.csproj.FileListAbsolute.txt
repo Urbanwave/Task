@@ -1,0 +1,70 @@
+D:\Task\Songs\Console App\bin\Debug\Console App.exe.config
+D:\Task\Songs\Console App\bin\Debug\ApplicationInsights.config
+D:\Task\Songs\Console App\bin\Debug\roslyn\csc.exe
+D:\Task\Songs\Console App\bin\Debug\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Task\Songs\Console App\bin\Debug\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Task\Songs\Console App\bin\Debug\roslyn\Microsoft.CodeAnalysis.dll
+D:\Task\Songs\Console App\bin\Debug\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Task\Songs\Console App\bin\Debug\roslyn\Microsoft.CSharp.Core.targets
+D:\Task\Songs\Console App\bin\Debug\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Task\Songs\Console App\bin\Debug\roslyn\System.Collections.Immutable.dll
+D:\Task\Songs\Console App\bin\Debug\roslyn\System.Reflection.Metadata.dll
+D:\Task\Songs\Console App\bin\Debug\roslyn\vbc.exe
+D:\Task\Songs\Console App\bin\Debug\roslyn\VBCSCompiler.exe
+D:\Task\Songs\Console App\bin\Debug\roslyn\VBCSCompiler.exe.config
+D:\Task\Songs\Console App\bin\Debug\NLog.config
+D:\Task\Songs\Console App\bin\Debug\Console App.exe
+D:\Task\Songs\Console App\bin\Debug\Console App.pdb
+D:\Task\Songs\Console App\bin\Debug\Microsoft.AspNet.SignalR.Client.dll
+D:\Task\Songs\Console App\bin\Debug\Microsoft.AspNet.SignalR.Core.dll
+D:\Task\Songs\Console App\bin\Debug\Microsoft.AspNet.SignalR.SystemWeb.dll
+D:\Task\Songs\Console App\bin\Debug\Microsoft.Owin.dll
+D:\Task\Songs\Console App\bin\Debug\Microsoft.Owin.Host.HttpListener.dll
+D:\Task\Songs\Console App\bin\Debug\Microsoft.Owin.Host.SystemWeb.dll
+D:\Task\Songs\Console App\bin\Debug\Microsoft.Owin.Hosting.dll
+D:\Task\Songs\Console App\bin\Debug\Microsoft.Owin.Security.dll
+D:\Task\Songs\Console App\bin\Debug\Newtonsoft.Json.dll
+D:\Task\Songs\Console App\bin\Debug\NLog.dll
+D:\Task\Songs\Console App\bin\Debug\Owin.dll
+D:\Task\Songs\Console App\bin\Debug\Songs.dll
+D:\Task\Songs\Console App\bin\Debug\SongsLogicLayer.dll
+D:\Task\Songs\Console App\bin\Debug\HtmlAgilityPack.dll
+D:\Task\Songs\Console App\bin\Debug\SongsDBLayer.dll
+D:\Task\Songs\Console App\bin\Debug\AutoMapper.dll
+D:\Task\Songs\Console App\bin\Debug\System.Web.Optimization.dll
+D:\Task\Songs\Console App\bin\Debug\System.Web.Mvc.dll
+D:\Task\Songs\Console App\bin\Debug\EntityFramework.dll
+D:\Task\Songs\Console App\bin\Debug\WebGrease.dll
+D:\Task\Songs\Console App\bin\Debug\Microsoft.Web.Infrastructure.dll
+D:\Task\Songs\Console App\bin\Debug\System.Web.Razor.dll
+D:\Task\Songs\Console App\bin\Debug\System.Web.WebPages.Razor.dll
+D:\Task\Songs\Console App\bin\Debug\System.Web.WebPages.dll
+D:\Task\Songs\Console App\bin\Debug\Antlr3.Runtime.dll
+D:\Task\Songs\Console App\bin\Debug\System.Web.WebPages.Deployment.dll
+D:\Task\Songs\Console App\bin\Debug\SongsLogicLayer.pdb
+D:\Task\Songs\Console App\bin\Debug\Songs.pdb
+D:\Task\Songs\Console App\bin\Debug\Microsoft.AspNet.SignalR.Client.xml
+D:\Task\Songs\Console App\bin\Debug\Microsoft.AspNet.SignalR.Core.xml
+D:\Task\Songs\Console App\bin\Debug\Microsoft.AspNet.SignalR.SystemWeb.xml
+D:\Task\Songs\Console App\bin\Debug\Microsoft.Owin.xml
+D:\Task\Songs\Console App\bin\Debug\Microsoft.Owin.Host.HttpListener.xml
+D:\Task\Songs\Console App\bin\Debug\Microsoft.Owin.Host.SystemWeb.xml
+D:\Task\Songs\Console App\bin\Debug\Microsoft.Owin.Hosting.xml
+D:\Task\Songs\Console App\bin\Debug\Microsoft.Owin.Security.xml
+D:\Task\Songs\Console App\bin\Debug\Newtonsoft.Json.xml
+D:\Task\Songs\Console App\bin\Debug\NLog.xml
+D:\Task\Songs\Console App\bin\Debug\HtmlAgilityPack.pdb
+D:\Task\Songs\Console App\bin\Debug\HtmlAgilityPack.xml
+D:\Task\Songs\Console App\bin\Debug\SongsDBLayer.pdb
+D:\Task\Songs\Console App\bin\Debug\AutoMapper.xml
+D:\Task\Songs\Console App\bin\Debug\System.Web.Optimization.xml
+D:\Task\Songs\Console App\bin\Debug\System.Web.Mvc.xml
+D:\Task\Songs\Console App\bin\Debug\EntityFramework.xml
+D:\Task\Songs\Console App\bin\Debug\System.Web.Razor.xml
+D:\Task\Songs\Console App\bin\Debug\System.Web.WebPages.Razor.xml
+D:\Task\Songs\Console App\bin\Debug\System.Web.WebPages.xml
+D:\Task\Songs\Console App\bin\Debug\Antlr3.Runtime.pdb
+D:\Task\Songs\Console App\bin\Debug\System.Web.WebPages.Deployment.xml
+D:\Task\Songs\Console App\obj\Debug\Console App.csprojResolveAssemblyReference.cache
+D:\Task\Songs\Console App\obj\Debug\Console App.exe
+D:\Task\Songs\Console App\obj\Debug\Console App.pdb
